@@ -34,4 +34,7 @@ https://github.com/wordpress-mobile/WordPress-Android
 * GeekZooStudio/ECMobile_Android  
 https://github.com/GeekZooStudio/ECMobile_Android  
 
-
+* hwy1782/myWeixin  
+https://github.com/hwy1782/myWeixin  
+无线通（闭源，需反编译）  
+http://www.wandoujia.com/apps/cn.jpbirdy.myweixin  
