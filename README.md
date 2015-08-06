@@ -25,3 +25,13 @@ http://www.mobileui.cn
 
 * RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码  
 http://runjs.cn  
+
+## Android应用模板（顾己及人，只可借鉴界面思路和代码，切勿抄袭，慎之）
+
+* wordpress-mobile/WordPress-Android  
+https://github.com/wordpress-mobile/WordPress-Android 
+
+* GeekZooStudio/ECMobile_Android  
+https://github.com/GeekZooStudio/ECMobile_Android  
+
+
