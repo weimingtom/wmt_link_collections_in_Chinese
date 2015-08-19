@@ -19,7 +19,7 @@ Link collections for me, in Chinese
 (2) 我的实现（基于gles2）：  
 https://github.com/weimingtom/RuleTransitionDemo  
 
-* 缓动公式（Tween，Easing，补间动画）
+* 缓动公式（Tween，Easing，补间动画）  
 (1) 说明：  
 来源于Flash的概念，一切浮点数属性皆可缓动（汗）    
 (2) 我的实现（基于Java AWT）：  
@@ -41,12 +41,14 @@ http://robertpenner.com/easing/
 * 打字机效果  
 (1) 说明：  
 来源于kirikiri和类似视觉小说游戏引擎的概念    
-(1) SRGNovelGameTexts  
+(2) SRGNovelGameTexts  
 https://github.com/kazu0620/SRGNovelGameTexts  
 
 * 视差滚动（Parallax Scrolling）
 
 * 回旋木马（Carousel，轮播）  
+(1) Bootstrap carousel   
+http://getbootstrap.com/javascript/#carousel  
 
 ## 二次元创作  
 
