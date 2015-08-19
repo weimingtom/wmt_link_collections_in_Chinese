@@ -1,5 +1,15 @@
-# wmt_link_collections_in_Chinese
+﻿# wmt_link_collections_in_Chinese
 Link collections for me, in Chinese
+
+## 创作基本原则  
+
+* **创新就是不做多此一举的事情**  
+
+* **艺术源于想象力和现实的矛盾**  
+
+* **美没有标准，不是所有人都喜欢美**  
+
+* **创作的乐趣在于分享，不在于自私**  
 
 ## 二次元创作  
 
