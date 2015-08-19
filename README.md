@@ -11,6 +11,43 @@ Link collections for me, in Chinese
 
 * **创作的乐趣在于分享，不在于自私**  
 
+## 游戏常用表现手法  
+
+* 规则过渡动画（Rule image）  
+(1) 说明：  
+场景转换图像文件，来源于kirikiri和类似视觉小说游戏引擎的概念    
+(2) 我的实现（基于gles2）：  
+https://github.com/weimingtom/RuleTransitionDemo  
+
+* 缓动公式（Tween，Easing，补间动画）
+(1) 说明：  
+来源于Flash的概念，一切浮点数属性皆可缓动（汗）    
+(2) 我的实现（基于Java AWT）：  
+https://github.com/weimingtom/FireTreeFrame  
+(3) Tweener  
+https://code.google.com/p/tweener/  
+(4) Robert Penner's Easing Functions    
+http://robertpenner.com/easing/  
+
+* 图片混合（Blending, blend mode）  
+(1) 说明：  
+来源于Flash图层的概念  
+(2) TODO:  
+
+* 寻路算法（Path finding）  
+
+* 斜45度算法（Isometric）
+
+* 打字机效果  
+(1) 说明：  
+来源于kirikiri和类似视觉小说游戏引擎的概念    
+(1) SRGNovelGameTexts  
+https://github.com/kazu0620/SRGNovelGameTexts  
+
+* 视差滚动（Parallax Scrolling）
+
+* 回旋木马（Carousel，轮播）  
+
 ## 二次元创作  
 
 * pixiv  
