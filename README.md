@@ -115,6 +115,8 @@ https://code.google.com/p/erica/
 * LingJiJian/Tui-x  
 https://github.com/LingJiJian/Tui-x  
 
+* Jason-lee-c/CocosWidget  
+https://github.com/Jason-lee-c/CocosWidget  
 
 ## TODO
 
