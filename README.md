@@ -43,6 +43,11 @@ http://robertpenner.com/easing/
 来源于kirikiri和类似视觉小说游戏引擎的概念    
 (2) SRGNovelGameTexts  
 https://github.com/kazu0620/SRGNovelGameTexts  
+(3) gear1554 / CCLabelAttributedBMFontTest  
+https://github.com/gear1554/CCLabelAttributedBMFontTest  
+http://anz-note.tumblr.com/post/78738162338/cocos2d-x-v3rpg%E9%A2%A8%E3%81%AB%E6%96%87%E5%AD%97%E3%82%921%E6%96%87%E5%AD%97%E3%81%9A%E3%81%A4%E8%A1%A8%E7%A4%BA-%CF%89%EF%BD%B6%EF%BE%9E%EF%BD%B5%EF%BD%B0  
+http://survive-engineer.hatenablog.com/entry/2014/02/13/013103  
+
 
 * 视差滚动（Parallax Scrolling）
 
