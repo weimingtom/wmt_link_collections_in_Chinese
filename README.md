@@ -112,5 +112,9 @@ https://github.com/dayongxie/cocos2d-x
 https://github.com/texus/TGUI  
 https://code.google.com/p/erica/  
 
+* LingJiJian/Tui-x  
+https://github.com/LingJiJian/Tui-x  
+
+
 ## TODO
 
