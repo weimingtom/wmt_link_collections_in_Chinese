@@ -108,5 +108,9 @@ https://code.google.com/p/begui/
 https://github.com/dayongxie/MyGUI  
 https://github.com/dayongxie/cocos2d-x  
 
+* TGUI
+https://github.com/texus/TGUI  
+https://code.google.com/p/erica/  
+
 ## TODO
 
