@@ -97,5 +97,16 @@ http://www.wandoujia.com/apps/cn.jpbirdy.myweixin
 * Coding-Game-Intro  
 https://github.com/albertz/Coding-Game-Intro  
 
+## 好看的游戏界面皮肤  
+* begui  
+https://code.google.com/p/begui/  
+
+* imgui  
+ https://github.com/ocornut/imgui  
+
+* dayongxie/MyGUI(需要它专用的cocos2d-x才可编译成功)  
+https://github.com/dayongxie/MyGUI  
+https://github.com/dayongxie/cocos2d-x  
+
 ## TODO
 
