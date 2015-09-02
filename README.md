@@ -121,5 +121,8 @@ https://github.com/Jason-lee-c/CocosWidget
 * 9miao/CrossApp（这个不是用于游戏的，仅供参考）  
 https://github.com/9miao/CrossApp  
 
+* OtterUI（带时间轴编辑器）  
+https://github.com/Twolewis/OtterUI  
+
 ## TODO
 
