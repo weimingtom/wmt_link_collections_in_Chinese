@@ -123,6 +123,7 @@ https://github.com/9miao/CrossApp
 
 * OtterUI（带时间轴编辑器）  
 https://github.com/Twolewis/OtterUI  
+http://www.twolewis.com/projects/otterui/help-1.3.6.3/index.html  
 
 ## TODO
 
