@@ -118,5 +118,8 @@ https://github.com/LingJiJian/Tui-x
 * Jason-lee-c/CocosWidget  
 https://github.com/Jason-lee-c/CocosWidget  
 
+* 9miao/CrossApp（这个不是用于游戏的，仅供参考）  
+https://github.com/9miao/CrossApp  
+
 ## TODO
 
