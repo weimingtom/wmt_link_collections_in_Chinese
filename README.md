@@ -152,5 +152,8 @@ http://memcached.org
 * EQ2Emulator  
 http://sourceforge.net/projects/eq2emulator/  
 
+* mysql-proxy（lua脚本驱动）  
+http://dev.mysql.com/downloads/mysql-proxy/  
+
 ## TODO  
 
