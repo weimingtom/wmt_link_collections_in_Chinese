@@ -140,5 +140,9 @@ call uglifyjs ^
 	-c -m -o ..\mobile\js\mobile.min.js  
 pause  
 
+## 服务器编程  
+* memcached  
+http://memcached.org  
+
 ## TODO
 
