@@ -31,14 +31,14 @@ http://robertpenner.com/easing/
 
 * 图片混合（Blending, blend mode）  
 (1) 说明：  
-来源于Flash图层的概念  
+来源于Photoshop图层的概念  
 (2) TODO:  
 
 * 寻路算法（Path finding）  
 
 * 斜45度算法（Isometric）  
 (1) 说明：  
-一些MMO Flash游戏的经典地图视觉，例如偷菜，通常伴随着寻路算法    
+一些MMO Flash游戏的经典地图视角（例如偷菜），通常伴随着寻路算法    
 (2) Mars, Land of No Mercy   
 http://sourceforge.net/projects/mars/  
 
