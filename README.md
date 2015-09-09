@@ -36,7 +36,12 @@ http://robertpenner.com/easing/
 
 * 寻路算法（Path finding）  
 
-* 斜45度算法（Isometric）
+* 斜45度算法（Isometric）  
+(1) 说明：  
+一些MMO Flash游戏的经典地图视觉，例如偷菜，通常伴随着寻路算法    
+(2) Mars, Land of No Mercy   
+http://sourceforge.net/projects/mars/  
+
 
 * 打字机效果  
 (1) 说明：  
