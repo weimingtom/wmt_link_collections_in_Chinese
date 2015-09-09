@@ -144,5 +144,8 @@ pause
 * memcached  
 http://memcached.org  
 
-## TODO
+* EQ2Emulator  
+http://sourceforge.net/projects/eq2emulator/  
+
+## TODO  
 
