@@ -155,5 +155,8 @@ http://sourceforge.net/projects/eq2emulator/
 * mysql-proxy（lua脚本驱动）  
 http://dev.mysql.com/downloads/mysql-proxy/  
 
+* SK_CardGameServer (手机游戏示例，cocos2d-x客户端也是开源的)  
+https://github.com/iTyran/SK_CardGameServer  
+
 ## TODO  
 
