@@ -158,5 +158,11 @@ http://dev.mysql.com/downloads/mysql-proxy/
 * SK_CardGameServer (手机游戏示例，cocos2d-x客户端也是开源的)  
 https://github.com/iTyran/SK_CardGameServer  
 
+* daogangtang/bamboo（Web框架）  
+https://github.com/daogangtang/bamboo  
+
+* sniperHW/Survive（手机游戏服务器）  
+https://github.com/sniperHW/Survive  
+
 ## TODO  
 
