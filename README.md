@@ -102,7 +102,7 @@ http://www.wandoujia.com/apps/cn.jpbirdy.myweixin
 * Coding-Game-Intro  
 https://github.com/albertz/Coding-Game-Intro  
 
-## 好看的游戏界面皮肤  
+## GUI库 / 好看的游戏界面皮肤  
 * begui  
 https://code.google.com/p/begui/  
 
@@ -129,6 +129,9 @@ https://github.com/9miao/CrossApp
 * OtterUI（带时间轴编辑器）  
 https://github.com/Twolewis/OtterUI  
 http://www.twolewis.com/projects/otterui/help-1.3.6.3/index.html  
+
+* Good GUI for OpenGL  
+http://gamedev.stackexchange.com/questions/3617/good-gui-for-opengl  
 
 ## 前端node.js开发工具  
 npm install -g clean-css  
