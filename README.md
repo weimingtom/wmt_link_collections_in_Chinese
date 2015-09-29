@@ -133,6 +133,17 @@ http://www.twolewis.com/projects/otterui/help-1.3.6.3/index.html
 * Good GUI for OpenGL  
 http://gamedev.stackexchange.com/questions/3617/good-gui-for-opengl  
 
+* rezaali/ofxUI  
+https://github.com/rezaali/ofxUI  
+
+* libRocket/libRocket  
+https://github.com/libRocket/libRocket  
+underdoeg/ofxLibRocket  
+https://github.com/underdoeg/ofxLibRocket  
+http://www.hahack.com/codes/openframeworks-intro/  
+FishingCactus/Rockete  
+https://github.com/FishingCactus/Rockete  
+
 ## 前端node.js开发工具  
 npm install -g clean-css  
 npm install -g uglify-js  
