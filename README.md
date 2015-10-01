@@ -193,7 +193,7 @@ https://github.com/tweecode/twine
 https://bitbucket.org/_L_/harlowe  
 https://bitbucket.org/klembot/twinejs  
 
-## 地图编辑器
+## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
 
@@ -204,5 +204,8 @@ http://download.csdn.net/detail/ppppl7/2055948
 http://download.csdn.net/detail/weifeihuang/3232287  
 https://github.com/tommypan/mapEditorCQUPT  
 https://github.com/cdr1111/XMapEditor  
+
+* tickbh / TickUIEditor  
+http://git.oschina.net/tickbh/TickUIEditor  
 
 ## TODO  
