@@ -208,4 +208,8 @@ https://github.com/cdr1111/XMapEditor
 * tickbh / TickUIEditor  
 http://git.oschina.net/tickbh/TickUIEditor  
 
+* gameboy12615/CCGEditor  
+http://www.cnblogs.com/marisa/p/4141862.html  
+https://github.com/gameboy12615/CCGEditor  
+
 ## TODO  
