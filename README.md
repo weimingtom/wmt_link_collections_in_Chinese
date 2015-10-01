@@ -186,4 +186,11 @@ https://github.com/ShortTailLab/ph-open
 * jsyntaxpane  
 https://code.google.com/p/jsyntaxpane/  
 
+## 流程设计  
+* Twine  
+http://twinery.org/  
+https://github.com/tweecode/twine  
+https://bitbucket.org/_L_/harlowe  
+https://bitbucket.org/klembot/twinejs  
+
 ## TODO  
