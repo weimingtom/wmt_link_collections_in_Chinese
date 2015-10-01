@@ -182,5 +182,8 @@ https://github.com/sniperHW/Survive
 * ShortTailLab/ph-open （PuzzleHero）  
 https://github.com/ShortTailLab/ph-open  
 
-## TODO  
+## 文本编辑器
+* jsyntaxpane  
+https://code.google.com/p/jsyntaxpane/  
 
+## TODO  
