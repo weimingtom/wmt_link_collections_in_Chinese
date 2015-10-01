@@ -215,5 +215,8 @@ https://github.com/gameboy12615/CCGEditor
 * yungzhu/MornUI  
 https://github.com/yungzhu/MornUI  
 
+* CELayoutEditor   
+http://cegui.org.uk/wiki/CEED  
+http://sourceforge.net/projects/crayzedsgui/files/CELayoutEditor/0.7.1/  
 
 ## TODO  
