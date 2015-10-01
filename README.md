@@ -200,6 +200,7 @@ https://github.com/bjorn/tiled-java
 http://download.csdn.net/detail/ppppl7/2055948  
 * Eb163MapEditor  
 http://download.csdn.net/detail/weifeihuang/3232287  
+https://github.com/tommypan/mapEditorCQUPT  
 https://github.com/cdr1111/XMapEditor  
 
 ## TODO  
