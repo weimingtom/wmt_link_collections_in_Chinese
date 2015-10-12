@@ -41,6 +41,8 @@ http://robertpenner.com/easing/
 一些MMO Flash游戏的经典地图视角（例如偷菜），通常伴随着寻路算法    
 (2) Mars, Land of No Mercy   
 http://sourceforge.net/projects/mars/  
+(3) Flexible Isometric Free Engine  
+http://sourceforge.net/projects/fife/  
 
 
 * 打字机效果  
@@ -143,6 +145,9 @@ https://github.com/underdoeg/ofxLibRocket
 http://www.hahack.com/codes/openframeworks-intro/  
 FishingCactus/Rockete  
 https://github.com/FishingCactus/Rockete  
+
+* OpenLayer   
+http://sourceforge.net/projects/openlayer.berlios/  
 
 ## 前端node.js开发工具  
 npm install -g clean-css  
