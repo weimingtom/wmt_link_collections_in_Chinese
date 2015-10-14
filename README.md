@@ -205,6 +205,9 @@ https://bitbucket.org/klembot/twinejs
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
 
+* Nifty-Editor  
+http://niftyeditor.it  
+
 * 2D游戏地图编辑器合集可用  
 http://download.csdn.net/detail/ppppl7/2055948  
 
