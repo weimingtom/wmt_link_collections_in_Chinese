@@ -146,9 +146,6 @@ http://www.hahack.com/codes/openframeworks-intro/
 FishingCactus/Rockete  
 https://github.com/FishingCactus/Rockete  
 
-* OpenLayer   
-http://sourceforge.net/projects/openlayer.berlios/  
-
 * Game Engines and Libraries Using LWJGL  
 http://wiki.lwjgl.org/wiki/Game_Engines_and_Libraries_Using_LWJGL  
 
@@ -229,5 +226,15 @@ https://github.com/yungzhu/MornUI
 * CELayoutEditor   
 http://cegui.org.uk/wiki/CEED  
 http://sourceforge.net/projects/crayzedsgui/files/CELayoutEditor/0.7.1/  
+
+## 图形库 / 游戏引擎 / 图形移植  
+* OpenLayer   
+http://sourceforge.net/projects/openlayer.berlios/  
+
+* ejoy2d  
+https://github.com/ejoy/ejoy2d  
+
+* ffng-android  
+https://github.com/fidlej/ffng-android  
 
 ## TODO  
