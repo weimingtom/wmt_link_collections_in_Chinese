@@ -230,6 +230,9 @@ https://github.com/yungzhu/MornUI
 http://cegui.org.uk/wiki/CEED  
 http://sourceforge.net/projects/crayzedsgui/files/CELayoutEditor/0.7.1/  
 
+* tIDE (Tilemap Integrated Development Environment)  
+http://tide.codeplex.com  
+
 ## 图形库 / 游戏引擎 / 图形移植  
 * OpenLayer   
 http://sourceforge.net/projects/openlayer.berlios/  
