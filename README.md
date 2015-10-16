@@ -183,6 +183,9 @@ https://github.com/daogangtang/bamboo
 * sniperHW/Survive（手机游戏服务器）  
 https://github.com/sniperHW/Survive  
 
+* mozilla/BrowserQuest  
+https://github.com/mozilla/BrowserQuest  
+
 ## 游戏客户端编程  
 * ShortTailLab/ph-open （PuzzleHero）  
 https://github.com/ShortTailLab/ph-open  
