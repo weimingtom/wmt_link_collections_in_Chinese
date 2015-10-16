@@ -237,4 +237,8 @@ https://github.com/ejoy/ejoy2d
 * ffng-android  
 https://github.com/fidlej/ffng-android  
 
+## 调试
+* Visual Leak Detector for Visual C++ 2008/2010/2012/2013（VLD）  
+http://vld.codeplex.com/releases  
+
 ## TODO  
