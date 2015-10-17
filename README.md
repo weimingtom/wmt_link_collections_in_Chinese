@@ -43,6 +43,8 @@ http://robertpenner.com/easing/
 http://sourceforge.net/projects/mars/  
 (3) Flexible Isometric Free Engine  
 http://sourceforge.net/projects/fife/  
+(4) gamemvc  
+https://code.google.com/p/gamemvc/  
 
 
 * 打字机效果  
