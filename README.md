@@ -248,6 +248,9 @@ https://github.com/ejoy/ejoy2d
 * ffng-android  
 https://github.com/fidlej/ffng-android  
 
+* 开源2D图形库/图形框架  
+http://www.cnblogs.com/zhouchanwen/archive/2012/07/26/2609360.html  
+
 ## 调试
 * Visual Leak Detector for Visual C++ 2008/2010/2012/2013（VLD）  
 http://vld.codeplex.com/releases  
