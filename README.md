@@ -251,6 +251,23 @@ https://github.com/fidlej/ffng-android
 * 开源2D图形库/图形框架  
 http://www.cnblogs.com/zhouchanwen/archive/2012/07/26/2609360.html  
 
+* picasso  
+https://github.com/onecoolx/picasso  
+
+* pixellib  
+https://github.com/skywind3000/pixellib  
+
+* graphin  
+https://code.google.com/p/graphin/  
+
+* agg  
+http://www.antigrain.com/index.html  
+http://sourceforge.net/projects/agg/  
+
+* skia  
+https://github.com/google/skia  
+
+
 ## 调试
 * Visual Leak Detector for Visual C++ 2008/2010/2012/2013（VLD）  
 http://vld.codeplex.com/releases  
