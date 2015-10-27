@@ -191,6 +191,9 @@ https://github.com/sniperHW/Survive
 * mozilla/BrowserQuest  
 https://github.com/mozilla/BrowserQuest  
 
+* wubenqi/zengine  
+https://github.com/wubenqi/zengine  
+
 ## 游戏客户端编程  
 * ShortTailLab/ph-open （PuzzleHero）  
 https://github.com/ShortTailLab/ph-open  
