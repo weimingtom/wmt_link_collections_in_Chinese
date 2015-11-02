@@ -102,6 +102,9 @@ https://github.com/hwy1782/myWeixin
 无线通（闭源，需反编译）  
 http://www.wandoujia.com/apps/cn.jpbirdy.myweixin  
 
+* chuwuwang/Todayinformation （新闻类app）  
+https://github.com/chuwuwang/Todayinformation  
+
 ## 游戏开发教程和介绍    
 * Coding-Game-Intro  
 https://github.com/albertz/Coding-Game-Intro  
