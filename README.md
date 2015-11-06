@@ -200,7 +200,9 @@ https://github.com/wubenqi/zengine
 * zsummer/breeze  
 https://github.com/zsummer/breeze  
 
-* HankCoder/chuck  
+* sniperHW/chuck  
+https://github.com/sniperHW/chuck  
+HankCoder/chuck  
 https://github.com/HankCoder/chuck  
 
 ## 游戏客户端编程  
