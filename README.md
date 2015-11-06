@@ -200,6 +200,9 @@ https://github.com/wubenqi/zengine
 * zsummer/breeze  
 https://github.com/zsummer/breeze  
 
+* HankCoder/chuck  
+https://github.com/HankCoder/chuck  
+
 ## 游戏客户端编程  
 * ShortTailLab/ph-open （PuzzleHero）  
 https://github.com/ShortTailLab/ph-open  
