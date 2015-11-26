@@ -211,6 +211,9 @@ https://github.com/sniperHW/chuck
 HankCoder/chuck  
 https://github.com/HankCoder/chuck  
 
+* Amin Games Roc （基于房间制的B/S框架结构，客户端Flash）  
+https://code.google.com/p/aminroc/  
+
 ## 游戏客户端编程  
 * ShortTailLab/ph-open （PuzzleHero）  
 https://github.com/ShortTailLab/ph-open  
