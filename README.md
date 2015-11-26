@@ -157,6 +157,9 @@ http://wiki.lwjgl.org/wiki/Game_Engines_and_Libraries_Using_LWJGL
 * gwen-dotnet  
 https://code.google.com/p/gwen-dotnet/  
 
+* bagobor/gamegui  
+https://github.com/bagobor/gamegui  
+
 ## 前端node.js开发工具  
 npm install -g clean-css  
 npm install -g uglify-js  
@@ -261,6 +264,9 @@ https://github.com/ejoy/ejoy2d
 
 * ffng-android  
 https://github.com/fidlej/ffng-android  
+
+* chronno/mruby-mrgss  
+https://github.com/chronno/mruby-mrgss  
 
 * 开源2D图形库/图形框架  
 http://www.cnblogs.com/zhouchanwen/archive/2012/07/26/2609360.html  
