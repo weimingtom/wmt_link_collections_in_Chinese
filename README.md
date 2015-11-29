@@ -261,6 +261,9 @@ http://sourceforge.net/projects/crayzedsgui/files/CELayoutEditor/0.7.1/
 * tIDE (Tilemap Integrated Development Environment)  
 http://tide.codeplex.com  
 
+* Sphere RPG Engine  
+http://sourceforge.net/projects/sphere/  
+
 ## 图形库 / 游戏引擎 / 图形移植  
 * OpenLayer   
 http://sourceforge.net/projects/openlayer.berlios/  
