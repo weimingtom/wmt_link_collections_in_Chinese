@@ -307,4 +307,7 @@ https://github.com/google/skia
 * Visual Leak Detector for Visual C++ 2008/2010/2012/2013（VLD）  
 http://vld.codeplex.com/releases  
 
+* 如何有效地查找内存泄露（有效、轻量级的umdh.exe）  
+http://blog.csdn.net/wcjy07220114/article/details/6962140#0-tsina-1-84333-397232819ff9a47a7b7e80a40613cfe1  
+
 ## TODO  
