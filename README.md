@@ -229,6 +229,12 @@ https://github.com/tweecode/twine
 https://bitbucket.org/_L_/harlowe  
 https://bitbucket.org/klembot/twinejs  
 
+* yuqss/work-designer （需要rcp-indigo-win32）  
+https://github.com/yuqss/work-designer  
+
+* jtopo  
+http://www.jtopo.com/index.html  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
