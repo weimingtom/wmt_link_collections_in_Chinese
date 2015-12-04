@@ -222,6 +222,12 @@ https://github.com/ShortTailLab/ph-open
 * jsyntaxpane  
 https://code.google.com/p/jsyntaxpane/  
 
+* bobbylight/RSyntaxTextArea  
+https://github.com/bobbylight/RSyntaxTextArea  
+
+* skylot/jadx
+https://github.com/skylot/jadx  
+
 ## 流程设计  
 * Twine  
 http://twinery.org/  
