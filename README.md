@@ -218,6 +218,12 @@ https://code.google.com/p/aminroc/
 * ShortTailLab/ph-open （PuzzleHero）  
 https://github.com/ShortTailLab/ph-open  
 
+* Stratagus  
+https://github.com/Wargus/Stratagus  
+https://github.com/drodin/Stratagus  
+http://sourceforge.net/projects/stratagus/  
+https://launchpad.net/stratagus/  
+
 ## 文本编辑器
 * jsyntaxpane  
 https://code.google.com/p/jsyntaxpane/  
