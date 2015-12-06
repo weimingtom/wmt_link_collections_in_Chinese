@@ -105,6 +105,10 @@ http://www.wandoujia.com/apps/cn.jpbirdy.myweixin
 * chuwuwang/Todayinformation （新闻类app）  
 https://github.com/chuwuwang/Todayinformation  
 
+* facebook/fresco  
+https://github.com/facebook/fresco  
+http://fresco-cn.org/  
+
 ## 游戏开发教程和介绍    
 * Coding-Game-Intro  
 https://github.com/albertz/Coding-Game-Intro  
