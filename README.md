@@ -102,7 +102,7 @@ https://github.com/hwy1782/myWeixin
 无线通（闭源，需反编译）  
 http://www.wandoujia.com/apps/cn.jpbirdy.myweixin  
 
-* chuwuwang/Todayinformation （新闻类app）  
+* chuwuwang/Todayinformation （新闻类app，字体设置）  
 https://github.com/chuwuwang/Todayinformation  
 
 * facebook/fresco  
