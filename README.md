@@ -332,4 +332,14 @@ http://vld.codeplex.com/releases
 * 如何有效地查找内存泄露（有效、轻量级的umdh.exe）  
 http://blog.csdn.net/wcjy07220114/article/details/6962140#0-tsina-1-84333-397232819ff9a47a7b7e80a40613cfe1  
 
+## 通信/社交    
+* lfkdsk/webim  
+https://github.com/lfkdsk/webim  
+
+* hujiaweibujidao/TinyWeibo  
+https://github.com/hujiaweibujidao/TinyWeibo  
+
+* LuckTiger/VlcRtspPlayer  
+https://github.com/LuckTiger/VlcRtspPlayer  
+
 ## TODO  
