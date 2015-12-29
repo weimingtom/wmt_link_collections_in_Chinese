@@ -18,3 +18,6 @@
   
 * emacs  
   sudo apt-get install emacs24
+
+* sfml  
+  sudo apt-get install libsfml-dev  
