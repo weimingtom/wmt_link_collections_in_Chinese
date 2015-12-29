@@ -13,3 +13,6 @@
 * qt-sdk  
   sudo apt-get install qt-sdk  
   
+* emacs  
+  sudo apt-get install emacs24
+
