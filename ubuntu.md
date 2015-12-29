@@ -1,3 +1,6 @@
+* git
+  sudo apt-get install git  
+
 * g++  
   sudo apt-get install g++    
   
@@ -15,4 +18,3 @@
   
 * emacs  
   sudo apt-get install emacs24
-
