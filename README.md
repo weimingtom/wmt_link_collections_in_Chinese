@@ -109,6 +109,11 @@ https://github.com/chuwuwang/Todayinformation
 https://github.com/facebook/fresco  
 http://fresco-cn.org/  
 
+* winkstu/ABPlayer （仿bilibili客户端）    
+https://github.com/winkstu/ABPlayer  
+android-cjj/BiliClient  
+https://github.com/android-cjj/BiliClient  
+
 ## 游戏开发教程和介绍    
 * Coding-Game-Intro  
 https://github.com/albertz/Coding-Game-Intro  
