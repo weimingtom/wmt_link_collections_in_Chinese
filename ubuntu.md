@@ -21,3 +21,6 @@
 
 * sfml  
   sudo apt-get install libsfml-dev  
+
+* openssl  
+  sudo apt-get install libssl-dev  
