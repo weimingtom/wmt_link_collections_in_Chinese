@@ -24,3 +24,6 @@
 
 * openssl  
   sudo apt-get install libssl-dev  
+
+* ruby  
+  sudo apt-get install ruby  
