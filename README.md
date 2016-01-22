@@ -347,4 +347,9 @@ https://github.com/hujiaweibujidao/TinyWeibo
 * LuckTiger/VlcRtspPlayer  
 https://github.com/LuckTiger/VlcRtspPlayer  
 
+## html5  
+* loveJS  
+https://github.com/DaanHaaz/loveJS  
+
+
 ## TODO  
