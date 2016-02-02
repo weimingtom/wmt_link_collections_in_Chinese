@@ -223,7 +223,7 @@ https://github.com/HankCoder/chuck
 * Amin Games Roc （基于房间制的B/S框架结构，客户端Flash）  
 https://code.google.com/p/aminroc/  
 
-* ParsePlatform/parse-server （非游戏）
+* ParsePlatform/parse-server （非游戏）  
 https://github.com/ParsePlatform/parse-server  
 
 ## 游戏客户端编程  
