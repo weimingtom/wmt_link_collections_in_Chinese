@@ -34,3 +34,9 @@
 * nodejs  
   sudo apt-get install nodejs npm  
 
+* swift  
+  sudo apt-get install clang  
+  gedit ~/.profile -> PATH="$HOME/swift/usr/bin:$PATH"  
+
+
+
