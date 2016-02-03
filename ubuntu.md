@@ -1,4 +1,4 @@
-* <update software list>  
+* **update software list**  
   sudo apt-get update  
 
 * git  
