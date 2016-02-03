@@ -30,3 +30,7 @@
 
 * ruby  
   sudo apt-get install ruby  
+
+* nodejs  
+  sudo apt-get install nodejs npm  
+
