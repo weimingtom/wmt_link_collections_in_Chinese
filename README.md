@@ -226,6 +226,9 @@ https://code.google.com/p/aminroc/
 * ParsePlatform/parse-server （非游戏）  
 https://github.com/ParsePlatform/parse-server  
 
+* im-qq/imgo （非游戏）  
+https://github.com/im-qq/imgo  
+
 ## 游戏客户端编程  
 * ShortTailLab/ph-open （PuzzleHero）  
 https://github.com/ShortTailLab/ph-open  
