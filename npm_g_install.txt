@@ -1,0 +1,22 @@
+npm -g install clean-css
+npm -g install jshint
+npm -g install uglify-js
+npm -g install cordova
+npm -g install ionic@1.7.13 --verbose
+npm -g install bower
+
+
+C:\Documents and Settings\Administrator>node --version
+v4.3.1
+
+C:\Documents and Settings\Administrator>npm --version
+2.14.12
+
+C:\Documents and Settings\Administrator>npm -g ls --depth=0
+C:\Documents and Settings\Administrator\Application Data\npm
+├── bower@1.7.7
+├── clean-css@3.4.9
+├── cordova@6.0.0
+├── ionic@1.7.13
+├── jshint@2.9.1
+└── uglify-js@2.6.2
