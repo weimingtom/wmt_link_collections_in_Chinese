@@ -357,5 +357,8 @@ https://github.com/LuckTiger/VlcRtspPlayer
 * loveJS  
 https://github.com/DaanHaaz/loveJS  
 
+* hiloteam/Hilo  
+https://github.com/hiloteam/Hilo  
+
 
 ## TODO  
