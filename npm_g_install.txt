@@ -20,3 +20,10 @@ C:\Documents and Settings\Administrator\Application Data\npm
 ├── ionic@1.7.13
 ├── jshint@2.9.1
 └── uglify-js@2.6.2
+
+
+
+Express，Hapi，Parse-server
+
+npm -g install phonegap
+npm -g install express-generator  
