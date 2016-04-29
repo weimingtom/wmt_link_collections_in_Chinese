@@ -363,5 +363,7 @@ https://github.com/DaanHaaz/loveJS
 * hiloteam/Hilo  
 https://github.com/hiloteam/Hilo  
 
+* maierfelix/PokeMMO  
+https://github.com/maierfelix/PokeMMO  
 
 ## TODO  
