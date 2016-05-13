@@ -4,6 +4,7 @@ npm -g install uglify-js
 npm -g install cordova
 npm -g install ionic@1.7.13 --verbose
 npm -g install bower
+npm -g install mean-cli
 
 
 C:\Documents and Settings\Administrator>node --version
