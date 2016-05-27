@@ -46,7 +46,6 @@ http://sourceforge.net/projects/fife/
 (4) gamemvc  
 https://code.google.com/p/gamemvc/  
 
-
 * 打字机效果  
 (1) 说明：  
 来源于kirikiri和类似视觉小说游戏引擎的概念    
@@ -56,7 +55,6 @@ https://github.com/kazu0620/SRGNovelGameTexts
 https://github.com/gear1554/CCLabelAttributedBMFontTest  
 http://anz-note.tumblr.com/post/78738162338/cocos2d-x-v3rpg%E9%A2%A8%E3%81%AB%E6%96%87%E5%AD%97%E3%82%921%E6%96%87%E5%AD%97%E3%81%9A%E3%81%A4%E8%A1%A8%E7%A4%BA-%CF%89%EF%BD%B6%EF%BE%9E%EF%BD%B5%EF%BD%B0  
 http://survive-engineer.hatenablog.com/entry/2014/02/13/013103  
-
 
 * 视差滚动（Parallax Scrolling）
 
@@ -350,13 +348,16 @@ http://sourceforge.net/projects/agg/
 * skia  
 https://github.com/google/skia  
 
-
 ## 调试/反汇编/反编译/逆向工程  
 * Visual Leak Detector for Visual C++ 2008/2010/2012/2013（VLD）  
 http://vld.codeplex.com/releases  
 
 * 如何有效地查找内存泄露（有效、轻量级的umdh.exe）  
 http://blog.csdn.net/wcjy07220114/article/details/6962140#0-tsina-1-84333-397232819ff9a47a7b7e80a40613cfe1  
+
+* x64dbg  
+http://x64dbg.com  
+https://github.com/x64dbg/x64dbg  
 
 * dennis714/RE-for-beginners  
 https://github.com/dennis714/RE-for-beginners  
