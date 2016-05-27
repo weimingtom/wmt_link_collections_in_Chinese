@@ -351,12 +351,17 @@ http://sourceforge.net/projects/agg/
 https://github.com/google/skia  
 
 
-## 调试
+## 调试/反汇编/反编译/逆向工程  
 * Visual Leak Detector for Visual C++ 2008/2010/2012/2013（VLD）  
 http://vld.codeplex.com/releases  
 
 * 如何有效地查找内存泄露（有效、轻量级的umdh.exe）  
 http://blog.csdn.net/wcjy07220114/article/details/6962140#0-tsina-1-84333-397232819ff9a47a7b7e80a40613cfe1  
+
+* dennis714/RE-for-beginners  
+https://github.com/dennis714/RE-for-beginners  
+中文翻译版  
+https://github.com/veficos/reverse-engineering-for-beginners  
 
 ## 通信/社交    
 * lfkdsk/webim  
