@@ -364,6 +364,9 @@ https://github.com/dennis714/RE-for-beginners
 中文翻译版  
 https://github.com/veficos/reverse-engineering-for-beginners  
 
+* Juude/droidReverse  
+https://github.com/Juude/droidReverse  
+
 ## 通信/社交    
 * lfkdsk/webim  
 https://github.com/lfkdsk/webim  
