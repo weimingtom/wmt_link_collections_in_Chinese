@@ -38,8 +38,13 @@
   sudo apt-get install clang  
   gedit ~/.profile -> PATH="$HOME/swift/usr/bin:$PATH"  
 
-* autoconf/autopoint  
+* autoconf / autopoint  
   sudo apt-get install autoconf autopoint  
 
+* ibus  
+  sudo apt-get install libibus-1.0-dev  
+
+* gtk3  
+  sudo apt-get install libgtk-3-dev  
 
 
