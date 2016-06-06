@@ -38,5 +38,8 @@
   sudo apt-get install clang  
   gedit ~/.profile -> PATH="$HOME/swift/usr/bin:$PATH"  
 
+* autoconf/autopoint  
+  sudo apt-get install autoconf autopoint  
+
 
 
