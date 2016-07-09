@@ -16,3 +16,8 @@ http://download.csdn.net/detail/iduosi/5325593
 
 * Learn Lua for iOS Game Development  
 http://www.apress.com/9781430246626  
+
+## Language 
+* C Interfaces and Implementations  
+C语言接口与实现  
+https://github.com/drh/cii  
