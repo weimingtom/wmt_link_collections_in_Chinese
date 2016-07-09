@@ -1,6 +1,6 @@
 # Book Code Collection
 
-## Game  
+## Game (good)    
 
 * Advanced ActionScript 3 Animation  
 Flash ActionScript 3.0 动画高级教程  
@@ -11,3 +11,8 @@ http://www.apress.com/9781430216087
 大型多人在线游戏开发  
 http://download.csdn.net/detail/iduosi/5325593  
 
+
+## Game (normal)  
+
+* Learn Lua for iOS Game Development  
+http://www.apress.com/9781430246626  
