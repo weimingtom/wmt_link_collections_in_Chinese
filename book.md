@@ -1,6 +1,6 @@
 # Book Code Collection
 
-## Game (good)    
+## Game (interesting)    
 
 * Advanced ActionScript 3 Animation  
 Flash ActionScript 3.0 动画高级教程  
@@ -16,7 +16,7 @@ Java 2D游戏编程入门
 http://www.indiegameprogramming.com/new_book_information.php  
 https://github.com/TimothyWrightSoftware/Fundamental-2D-Game-Programming-With-Java  
 
-## Game (normal)  
+## Game (other)  
 
 * Learn Lua for iOS Game Development  
 http://www.apress.com/9781430246626  
@@ -25,3 +25,7 @@ http://www.apress.com/9781430246626
 * C Interfaces and Implementations  
 C语言接口与实现  
 https://github.com/drh/cii  
+
+* スクリプト言語の作り方  
+http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/site/?ScriptingBook  
+https://github.com/chibash/stone  
