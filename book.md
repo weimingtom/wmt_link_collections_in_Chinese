@@ -11,6 +11,10 @@ http://www.apress.com/9781430216087
 大型多人在线游戏开发  
 http://download.csdn.net/detail/iduosi/5325593  
 
+* Fundamental 2D Game Programming with Java  
+Java 2D游戏编程入门  
+http://www.indiegameprogramming.com/new_book_information.php  
+https://github.com/TimothyWrightSoftware/Fundamental-2D-Game-Programming-With-Java  
 
 ## Game (normal)  
 
