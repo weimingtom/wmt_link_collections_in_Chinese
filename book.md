@@ -27,6 +27,7 @@ C语言接口与实现
 https://github.com/drh/cii  
 
 * スクリプト言語の作り方  
+A new scripting language in two weeks  
 两周自制编程语言  
 http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/site/?ScriptingBook  
 https://github.com/chibash/stone  
