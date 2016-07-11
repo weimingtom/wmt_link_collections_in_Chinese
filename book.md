@@ -21,6 +21,12 @@ https://github.com/TimothyWrightSoftware/Fundamental-2D-Game-Programming-With-Ja
 * Learn Lua for iOS Game Development  
 http://www.apress.com/9781430246626  
 
+* 実例で学ぶ　ゲーム開発に使える数学物理学入門  
+游戏开发必需的数学和物理技巧  
+http://www.shoeisha.co.jp/book/detail/9784798130866  
+《游戏开发的数学和物理》配套示例代码  
+https://github.com/AlloVince/physics_mathematics_skills_for_game_development  
+
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
@@ -31,3 +37,5 @@ A new scripting language in two weeks
 两周自制编程语言  
 http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/site/?ScriptingBook  
 https://github.com/chibash/stone  
+
+
