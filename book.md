@@ -27,6 +27,11 @@ http://www.shoeisha.co.jp/book/detail/9784798130866
 《游戏开发的数学和物理》配套示例代码  
 https://github.com/AlloVince/physics_mathematics_skills_for_game_development  
 
+* オンラインゲームを支える技術 ―壮大なプレイ空間の舞台裏
+网络游戏核心技术与实战  
+http://gihyo.jp/magazine/wdpress/plus/978-4-7741-4580-8  
+https://github.com/kengonakajima/book  
+
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
