@@ -35,9 +35,6 @@ https://github.com/kengonakajima/book
 * iPhone Games Projects  
 http://www.apress.com/9781430219682  
 
-* Learn Lua for iOS Game Development  
-http://www.apress.com/9781430246626  
-
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
@@ -48,5 +45,9 @@ A new scripting language in two weeks
 两周自制编程语言  
 http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/site/?ScriptingBook  
 https://github.com/chibash/stone  
+
+* Inside COM by Dale Rogerson  
+COM 技术内幕  
+
 
 
