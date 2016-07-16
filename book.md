@@ -22,6 +22,9 @@ https://github.com/TimothyWrightSoftware/Fundamental-2D-Game-Programming-With-Ja
 * Game Scripting Mastery  
 游戏脚本高级编程  
 
+* ActionScript for Multiplayer Games and Virtual Worlds  
+ActionScript大型网页游戏开发  
+
 ## Game (other)  
 
 * Learn Lua for iOS Game Development  
