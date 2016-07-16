@@ -41,6 +41,8 @@ https://github.com/kengonakajima/book
 * iPhone Games Projects  
 http://www.apress.com/9781430219682  
 
+* 深入BREW手机游戏开发  
+
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
