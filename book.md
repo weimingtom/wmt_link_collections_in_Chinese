@@ -35,6 +35,9 @@ https://github.com/kengonakajima/book
 * iPhone Games Projects  
 http://www.apress.com/9781430219682  
 
+* Learn Lua for iOS Game Development  
+http://www.apress.com/9781430246626  
+
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
