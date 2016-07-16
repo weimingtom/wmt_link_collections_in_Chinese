@@ -16,6 +16,12 @@ Java 2D游戏编程入门
 http://www.indiegameprogramming.com/new_book_information.php  
 https://github.com/TimothyWrightSoftware/Fundamental-2D-Game-Programming-With-Java  
 
+* AI Game Programming Wisdom  
+人工智能游戏编程真言    
+
+* Game Scripting Mastery  
+游戏脚本高级编程  
+
 ## Game (other)  
 
 * Learn Lua for iOS Game Development  
@@ -51,7 +57,4 @@ COM 技术内幕
 
 * The Art of Multiprocessor Programming Mar 2008  
 多处理器编程的艺术  
-
-* AI Game Programming Wisdom  
-人工智能游戏编程真言    
 
