@@ -32,6 +32,9 @@ https://github.com/AlloVince/physics_mathematics_skills_for_game_development
 http://gihyo.jp/magazine/wdpress/plus/978-4-7741-4580-8  
 https://github.com/kengonakajima/book  
 
+* iPhone Games Projects  
+http://www.apress.com/9781430219682  
+
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
