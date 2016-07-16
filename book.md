@@ -49,5 +49,7 @@ https://github.com/chibash/stone
 * Inside COM by Dale Rogerson  
 COM 技术内幕  
 
+* The Art of Multiprocessor Programming Mar 2008  
+多处理器编程的艺术  
 
 
