@@ -1,4 +1,4 @@
-# GUI in C#
+# GUI in CSharp  
 * esonic/moe-loader-v7  
 https://github.com/esonic/moe-loader-v7  
 
