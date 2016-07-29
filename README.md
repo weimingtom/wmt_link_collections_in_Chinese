@@ -378,6 +378,9 @@ https://github.com/hujiaweibujidao/TinyWeibo
 https://github.com/LuckTiger/VlcRtspPlayer  
 
 * caprice/cim  
+Official:  
+http://git.oschina.net/farsunset/cim  
+Old version:  
 https://github.com/caprice/cim  
 
 ## html5  
