@@ -377,6 +377,9 @@ https://github.com/hujiaweibujidao/TinyWeibo
 * LuckTiger/VlcRtspPlayer  
 https://github.com/LuckTiger/VlcRtspPlayer  
 
+* caprice/cim  
+https://github.com/caprice/cim  
+
 ## html5  
 * loveJS  
 https://github.com/DaanHaaz/loveJS  
