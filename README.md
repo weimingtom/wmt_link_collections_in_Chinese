@@ -185,6 +185,9 @@ https://github.com/andlabs/libui
 http://www.amnoid.de/ddsview/download.html  
 https://github.com/Vuhdo/ddsview  
 
+* isee15/Sqlcipher-Viewer  
+https://github.com/isee15/Sqlcipher-Viewer  
+
 ## 前端node.js开发工具  
 npm install -g clean-css  
 npm install -g uglify-js  
