@@ -274,6 +274,9 @@ https://github.com/lukebuehler/CShell
 * bgBengals25/High-Tide  
 https://github.com/bgBengals25/High-Tide  
 
+* Dariasteam/StoryIDE  
+https://github.com/Dariasteam/StoryIDE  
+
 ## 流程设计  
 * Twine  
 http://twinery.org/  
