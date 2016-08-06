@@ -50,7 +50,7 @@
 * openjdk7  
   sudo apt-get install default-jdk  
 
-* gradle  
+* gradle / mvn    
   sudo apt-get install gradle   
 
 
