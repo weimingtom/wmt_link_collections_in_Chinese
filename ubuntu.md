@@ -47,4 +47,11 @@
 * gtk3  
   sudo apt-get install libgtk-3-dev  
 
+* openjdk7  
+  sudo apt-get install default-jdk  
+
+* gradle  
+  sudo apt-get install gradle   
+
+
 
