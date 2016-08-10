@@ -408,4 +408,13 @@ https://github.com/hiloteam/Hilo
 * maierfelix/PokeMMO  
 https://github.com/maierfelix/PokeMMO  
 
+* paiza poh  
+https://paiza.jp/poh/ando  
+程序员福利!?11区推出恋爱页游「靠编程交女朋友」  
+http://acg.178.com/201512/243640292879.html  
+
+* Bilibili七夕之约 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ  乾杯~  - bilibili    
+http://www.bilibili.com/html/activity-qixi2016.html  
+
+
 ## TODO  
