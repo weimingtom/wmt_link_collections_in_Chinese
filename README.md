@@ -366,6 +366,9 @@ http://sourceforge.net/projects/agg/
 * skia  
 https://github.com/google/skia  
 
+* 書籍「スクリプト言語による効率的ゲーム開発 C/C++へのLua組込み実践」公式サポート情報  
+http://lua.mine.nu/w/LuaBookSupport  
+
 ## 调试/反汇编/反编译/逆向工程  
 * Visual Leak Detector for Visual C++ 2008/2010/2012/2013（VLD）  
 http://vld.codeplex.com/releases  
