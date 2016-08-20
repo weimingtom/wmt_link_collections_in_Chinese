@@ -331,6 +331,9 @@ http://sourceforge.net/projects/sphere/
 * 【原创】一个基于MFC的简单的2d游戏地图编辑器  
 https://github.com/evoup/simpleTileMapEditor1.0  
 
+* D2D Map Editor (d2dmapeditor)   
+https://sourceforge.net/projects/d2dmapeditor/  
+
 ## 图形库 / 游戏引擎 / 图形移植  
 * OpenLayer   
 http://sourceforge.net/projects/openlayer.berlios/  
