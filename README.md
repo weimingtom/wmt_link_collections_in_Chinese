@@ -64,7 +64,7 @@ https://github.com/SchibstedSpain/Parallax-Layer-Layout
 (1) Bootstrap carousel   
 http://getbootstrap.com/javascript/#carousel  
 
-* 纹理融合（纹理混合，Texture synthesis）    
+* 纹理合成（纹理融合，纹理混合，Texture synthesis）    
 (1) mxgmn/SynTex  
 https://github.com/mxgmn/SynTex  
 (2) wiki  
