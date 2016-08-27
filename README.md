@@ -404,6 +404,9 @@ https://github.com/hujiaweibujidao/TinyWeibo
 * LuckTiger/VlcRtspPlayer  
 https://github.com/LuckTiger/VlcRtspPlayer  
 
+* leancloud/LeanCloudChatKit-Android  
+https://github.com/leancloud/LeanCloudChatKit-Android  
+
 * caprice/cim  
 Official:  
 http://git.oschina.net/farsunset/cim  
