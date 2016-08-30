@@ -45,6 +45,8 @@ http://sourceforge.net/projects/mars/
 http://sourceforge.net/projects/fife/  
 (4) gamemvc  
 https://code.google.com/p/gamemvc/  
+(5) dongfangshangren/Z25d  
+https://github.com/dongfangshangren/Z25d  
 
 * 打字机效果  
 (1) 说明：  
