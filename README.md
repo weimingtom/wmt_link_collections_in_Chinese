@@ -436,9 +436,16 @@ http://www.bilibili.com/html/activity-qixi2016.html
 ## 移动端图形库
 * BradLarson/GPUImage  
 https://github.com/BradLarson/GPUImage  
+
 * CyberAgent/android-gpuimage  
 https://github.com/CyberAgent/android-gpuimage  
+
 * google/grafika  
 https://github.com/google/grafika  
+
+## 纯算法
+* 编程之法：面试和算法心得  
+https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details  
+https://github.com/julycoding/The-Art-Of-Programming-By-July  
 
 ## TODO  
