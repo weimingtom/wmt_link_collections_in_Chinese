@@ -453,4 +453,61 @@ https://github.com/google/grafika
 https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details  
 https://github.com/julycoding/The-Art-Of-Programming-By-July  
 
+## 提取 / 无源代码调试  
+* Debugging Mozilla with gdb  
+https://developer.mozilla.org/en/Debugging_Mozilla_on_Linux_FAQ  
+
+* mingw 下的 stack backtrace  
+http://blog.codingnow.com/2010/07/mingw_stack_backtrace.html  
+http://code.google.com/p/backtrace-mingw/  
+
+* 使用 Strace 和 GDB 调试工具的乐趣  
+http://www.ibm.com/developerworks/cn/aix/library/au-unix-strace.html  
+
+* eglog  
+http://gorry.haun.org/eglog/  
+
+* Digital Travesia  
+http://hp.vector.co.jp/authors/VA028184/  
+
+* GDB 多线程调试  
+http://www.yuanma.org/data/2009/0407/article_3605.htm  
+http://www.linuxforum.net/forum/gshowflat.php?Cat=&Board=program&Number=692404&page=0&view=collapsed  
+http://www.ibm.com/developerworks/cn/java/j-memoryanalyzer/  
+
+* DLL劫持技术（内存补丁技术） (转)  
+http://hi.baidu.com/woaiwlaopo/blog/item/699f2a3fb0485ee954e7238d.html  
+
+* gdb的一些命令  
+http://blog.sinzy.net/ifyr/entry/22198  
+
+* Windows API Hooking Tutorial  
+http://ruffnex.oc.to/kenji/text/api_hook/  
+
+* Visual Novel tools  
+http://vn.i-forge.net/tools/  
+
+* Welcome to m-akita's Home Page  
+http://m-akita.sakura.ne.jp/index.php  
+
+* asmodean's reverse engineering page - news and updates  
+http://asmodean.reverse.net/  
+
+* VN Translation  
+http://tlwiki.tsukuru.info/index.php?title=Tools  
+
+* notazsite  
+http://anime.geocities.jp/notazsite1/soft/index.html  
+Irregular child .. ?  
+http://hp.vector.co.jp/authors/VA018359/index2.html  
+
+* 混沌の部屋  
+http://www.geocities.jp/hoku_hoshi/index2.html  
+
+* 【教材】用OllyDbg找出Agth提取GAL文本的特殊码（详细新人版）  
+http://867258173.diandian.com/post/2014-02-12/40060970396  
+
+* dwing  
+http://tieba.baidu.com/f?kw=dwing&ie=utf-8  
+
 ## TODO  
