@@ -46,6 +46,14 @@ http://www.apress.com/9781430219682
 
 * 深入BREW手机游戏开发  
 
+* 网页游戏开发秘笈  
+Web Game Development Tips  
+The Web Game Developer's Cookbook: Using JavaScript and HTML5 to Develop Games  
+
+* Python游戏编程快速上手  
+Invent Your Own Computer Games with Python  
+http://inventwithpython.com/  
+
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
