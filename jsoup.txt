@@ -1,0 +1,48 @@
+		Document document = null;
+		try {
+			document = Jsoup.connect(url).get();
+			Elements titlelists = document.getElementsByAttributeValue("class", "top-more-jm-01-titlelist-01");
+			for (Element titlelist : titlelists) {
+				Element element = titlelist.getElementsByTag("a").get(0);
+				String title = element.attr("title");
+				String href = element.attr("href");
+				tempModelList.add(new CatalogListItemModel(title, href));
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+----------------
+
+
+用JSOUP解析HTML，怎样删除掉其中的一段DIV标签及内容？
+
+1
+content_nr.select("div").remove()
+清除该Element下的所有div，OK? 
+?
+1
+content_nr.select("div").removeAttr("class")
+class属性都去掉。 
+内容里面有div的话，就
+?
+1
+content_nr.select("div.page").remove()
+删除分页div，其它的自己去写吧。
+
+
+http://www.oschina.net/question/274095_49881
+
+
+----------------------
+
+How to remove &nbsp; with Jsoup?
+http://stackoverflow.com/questions/21137892/how-to-remove-nbsp-with-jsoup
+
+http://www.oschina.net/question/613846_62262
+找到办法了
+jsoup 把他&nbsp;替换了，但是不是替换成了普通的孔规格，那么直接使用replace替换就可以了
+System.out.println(link.text().replace(Jsoup.parse("&nbsp;").text(), " "));
+
