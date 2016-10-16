@@ -1,0 +1,491 @@
+﻿ 
+(1) 创建工作目录，创建并切换本地的master分支，然后检出远程的master分支
+ 
+ （20160104：注意，现在要用https，否则无法取代码）
+（20160104：如果嫌麻烦可以直接去github搜索别人的镜像，虽然很可能不是最新的
+platform_packages_apps gallery
+ ）
+ 写道
+$ git clone http://android.googlesource.com/platform/manifest.git
+
+ 
+ 
+(2) 切换到工作目录（除git clone外大多数git命令都必须在工作目录下执行）
+ 
+ 
+ 写道
+$ cd manifest
+$ ls
+ 
+ 
+ 
+(3) 查看本地和远程分支。在没有创建新分支的情况下，本地和远程分支的名称是相同的。可以看到本地和远程各有一个叫master的分支。这里没必要用git branch XXX来创建分支，因为我无法提交代码到远程。
+ 
+（注意：这里如果不执行git pull，如果有人更改了远程的分支，可能看不到改动，所以最好在git branch -r之前执行git pull——猜测是这样）
+ 
+ 写道
+$ git branch
+$ git branch -r
+$ git branch | grep master
+* master
+$ git branch -r | grep master
+origin/HEAD -> origin/master
+origin/master
+ 
+ 
+ 
+(4) 切换分支（是git checkout <分支名>而非git branch <分支名>）。当本地的分支不存在时，git checkout <分支名>实际上隐式地创建分支。
+例如，虽然本地没有android-1.6_r1分支，但执行完检出后android-1.6_r1就被自动创建了。因为本地已经存在master分支，所以执行git checkout master并没有创建分支，而是直接切换回去。
+ 
+ 
+ 写道
+$ git branch
+* master
+$ git checkout -f android-1.6_r1
+Branch android-1.6_r1 set up to track remote branch android-1.6_r1 from origin.
+Switched to a new branch 'android-1.6_r1'
+$ git branch
+* android-1.6_r1
+master
+$ git checkout master
+$ git branch
+android-1.6_r1
+* master
+ 
+ 
+(5) 获取远程git的路径
+先用git checkout切换到platform/manifest的某个系统版本的分支。
+然后打开manifest/default.xml，看到这一行
+<project path="ndk" name="platform/ndk" />
+就是说ndk的git clone路径为
+http://android-review.googlesource.com/platform/ndk.git
+方便起见这里使用http://而非https://
+（20160104注：当然这里可以直接用android.googlesource.com去取，不一定要用xml文件里写的那个android-review.googlesource.com域名，例如这样取Gallery2的代码：
+ 
+git clone https://android.googlesource.com/platform/packages/apps/Gallery2
+ 
+如果嫌麻烦可以直接去github搜索别人的镜像，虽然很可能不是最新的
+platform_packages_apps gallery
+ ）
+ 
+ 
+ 
+ 
+(6) 获取指定系统版本的app源代码。先
+ 
+ 
+ 写道
+$ git clone http://android.googlesource.com/platform/manifest.git
+$ cd manifest/
+$ git branch -r
+origin/HEAD -> origin/master
+origin/android-1.6_r1
+origin/android-1.6_r1.1
+origin/android-1.6_r1.2
+origin/android-1.6_r1.3
+origin/android-1.6_r1.4
+origin/android-1.6_r1.5
+origin/android-1.6_r2
+origin/android-2.0.1_r1
+origin/android-2.0_r1
+origin/android-2.1_r1
+origin/android-2.1_r2
+origin/android-2.1_r2.1p
+origin/android-2.1_r2.1p2
+origin/android-2.1_r2.1s
+origin/android-2.2.1_r1
+origin/android-2.2.1_r2
+origin/android-2.2.2_r1
+origin/android-2.2.3_r1
+origin/android-2.2.3_r2
+origin/android-2.2.3_r2.1
+origin/android-2.2_r1
+origin/android-2.2_r1.1
+origin/android-2.2_r1.2
+origin/android-2.2_r1.3
+origin/android-2.3.1_r1
+origin/android-2.3.2_r1
+origin/android-2.3.3_r1
+origin/android-2.3.3_r1.1
+origin/android-2.3.4_r0.9
+origin/android-2.3.4_r1
+origin/android-2.3.5_r1
+origin/android-2.3.6_r0.9
+origin/android-2.3.6_r1
+origin/android-2.3.7_r1
+origin/android-2.3_r1
+origin/android-4.0.1_r1
+origin/android-4.0.1_r1.1
+origin/android-4.0.1_r1.2
+origin/android-4.0.2_r1
+origin/android-4.0.3_r1
+origin/android-4.0.3_r1.1
+origin/android-4.0.4_r1
+origin/android-4.0.4_r1.1
+origin/android-4.0.4_r1.2
+origin/android-cts-2.2_r8
+origin/android-cts-2.3_r10
+origin/android-cts-2.3_r11
+origin/android-cts-2.3_r12
+origin/android-cts-4.0.3_r1
+origin/android-cts-4.0.3_r2
+origin/android-cts-4.0_r1
+origin/android-cts-verifier-4.0.3_r1
+origin/android-cts-verifier-4.0_r1
+origin/android-sdk-4.0.3-tools_r1
+origin/android-sdk-4.0.3_r1
+origin/android-sdk-adt_r16.0.1
+origin/froyo
+origin/gingerbread
+origin/gingerbread-release
+origin/ics-mr0
+origin/ics-mr1
+origin/master
+origin/tradefed
+$ git checkout android-2.2_r1.3
+$ ls
+default.xml
+$ notepad default.xml
+（看到这么一行
+<project path="packages/apps/AlarmClock" name="platform/packages/apps/AlarmClock" />
+）
+$ cd ..
+$ git clone http://android-review.googlesource.com/platform/packages/apps/AlarmClock.git
+$ cd AlarmClock/
+$ git branch -r
+origin/HEAD -> origin/master
+origin/donut-release
+origin/donut-release2
+origin/eclair-passion-release
+origin/eclair-release
+origin/eclair-sholes-release
+origin/eclair-sholes-release2
+origin/froyo
+origin/froyo-release
+origin/master
+（因为Android的系统代号是按英文字母排序的，所以froyo-release是最新的发布版本）
+
+ 
+ 
+(7) 废弃分支上的修改。由于代码不会去提交，所以对代码作出的修改可以安全地丢弃，例如不小心删除了某个文件（但新增的文件不会被删除）
+ (20150815：请慎用git checkout -f，会删除所有修改过的文件，除非是新增的）
+ 
+ 写道
+$ ls
+base-for-3.0-gpl.xml base-for-3.1-gpl.xml base-for-3.2-gpl.xml default.xml
+$ rm default.xml
+$ ls
+base-for-3.0-gpl.xml base-for-3.1-gpl.xml base-for-3.2-gpl.xml
+$ git checkout -f
+$ ls
+base-for-3.0-gpl.xml base-for-3.1-gpl.xml base-for-3.2-gpl.xml default.xml
+
+ 
+ 
+(8) 一些有用的链接
+* Downloading the Source Tree
+http://source.android.com/source/downloading.html
+ 
+* Android On Github
+https://github.com/android
+ 
+* CyanogenMod
+https://github.com/CyanogenMod
+ 
+ 
+20120717补：
+官方的仓库列表（网页版）：
+https://android.googlesource.com/?format=HTML
+ 
+ 20130731补：
+一些Java API包的源码位置：
+ 
+(package java.lang.*)
+platform_libcore(原为platform_dalvik子目录) 
+https://github.com/CyanogenMod/android_libcore/tree/gingerbread/luni/src/main/java/java/lang
+ 
+(package android.*)
+platform_frameworks_base 
+https://github.com/android/platform_frameworks_base/tree/master/core/java
+ 
+ 
+ 
+(20131120)
+android开源源码树中值得参考的界面/代码的位置（引用自code.google.com/p/kidsbbs2/）
+volley: android.googlesource.com/platform/frameworks/volley
+chips: android.googlesource.com/platform/frameworks/ex
+photoviewer: android.googlesource.com/platform/frameworks/opt
+ 
+ 
+(20141110)
+Windows命令行创建ssh key（用于git clone git@github.com:xxx/xxx.git和提交私人仓库代码）
+参考：
+https://help.github.com/
+https://help.github.com/articles/generating-ssh-keys/
+https://help.github.com/articles/keeping-your-ssh-keys-and-application-access-tokens-safe/
+https://help.github.com/articles/caching-your-github-password-in-git/
+http://www.cnblogs.com/sheldonxu/archive/2012/09/17/2688281.html
+ 
+环境：
+Windows XP
+Git-1.9.2-preview20140411（msysgit最新版http://msysgit.github.io/）
+ 
+写道
+$ git config --global user.name <github注册用户名>
+$ git config --global user.email <github注册邮箱名>
+$ ls -al ~/.ssh
+$ ssh-keygen -t rsa -C <github注册邮箱名>
+（提示save the key时，直接回车（使用默认路径保存钥匙），然后输入github注册密码（没有回响显示，会提示输入两次））
+$ ssh-agent -s（官方建议，不过有问题，20150605：应使用eval `ssh-agent -s`，注意是反引号）
+$ ssh-add ~/.ssh/id_rsa（失败，改用ssh-agent bash）
+$ ssh-agent bash
+bash-3.1$ ssh-add ~/.ssh/id_rsa（成功，2015年6月5日：后来发现仍然会失败）
+（到了这里需要手工把C:\Documents and Settings\Administrator\.ssh的id_rsa.pub文件内容粘贴到github网站->设置->SSH Keys （https://github.com/settings/ssh，点击Add SSH Key按钮），标题可以任意指定
+$ ssh -T git@github.com（测试，只要显示authenticated就表示成功，不要理会shell access警告）
+Hi username! You've successfully authenticated, but GitHub does not
+# provide shell access.
+$ git clone git@github.com:xxx/xxx.git（在网页上创建github代码库，然后使用右下角的SSH clone URL克隆代码）
+ 
+（20150605）
+应使用eval `ssh-agent -s`启动授权代理进程（注意是反引号）
+参考： 
+http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent
+ 
+（20161016）
+在执行ssh-add时报错
+sh: __git_ps1: command not found
+解决办法：
+参考：https://segmentfault.com/q/1010000005952497/a-1020000005952506
+-------------分割线开始-----------------
+在stackoverflow上找到灵感，就去gitbash的安装目录\Git\etc搜寻了一番，找到了如下文件：
+bash.bashr
+其中有这么一行
+# Set a default prompt of: user@host, MSYSTEM variable, and current_directory
+# PS1='\[\e]0;\w\a\]\n\[\e[32m\]\u@\h \[\e[35m\]$MSYSTEM\[\e[0m\] \[\e[33m\]\w\[\e[0m\]\n\$ '
+我把PS1前面的#去掉，然后在输入sh，就没有报错了
+-------------分割线结束-----------------
+对于xp来说，这个文件可能是在
+D:\Program Files\Git\etc\bash.bashrc
+如果解除注释，会导致mingw的提示符不显示分支名，
+所以最好在执行完ssh-add后重新注释掉PS1
+
+
+
+
+另外win7的路径为
+C:\Users\Administrator\.ssh
+可以通过执行(cd ~/.ssh;pwd)命令查看目录名
+ 
+写道
+执行ssh-add时出现Could not open a connection to your authentication agent
+
+若执行ssh-add /path/to/xxx.pem是出现这个错误:Could not open a connection to your authentication agent，则先执行如下命令即可：
+
+　　ssh-agent bash
+
+
+更多关于ssh-agent的细节，可以用 man ssh-agent 来查看
+ 
+ * 提交代码
+> cd xxx （切换到工作目录）
+> git pull (20150515：建议最好在这时候先执行一下git pull更新到最新版本，类似于svn的update，不过网上建议用git fetch和git merge代替）
+> git add -A . (注意后面的是一个点）（20150323：注意可以加-A参数，git add -A .表示本地删除的内容也同步到远程，使得远程的文件也被删除）
+> git commit -m 'adding xxx' (后面是日志内容)
+> git push origin master （提交到origin节点的master分支，官方的做法是git push -u origin master） (20160807:我写错了，官方用-u不是-r，意思是以后执行git push的默认操作是推送到origin的master分支，可以省略后面的origin master参数，不过我一般不用-u参数，以强调这是哪个分支）
+> git submodule update --init --recursive (检出子仓库）
+ 
+ (20150323)
+京东云的git教程（在创建应用时会显示类似的链接，针对京东云的git代码库，部分也适用于github）
+http://jae.jd.com/help/create_app.html?targ=259
+见下面的faq
+http://learn.zone.jd.com/cmsindex/appdetail.htm?id=97002
+ 
+(20150921)
+如果有多个公钥（.pub文件）
+可以这样配置，创建一个config文件在~/.ssh/目录下（命令行为touch ~/.ssh/config），然后修改内容为如下类似：
+写道
+Host github.com
+HostName github.com
+User git
+IdentityFile /c/Users/zhong/.ssh/id_rsa
+
+Host 192.168.1.2
+HostName 192.168.1.2
+User git
+IdentityFile /c/Users/zhong/.ssh/id_rsa_gitlab
+ 
+这样当访问不同域名时使用不同的公钥（测试命令为ssh -T git@github.com）
+参考：
+http://www.111cn.net/sys/linux/71236.htm
+ 
+(20161016)修改~/.ssh/config后执行git命令出现这样的错误
+/c/Documents and Settings/Administrator/.ssh/config line 4: garbage at end of line; "and".
+解决方法：用双引号括住带有空格的路径（在xp下测试）  
+例如：
+Host github.com
+HostName github.com
+User git
+IdentityFile "/c/Documents and Settings/Administrator/.ssh/id_rsa"
+ 
+ 
+ （20160116）参考这篇（有些地方可能不对）
+Linux下Git和GitHub使用方法总结
+http://www.linuxidc.com/Linux/2014-03/97821.htm
+ 
+写道
+Linux下Git和GitHub使用方法总结
+
+1 Linux下Git和GitHub环境的搭建
+第一步： 安装Git，使用命令sudo apt-get install git
+第二步： 创建GitHub帐号
+第三步： 生成ssh key，使用命令ssh-keygen -t rsa -C "your_email@youremail.com"，your_email是你的email
+第四步： 回到github，进入Account Settings，左边选择SSH Keys，Add SSH Key,title随便填，粘贴key。
+第五步： 测试ssh key是否成功，使用命令ssh -T git@github.com，如果出现You’ve successfully authenticated, but GitHub does not provide shell access 。这就表示已成功连上github。
+第六步： 配置Git的配置文件，username和email
+git config --global user.name "your name" //配置用户名
+git config --global user.email "your email" //配置email
+
+2 利用Git从本地上传到GitHub
+第一步： 进入要所要上传文件的目录输入命令 git init
+第二步： 创建一个本地仓库origin，使用命令 git remote add origin git@github.com:yourName/yourRepo.git
+youname是你的GitHub的用户名，yourRepo是你要上传到GitHub的仓库
+第三步： 比如你要添加一个文件xxx到本地仓库，使用命令 git add xxx，可以使用git add .自动判断添加哪些文件
+然后把这个添加提交到本地的仓库，使用命令 git commit -m 说明这次的提交
+最后把本地仓库origin提交到远程的GitHub仓库，使用命令 git push origin master
+
+3 从GitHub克隆项目到本地
+第一步： 到GitHub的某个仓库，然后复制右边的有个"HTTPS clone url"
+第二步： 回到要存放的目录下，使用命令 "git clone https://github.com/xxxx/xxx.git"，红色的url只是一个例子
+第三步： 如果本地的版本不是最新的，可以使用命令 git fetch origin，origin是本地仓库
+第四步： 把更新的内容合并到本地分支，可以使用命令 git merge origin/master
+如果你不想手动去合并，那么你可以使用： git pull <本地仓库> master // 这个命令可以拉去最新版本并自动合并
+
+4 GitHub的分支管理
+创建
+1 创建一个本地分支： git branch <新分支名字>
+2 将本地分支同步到GitHub上面： git push <本地仓库名> <新分支名>
+3 切换到新建立的分支： git checkout <新分支名>
+4 为你的分支加入一个新的远程端： git remote add <远程端名字> <地址>
+5 查看当前仓库有几个分支: git branch
+删除
+1 从本地删除一个分支： git branch -d <分支名称>
+2 同步到GitHub上面删除这个分支： git push <本地仓库名> :<GitHub端分支>
+
+5 常见错误
+1 如果出现报错为ERROR: Repository not found.fatal: The remote end hung up unexpectedly则代表你的 origin 的url 链接有误，可能是创建错误，也可能是这个 git@github.com:xxx/new-project.git url 指定不正确。重新创建。
+ 
+(20160201) 切换到标签分支
+> git tag -l
+> git checkout tags/v1.5.0
+ 
+(20160607)创建标签
+切换到当前代码，然后执行
+> git tag v1.1
+提交（一定要显式通过--tags提交）
+git push origin –tags
+参考：
+http://blog.csdn.net/wangjia55/article/details/8793577
+ 
+ 
+ 
+ 
+(20160512)参考这篇
+一些命令可以参考这里
+http://geek.csdn.net/news/detail/72807
+ 
+写道
+git init 【初始化本地仓库 ，将当前项目目录加入git管理】
+git add <filename||path> 【将新文件加入版本控制，Git会对目标文件进行跟踪，纳入版本控制管理。（这是个多功能命令，根据目标文件的状态不同，此命令的效果也不同：可以用它开始跟踪新文件，或者把已跟踪的文件放到暂存区，还能用于合并时把有冲突的文件标记为已解决状态等）】
+git add . 【将当前目录所有文件加入到版本控制】
+git commit -m 'commit comment' 【提交变动，将修改的文件转移到暂存区】
+git commit -a 'commit comment' 【将add和commit操作合并】
+git commit --amend 【重新commit，将之前commit合并为一个(add上次commit漏掉的文件或者重写comment)】
+
+
+git clone source. zhouliwei.com/app/zhouliwei.git 【本地仓库clone】 
+git clone git+ssh://gitusername@192.168.0.1/zhouliwei.git 【远程仓库clone(ssh协议)】 
+git clone http://gitusername@source.zhouliwei.com/app/ zhouliwei.git 【远程仓库clone(http协议)】 
+git clone -l /home/zhouliwei/test 【拷贝本地资源库到当前目录】 
+git clone -b 分支名 http://gitusername@source. zhouliwei.com/app/test.git 【clone指定分支(类似checkout)】 
+git clone -s 远程地址 【作为共享仓库】 
+
+git log 【显示所有历史提交日志，最近的在第一行】 
+git log -1 【显示最近一行】 
+git log --stat 【显示提交日志及相关变动文件，增改行统计】
+git log -p -1 【详细显示每次提交的内容差异】 
+git log -p -m 
+
+git clean --df 【是从工作目录中移除没有track的文件】 
+git rm –cached <filename||path> 【将文件或者路径从远程reposity、本地暂存域中删除，在本地工作空间中保留，主要针对和项目本身无关的不小心提交到服务器的文件】
+vim filename 【查看、编辑资源文件】
+
+
+git branch 【列出本地所有分支(已检出)】 
+git branch -a 【列出本地+远程所有分支】 
+git branch -v 【可以看见每一个分支的最后一次提交】 
+git branch -av 
+git branch -r 【列出所有原创分支(origin/.)】 
+git branch branchname 【创建一个新分支】 
+git branch -d 分支名 【删除一个分支】 
+git branch -m oldbranch newbranch 【本地分支改名】 
+git branch --contains 字符串 【显示包含目标字符串的分支】 
+git branch --merged 【显示所有已合并到当前分支的分支】
+git branch --no-merged 【显示所有未合并到当前分支的分支】 
+git branch --set-upstream 分支名 origin/分支名 【本地分支关联到远程路径】 
+
+
+
+git checkout branchname 【切换到新分支】 
+git checkout -b branchname 【创建并切换到新的分支，如果本地已经有此分支则使用上个命令】 
+git checkout -b branchname origin/branchname 【在本地创建新分支，从远程拉取新分支代码】 
+git checkout filename 【替换本地改动，会从服务器下载最新的文件（HEAD 中最新的内容）覆盖工作目录中的文件(add、commit的文件不受影响)，次这个操作是不可逆】 
+
+git merge branchname || origin/branchname 【合并目标分支到当前分支，合并之后会生成一个新的快照对象】 
+
+git reset --hard HEAD 【将当前版本重置为HEAD（通常用于merge失败回退）】 
+
+
+git fetch origin 【1.从服务器拉取最新版本】 
+git reset --hard origin/master 【2.将你本地主分支指向到远程分支】
+
+
+git fetch --all 【 从远处资源库拉取所有分支(merge之后才会更新本地分支)，可以进行diff、log 
+git fetch origin 【将从远程拉取上次克隆后的master分支所有变化，即获取master分支最新代码】
+
+git fetch origin branchname1 【1. <远程主机名> <分支名> 设置当前的fetch_head为分支branchname(fetch_head为每个分支在服务器上的最新状态)】 
+git fetch origin branchname1: branchname2 【2. 拉取远程branchname1到本地新分支branchname2(branchname2是一个临时分支) 】 
+git fetch diff branchname2 【3. 将当前分支和新建的临时分支branchname2进行比较】 
+git fetch merge branchname2 【 4. 将当前分支和新建的临时分支branchname2进行合并，此时branchname1为最新代码】 
+git fetch -d branchname2 【5.删除临时分支branchname2】 
+
+git pull == git fetch + merge 【从远程拉取最新版本，合并】 
+git pull origin branchname1 【拉取并合并branchname1】 
+
+
+git pull <远程主机名> <远程分支名>:<本地分支名> 
+git push <远程主机名> <本地分支名>:<远程分支名> 【将本地分支推送到远程分支】 
+1) git push origin <本地分支名> 【远程分支名为空，将本地分支推送到远程与其有对映关系的分支】 
+2) git push origin ：<远程分支名> 【本地分支名为空，将本地空分支推送到远程分支，即删除远程分支】 
+3) git push origin 【将本地当前分支推送到远程与其有对映关系的分支】 
+
+
+git remote 【列出远程所有alias别名，自己权限范围内的远程reposity】 
+git remote -v 【可以看见每一个别名对应的实际url】 
+git remote add [alias] [url] 【给远程url添加别名||把url添加为远程仓库】 
+git remote add myRepo /home/zhouliwei/test.git 【添加本地仓库作为远程仓库，共享目录】
+git remote rm [alias] 【删除一个别名】 
+git remote rename [old-alias] [new-alias] 【重命名】
+git remote set-url [alias] [url] 【更新url. 可以加上—push和fetch参数,为同一个别名set不同的存取地址. 】
+git remote add origin <server> 【将本地仓库连接到远程仓库 git remote add origin http://gitusername@source.zhouliwei.com/app/test.git 然后可以通过git push origin branchname将branchname推送到相应远程分支;创建远程仓库】
+git remote show origin 【显示远程信息】
+
+
+
+git init
+git add .
+git commit –m ‘initial commit’
+git remote add origin http://gitusername@source.zhouliwei.com/app/test.git
+git push orgin master
+ 
+ 
+ 
