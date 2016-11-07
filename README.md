@@ -443,6 +443,9 @@ http://acg.178.com/201512/243640292879.html
 * Bilibili七夕之约 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ  乾杯~  - bilibili    
 http://www.bilibili.com/html/activity-qixi2016.html  
 
+* eliorshalev/zombie-mayhem  
+https://github.com/eliorshalev/zombie-mayhem  
+
 ## 移动端图形库
 * BradLarson/GPUImage  
 https://github.com/BradLarson/GPUImage  
