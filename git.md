@@ -1,5 +1,5 @@
 * coding.net   
-https://coding.net/search?q=&type=project  
+https://coding.net/search?q=&type=project&related=false  
 
 * github.com  
 https://github.com/search?utf8=✓&q=&type=Repositories&ref=searchresults  
