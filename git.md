@@ -5,7 +5,7 @@ https://coding.net/search?q=&type=project&related=false
 https://github.com/search?utf8=✓&q=&type=Repositories&ref=searchresults  
 
 * gitcafe.com  (not available now)  
-http://gitcafe.com  
+http://gitcafe.com (not available now)  
 
 * bitbucket.org  
 https://bitbucket.org/repo/all?name=  
@@ -13,6 +13,9 @@ https://bitbucket.org/repo/all?name=
 * gitlab.com  
 https://gitlab.com  
 https://gitlab.com/search  
+
+* gitorious (read only)    
+https://gitorious.org/  
 
 * 常用Git代码托管服务分享  
 http://kevinfan.blog.51cto.com/1037293/1306021/  
