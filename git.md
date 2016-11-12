@@ -4,8 +4,8 @@ https://coding.net/search?q=&type=project&related=false
 * github.com  
 https://github.com/search?utf8=✓&q=&type=Repositories&ref=searchresults  
 
-* gitcafe.com  
-https://gitcafe.com  
+* gitcafe.com  (not available now)  
+http://gitcafe.com  
 
 * bitbucket.org  
 https://bitbucket.org/repo/all?name=  
