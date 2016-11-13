@@ -405,6 +405,14 @@ https://github.com/veficos/reverse-engineering-for-beginners
 * Juude/droidReverse  
 https://github.com/Juude/droidReverse  
 
+* radare2  
+http://radare.org/r/  
+https://github.com/radare/radare2  
+很适合用来反汇编一小段的二进制文件，用法类似gcc，例如使用rasm反汇编（假设全是代码段）  
+rasm2 -a x86 -dD -Bf a.exe -O a.txt  
+使用rabin打印非代码信息  
+rabin2 -a x86 -Ilse a.exe > a.txt  
+
 ## 通信/社交/推送(push)      
 * lfkdsk/webim  
 https://github.com/lfkdsk/webim  
