@@ -437,6 +437,10 @@ https://github.com/caprice/cim
 https://mpusher.github.io/  
 http://www.iteye.com/news/31819  
 
+* Open Whisper Systems  
+https://whispersystems.org/  
+https://github.com/WhisperSystems/Signal-Android  
+
 ## html5  
 * loveJS  
 https://github.com/DaanHaaz/loveJS  
