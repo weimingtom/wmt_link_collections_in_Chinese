@@ -5,6 +5,7 @@
 * https://github.com/couchbase/couchbase-lite-android
 * https://neo4j.com
 * http://www.db4o.com
+* https://github.com/SumiMakito/QuickKV
 
 
 ## list
