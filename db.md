@@ -10,3 +10,7 @@
 
 ## list
 * http://www.race604.com/snappydb-nosql/
+
+## serialize
+* https://github.com/EsotericSoftware/kryo
+* http://nettm.blog.51cto.com/4841905/1702453
