@@ -536,4 +536,8 @@ http://867258173.diandian.com/post/2014-02-12/40060970396
 * dwing  
 http://tieba.baidu.com/f?kw=dwing&ie=utf-8  
 
+## 编译器  
+* https://github.com/rui314/8cc  
+* https://github.com/kw-udon/constexpr-8cc  
+
 ## TODO  
