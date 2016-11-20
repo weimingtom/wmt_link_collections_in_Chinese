@@ -6,7 +6,8 @@
 * https://neo4j.com
 * http://www.db4o.com
 * https://github.com/SumiMakito/QuickKV
-* https://github.com/google/leveldb
+* https://github.com/google/leveldb  
+* https://github.com/realm/realm-java  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
