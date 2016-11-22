@@ -8,6 +8,7 @@
 * https://github.com/SumiMakito/QuickKV
 * https://github.com/google/leveldb  
 * https://github.com/realm/realm-java  
+* https://github.com/mbdavid/LiteDB  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
