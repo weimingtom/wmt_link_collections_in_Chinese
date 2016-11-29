@@ -22,3 +22,9 @@ https://git.oschina.net/search?utf8=%E2%9C%93&search=&group_id=&project_id=
 
 * 常用Git代码托管服务分享  
 http://kevinfan.blog.51cto.com/1037293/1306021/  
+
+* codeplex  
+http://www.codeplex.com  
+
+* codeproject  
+https://www.codeproject.com  
