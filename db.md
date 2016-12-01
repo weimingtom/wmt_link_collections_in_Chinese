@@ -17,3 +17,8 @@
 * https://github.com/EsotericSoftware/kryo
 * http://nettm.blog.51cto.com/4841905/1702453
 * https://github.com/neuecc/ZeroFormatter  
+
+## Redis for Windows 64bit   
+6379  
+https://github.com/MSOpenTech/redis/releases  
+https://github.com/dmajkic/redis/downloads  
