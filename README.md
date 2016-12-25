@@ -353,6 +353,9 @@ https://github.com/evoup/simpleTileMapEditor1.0
 * D2D Map Editor (d2dmapeditor)   
 https://sourceforge.net/projects/d2dmapeditor/  
 
+* zrispo/wick (html5 game editor)  
+https://github.com/zrispo/wick  
+
 ## 图形库 / 游戏引擎 / 图形移植  
 * OpenLayer   
 http://sourceforge.net/projects/openlayer.berlios/  
