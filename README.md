@@ -312,6 +312,9 @@ http://www.bluej.org
 * 图扑软件 - 构建先进2D和3D可视化所需要的一切  
 http://www.hightopo.com/cn-index.html  
 
+* knsv/mermaid  
+https://github.com/knsv/mermaid  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
