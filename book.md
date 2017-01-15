@@ -1,4 +1,4 @@
-# Book Code Collection
+﻿# Book Code Collection
 
 ## Game (interesting)    
 
@@ -70,6 +70,11 @@ COM 技术内幕
 
 * The Art of Multiprocessor Programming Mar 2008  
 多处理器编程的艺术  
+
+* 自制编译器  
+https://github.com/aamine/cbc  
+http://www.ituring.com.cn/book/1308  
+https://github.com/leungwensen/cbc-ubuntu-64bit  
 
 ## Enterprise Development  
 * Tomcat与Java Web开发技术详解(第2版)  
