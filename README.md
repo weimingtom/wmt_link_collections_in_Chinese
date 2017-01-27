@@ -63,8 +63,10 @@ http://survive-engineer.hatenablog.com/entry/2014/02/13/013103
 https://github.com/andyxialm/TyperEditText  
 
 * 视差滚动（Parallax Scrolling）  
-SchibstedSpain/Parallax-Layer-Layout  
+(1) SchibstedSpain/Parallax-Layer-Layout  
 https://github.com/SchibstedSpain/Parallax-Layer-Layout  
+(2) gijsroge/tilt.js  
+https://github.com/gijsroge/tilt.js  
 
 * 回旋木马（Carousel，轮播）  
 (1) Bootstrap carousel   
@@ -263,6 +265,9 @@ https://github.com/im-qq/imgo
 * IM-Netty/IMServer （非游戏）  
 https://github.com/IM-Netty/IMServer  
 https://github.com/IM-Netty/IMAndroidClient  
+
+* cesanta/mongoose  
+https://github.com/cesanta/mongoose  
 
 ## 游戏客户端编程  
 * ShortTailLab/ph-open （PuzzleHero）  
