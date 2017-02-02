@@ -285,6 +285,7 @@ https://code.google.com/p/jsyntaxpane/
 
 * bobbylight/RSyntaxTextArea  
 https://github.com/bobbylight/RSyntaxTextArea  
+https://github.com/saulecabrera/VB6Subset  
 
 * skylot/jadx  
 https://github.com/skylot/jadx  
