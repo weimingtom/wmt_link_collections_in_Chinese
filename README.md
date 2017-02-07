@@ -556,4 +556,7 @@ http://tieba.baidu.com/f?kw=dwing&ie=utf-8
 * https://github.com/kw-udon/constexpr-8cc  
 * https://github.com/mattgodbolt/gcc-explorer  
 
-## TODO  
+## 小说写作工具  
+* http://www.xuanpai.com/download  
+
+## TODO  
