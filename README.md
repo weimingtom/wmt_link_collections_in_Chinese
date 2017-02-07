@@ -321,6 +321,9 @@ http://www.hightopo.com/cn-index.html
 * knsv/mermaid  
 https://github.com/knsv/mermaid  
 
+* iMatrix  
+https://github.com/norteksoft/5.2.0.RC/tree/master/iMatrix  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
