@@ -132,8 +132,8 @@ https://github.com/android-cjj/BiliClient
 * Coding-Game-Intro  
 https://github.com/albertz/Coding-Game-Intro  
 
-## GUI库 / 好看的游戏界面皮肤  
-* begui  
+## GUI库 / 好看的游戏界面皮肤 / 界面编辑器  
+* begui  
 https://code.google.com/p/begui/  
 
 * imgui  
@@ -204,6 +204,9 @@ https://github.com/isee15/Sqlcipher-Viewer
 
 * s-hiiragi/FullTextSearchSample  
 https://github.com/s-hiiragi/FullTextSearchSample  
+
+* https://github.com/blueantst/Script.NET  
+* https://github.com/LineDotTeam/BKEditor  
 
 ## 前端node.js开发工具  
 npm install -g clean-css  
