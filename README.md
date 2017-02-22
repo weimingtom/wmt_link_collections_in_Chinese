@@ -433,8 +433,8 @@ rasm2 -a x86 -dD -Bf a.exe -O a.txt
 使用rabin打印非代码信息  
 rabin2 -a x86 -Ilse a.exe > a.txt  
 
-* Retargetable Decompiler，在线反编译（支持各种格式和支持反编译成C代码）  
-https://retdec.com/decompilation/  
+* Retargetable Decompiler，在线反编译（支持各种格式和支持反编译成C代码）  
+https://retdec.com/decompilation/  
 
 * xem/minix86，x86 msdos反汇编  
 https://github.com/xem/minix86  
