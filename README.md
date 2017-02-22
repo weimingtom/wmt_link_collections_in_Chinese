@@ -439,6 +439,8 @@ https://retdec.com/decompilation/
 * xem/minix86，x86 msdos反汇编  
 https://github.com/xem/minix86  
 
+* search exe2c / exetoc  
+
 ## 通信/社交/推送(push)      
 * lfkdsk/webim  
 https://github.com/lfkdsk/webim  
