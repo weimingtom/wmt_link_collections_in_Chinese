@@ -133,7 +133,7 @@ https://github.com/android-cjj/BiliClient
 https://github.com/albertz/Coding-Game-Intro  
 
 ## GUI库 / 好看的游戏界面皮肤 / 界面编辑器  
-* begui  
+* begui  
 https://code.google.com/p/begui/  
 
 * imgui  
