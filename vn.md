@@ -22,6 +22,10 @@ https://forums.fuwanovel.net/topic/4543-lucid9-available-for-free-on-steam/
 http://lucid9.weebly.com  
 http://lucid9.weebly.com/play.html  
 
+## avgjs  
+https://avgjs.org  
+https://github.com/avgjs/storyscript  
+
 ## etc  
 http://www.singjchen.com/iPhoneVNE.html  
 
