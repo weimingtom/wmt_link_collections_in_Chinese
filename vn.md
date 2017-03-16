@@ -1,0 +1,16 @@
+https://github.com/udspj/udspj.github.io  
+https://github.com/rinkako/ProjectYuri  
+https://github.com/CloudyIce/violet-light  
+https://github.com/chicchi0531/ProjectWitch  
+
+https://github.com/anonl/nvlist  
+https://code.google.com/archive/p/nvlist/  
+http://nvlist.weeaboo.nl  
+http://www.iihigate.eu/visual-novels/vn-reaching-out/  
+
+
+https://github.com/Hyuchia/Monogatari  
+https://monogatari.io  
+http://monogatari.hyuchia.com/demo/  
+
+http://www.singjchen.com/iPhoneVNE.html  
