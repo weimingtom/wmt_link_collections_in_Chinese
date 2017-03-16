@@ -25,6 +25,9 @@ http://lucid9.weebly.com/play.html
 ## etc  
 http://www.singjchen.com/iPhoneVNE.html  
 
+## index  
+https://github.com/weimingtom/Kuuko/blob/master/README4.md  
+
 ## github    
 https://github.com/udspj/udspj.github.io  
 https://github.com/rinkako/ProjectYuri  
