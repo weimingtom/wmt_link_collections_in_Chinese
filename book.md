@@ -80,5 +80,8 @@ https://github.com/leungwensen/cbc-ubuntu-64bit
 * Tomcat与Java Web开发技术详解(第2版)  
 Tomcat+java+web+开发技术详解-孙卫琴-第二版   
 
+## 3D  
+* 计算机图形学应用java2D和3D  
+* 3D游戏与计算机图形学中的数学方法  
 
 
