@@ -570,4 +570,7 @@ http://tieba.baidu.com/f?kw=dwing&ie=utf-8
 ## 小说写作工具  
 * http://www.xuanpai.com/download  
 
+## 考虑买的游戏  
+星际1重制版  
+
 ## TODO  
