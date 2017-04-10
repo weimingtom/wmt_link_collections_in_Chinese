@@ -32,9 +32,11 @@ http://www.singjchen.com/iPhoneVNE.html
 ## index  
 https://github.com/weimingtom/Kuuko/blob/master/README4.md  
 
+## ProjectYuri（编辑器）  
+https://github.com/rinkako/ProjectYuri   
+
 ## github    
 https://github.com/udspj/udspj.github.io  
-https://github.com/rinkako/ProjectYuri  
 https://github.com/CloudyIce/violet-light  
 https://github.com/chicchi0531/ProjectWitch  
 https://github.com/navarro0/visual-novel-engine  
