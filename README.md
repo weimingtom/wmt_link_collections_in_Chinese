@@ -327,6 +327,13 @@ https://github.com/knsv/mermaid
 * iMatrix  
 https://github.com/norteksoft/5.2.0.RC/tree/master/iMatrix  
 
+* designer  
+http://blog.csdn.net/moonshine_1988/article/details/35561093  
+https://github.com/weimingtom/ugame/tree/master/projects/designer  
+
+* jbpm  
+http://www.jbpm.org  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
