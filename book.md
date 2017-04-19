@@ -84,4 +84,6 @@ Tomcat+java+web+开发技术详解-孙卫琴-第二版
 * 计算机图形学应用java2D和3D  
 * 3D游戏与计算机图形学中的数学方法  
 
+## etc  
+* https://github.com/github/dmca/blob/master/2017/2017-02-28-Cengage.md  
 
