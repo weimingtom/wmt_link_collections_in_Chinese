@@ -5,4 +5,6 @@
   from http://www.cnblogs.com/xiaowenhu/p/3222709.html  
 
 * http://www.hboehm.info/gc/  
-
+  form https://github.com/weimingtom/xwing  
+  libgc-dev / boehm-gc / Boehm GC
+  
