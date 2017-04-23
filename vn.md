@@ -37,7 +37,7 @@ https://github.com/weimingtom/Kuuko/blob/master/README4.md
 ## ProjectYuri（编辑器）  
 https://github.com/rinkako/ProjectYuri   
 
-## Almight  
+## Almight / AlmightJS    
 http://almight.jp/  
 
 ## github    
