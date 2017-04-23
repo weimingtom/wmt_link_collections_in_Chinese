@@ -25,6 +25,8 @@ http://lucid9.weebly.com/play.html
 ## avgjs  
 https://avgjs.org  
 https://github.com/avgjs/storyscript  
+https://github.com/avgjs/avg-core  
+https://demo.avgjs.org/  
 
 ## etc  
 http://www.singjchen.com/iPhoneVNE.html  
@@ -34,6 +36,9 @@ https://github.com/weimingtom/Kuuko/blob/master/README4.md
 
 ## ProjectYuri（编辑器）  
 https://github.com/rinkako/ProjectYuri   
+
+## Almight  
+http://almight.jp/  
 
 ## github    
 https://github.com/udspj/udspj.github.io  
