@@ -28,3 +28,7 @@ http://www.lylinux.org/c%E4%BD%BF%E7%94%A8vs2010%E8%BF%9E%E6%8E%A5mysql%E6%95%B0
 
 ## ini-parser  
 https://github.com/rickyah/ini-parser  
+
+## ASP.NET httpModules / IHttpModule    
+http://blog.csdn.net/wenviwu/article/details/4531800  
+http://www.cnblogs.com/fengzheng/p/3666774.html  
