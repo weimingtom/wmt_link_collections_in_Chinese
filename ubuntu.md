@@ -53,5 +53,6 @@
 * gradle / mvn    
   sudo apt-get install gradle   
 
-
+* git svn clone xxx  
+  sudo apt-get install git-svn  
 
