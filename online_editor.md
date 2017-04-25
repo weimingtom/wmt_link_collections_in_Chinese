@@ -2,6 +2,7 @@
 * http://ueditor.baidu.com/website/onlinedemo.html   
 * http://kindeditor.net/demo.php  
 * http://xheditor.com/demo.html  
+* http://www.ewebeditor.net/demo/  
 
 ## Text (not Chinese)  
 * http://ckeditor.com  
