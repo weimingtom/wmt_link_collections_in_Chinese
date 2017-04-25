@@ -3,7 +3,8 @@
 * http://kindeditor.net/demo.php  
 * http://xheditor.com/demo.html  
 * http://www.ewebeditor.net/demo/  
-* http://www.kalcaddle.com/download.html  
+* http://www.kalcaddle.com/download.html  
+* http://www.e512.net/tqeditor/demo.htm  
 
 ## Text (not Chinese)  
 * http://ckeditor.com  
