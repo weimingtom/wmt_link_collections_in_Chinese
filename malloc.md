@@ -8,3 +8,4 @@
   from https://github.com/weimingtom/xwing  
   libgc-dev / boehm-gc / Boehm GC
   
+* https://github.com/rampantpixels/rpmalloc  
