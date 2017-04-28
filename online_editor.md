@@ -21,3 +21,5 @@
 ## Line  
 * https://github.com/hlerenow/lineEditor  
 * https://github.com/orbitbot/misbehave  
+* http://www.cdolivet.com/editarea/  
+* http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html  
