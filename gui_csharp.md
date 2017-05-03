@@ -22,3 +22,9 @@ https://github.com/quanguizeng/QUILib
 * Arthas-WPFUI  
 https://github.com/1217950746/Arthas-WPFUI  
 
+* MindMate  
+https://github.com/umaranis/MindMate  
+
+* Windows-Ribbon-for-WinForms  
+https://github.com/amoikevin/Windows-Ribbon-for-WinForms  
+
