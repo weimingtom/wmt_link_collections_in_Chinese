@@ -1,0 +1,4 @@
+* SlickEdit  
+* VSCode  
+* Atom  
+* Brackets  
