@@ -32,4 +32,4 @@ https://github.com/amoikevin/Windows-Ribbon-for-WinForms
 https://github.com/dcdlove/JadeUI  
 
 * dotnetbar
-
+http://www.devcomponents.com/  
