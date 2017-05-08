@@ -28,3 +28,8 @@ https://github.com/umaranis/MindMate
 * Windows-Ribbon-for-WinForms  
 https://github.com/amoikevin/Windows-Ribbon-for-WinForms  
 
+* JadeUI  
+https://github.com/dcdlove/JadeUI  
+
+* dotnetbar
+
