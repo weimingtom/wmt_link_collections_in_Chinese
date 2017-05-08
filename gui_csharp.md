@@ -31,5 +31,5 @@ https://github.com/amoikevin/Windows-Ribbon-for-WinForms
 * JadeUI  
 https://github.com/dcdlove/JadeUI  
 
-* dotnetbar
+* dotnetbar  
 http://www.devcomponents.com/  
