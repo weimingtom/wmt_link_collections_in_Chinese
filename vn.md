@@ -40,6 +40,9 @@ https://github.com/rinkako/ProjectYuri  
 ## Almight / AlmightJS    
 http://almight.jp/  
 
+## LemoNovel  
+http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
+
 ## github    
 https://github.com/udspj/udspj.github.io  
 https://github.com/CloudyIce/violet-light  
