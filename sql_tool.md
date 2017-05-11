@@ -1,4 +1,5 @@
-* https://github.com/rickbergfalk/sqlpad  
+* sqlpad  
+https://github.com/rickbergfalk/sqlpad  
 sqlpad --port 3000  
 
 * phpMyAdmin  
