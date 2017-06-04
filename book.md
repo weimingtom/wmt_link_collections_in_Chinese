@@ -54,6 +54,10 @@ The Web Game Developer's Cookbook: Using JavaScript and HTML5 to Develop Games
 Invent Your Own Computer Games with Python  
 http://inventwithpython.com/  
 
+* 『ゲームの作り方　Unityで覚える遊びのアルゴリズム』  
+Unity游戏设计与实现：南梦宫一线程序员的开发实例  
+http://www006.upp.so-net.ne.jp/chewee/uni-mini-hon/index.htm  
+
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
