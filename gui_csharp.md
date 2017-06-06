@@ -38,3 +38,8 @@ https://github.com/jilichao/vtms
 https://github.com/dalinhuang/gaoxinga  
 https://github.com/GreenDamTan/ShipGirlBot-old  
 https://github.com/gladiopeace/botmeetme  
+
+
+## GUI in C++
+* viksoe.dk  
+https://www.viksoe.dk/code/index.htm  
