@@ -39,8 +39,8 @@ https://github.com/dalinhuang/gaoxinga
 https://github.com/GreenDamTan/ShipGirlBot-old  
 https://github.com/gladiopeace/botmeetme  
 
-* mahapps.metroa
-http://mahapps.com  
+* mahapps.metroa  
+http://mahapps.com    
 https://github.com/MahApps/MahApps.Metro  
 
 * FlatTheme  
