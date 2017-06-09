@@ -31,10 +31,10 @@ https://github.com/amoikevin/Windows-Ribbon-for-WinForms
 * JadeUI  
 https://github.com/dcdlove/JadeUI  
 
-* dnb  
+* dotnetbar    
 https://github.com/MagicMaker/HelloDemo  
 https://github.com/kakake/efwplus_winformframe  
-https://github.com/jilichao/vtms
+https://github.com/jilichao/vtms  
 https://github.com/dalinhuang/gaoxinga  
 https://github.com/GreenDamTan/ShipGirlBot-old  
 https://github.com/gladiopeace/botmeetme  
