@@ -80,6 +80,11 @@ https://github.com/aamine/cbc
 http://www.ituring.com.cn/book/1308  
 https://github.com/leungwensen/cbc-ubuntu-64bit  
 
+* 虚拟机的设计与实现C/C++  
+Virtual Machine Design and Implementation C/C++  
+HEC on Linux  
+http://download.csdn.net/download/dazutou/9721672  
+
 ## Enterprise Development  
 * Tomcat与Java Web开发技术详解(第2版)  
 Tomcat+java+web+开发技术详解-孙卫琴-第二版   
