@@ -48,3 +48,8 @@ https://github.com/udspj/udspj.github.io
 https://github.com/CloudyIce/violet-light  
 https://github.com/chicchi0531/ProjectWitch  
 https://github.com/navarro0/visual-novel-engine  
+
+## Silverlight  
+https://github.com/galaxy001/galaxy-doc  
+https://github.com/weimingtom/galaxy_fork  
+
