@@ -53,3 +53,5 @@ https://github.com/navarro0/visual-novel-engine
 https://github.com/galaxy001/galaxy-doc  
 https://github.com/weimingtom/galaxy_fork  
 
+## cocos2dx  
+https://github.com/weimingtom/adv_cocos2dx  
