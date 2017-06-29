@@ -3,4 +3,5 @@
 * https://github.com/luheyun/KUI  
 
 ## VS2013 Workspace  
+* https://github.com/weimingtom/skv8example  
 * https://github.com/weimingtom/skiaui  
