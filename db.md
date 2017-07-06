@@ -9,6 +9,8 @@
 * https://github.com/google/leveldb  
 * https://github.com/realm/realm-java  
 * https://github.com/mbdavid/LiteDB  
+* https://github.com/BohuTANG/nessDB  
+* https://github.com/weicao/cascadb  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
