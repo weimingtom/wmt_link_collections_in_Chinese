@@ -18,3 +18,5 @@ from luadec
 * https://github.com/cacay/MemoryPool  
 
 * https://github.com/weolar/blinkgc  
+
+* https://github.com/rururutan/np2s/blob/master/np2/common/_memory.c  
