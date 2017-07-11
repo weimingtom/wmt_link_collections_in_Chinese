@@ -45,3 +45,7 @@ https://github.com/MahApps/MahApps.Metro
 
 * FlatTheme  
 https://github.com/trunghaut1/FlatTheme  
+
+* Nersent/MaterialWPF  
+https://github.com/Nersent/MaterialWPF  
+
