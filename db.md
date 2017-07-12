@@ -11,6 +11,7 @@
 * https://github.com/mbdavid/LiteDB  
 * https://github.com/BohuTANG/nessDB  
 * https://github.com/weicao/cascadb  
+* https://github.com/hhblaze/DBreeze  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
@@ -24,3 +25,6 @@
 6379  
 https://github.com/MSOpenTech/redis/releases  
 https://github.com/dmajkic/redis/downloads  
+
+## ORM  
+* https://github.com/StackExchange/Dapper  
