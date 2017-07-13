@@ -25,6 +25,10 @@ https://github.com/TimothyWrightSoftware/Fundamental-2D-Game-Programming-With-Ja
 * ActionScript for Multiplayer Games and Virtual Worlds  
 ActionScript大型网页游戏开发  
 
+* 网络游戏server编程  
+https://github.com/Ding8222/MyServer_V0.01  
+https://github.com/hansung080/ServerSolution  
+
 ## Game (other)  
 
 * Learn Lua for iOS Game Development  
