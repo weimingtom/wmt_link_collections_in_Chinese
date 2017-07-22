@@ -58,3 +58,6 @@ https://github.com/weimingtom/galaxy_fork
 
 ## cocos2dx  
 https://github.com/weimingtom/adv_cocos2dx  
+
+## VN_project  
+https://github.com/viicky/VN_project  
