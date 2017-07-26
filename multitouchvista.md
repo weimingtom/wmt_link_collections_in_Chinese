@@ -4,3 +4,5 @@ http://multitouchvista.codeplex.com
 Multitouch.Service.Console  
 Multitouch.Driver.Console.exe  
 Multitouch.Configuration.WPF.exe  
+
+NOTE: It's not good for some programs, for example nwjs.  
