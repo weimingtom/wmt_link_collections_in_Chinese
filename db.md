@@ -12,6 +12,7 @@
 * https://github.com/BohuTANG/nessDB  
 * https://github.com/weicao/cascadb  
 * https://github.com/hhblaze/DBreeze  
+* https://github.com/sergeyksv/tingodb  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
