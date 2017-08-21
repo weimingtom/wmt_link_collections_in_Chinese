@@ -345,6 +345,10 @@ https://sourceforge.net/projects/jhotdraw/
 https://github.com/jgraph/drawio-desktop  
 https://github.com/jgraph/drawio  
 
+* mxgraph  
+https://github.com/jgraph/mxgraph  
+https://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
