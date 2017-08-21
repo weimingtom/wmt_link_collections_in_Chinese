@@ -347,6 +347,7 @@ https://github.com/jgraph/drawio
 
 * mxgraph  
 https://github.com/jgraph/mxgraph  
+https://github.com/jgraph/mxgraph/tree/master/javascript/examples/grapheditor  
 https://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html  
 
 ## 地图编辑器 / 界面编辑器  
