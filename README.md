@@ -482,6 +482,7 @@ Official:
 http://git.oschina.net/farsunset/cim  
 Old version:  
 https://github.com/caprice/cim  
+注意：基于长连接和xml文本协议（注意有些托管网站不支持长连接，所以会自动断线）  
 
 * mpush  
 基于Netty的实时开源消息推送系统  
@@ -491,6 +492,12 @@ http://www.iteye.com/news/31819
 * Open Whisper Systems  
 https://whispersystems.org/  
 https://github.com/WhisperSystems/Signal-Android  
+
+* androidpn / Android Push Notification  
+https://sourceforge.net/projects/androidpn/  
+AndroidPN源码分析（包含client和server）  
+http://blog.csdn.net/wanli_smile/article/details/8126251  
+http://download.csdn.net/detail/wanli_smile/4700437  
 
 ## html5  
 * loveJS  
