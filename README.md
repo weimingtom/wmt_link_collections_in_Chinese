@@ -482,7 +482,7 @@ Official:
 http://git.oschina.net/farsunset/cim  
 Old version:  
 https://github.com/caprice/cim  
-注意：基于长连接和xml文本协议（注意有些托管网站不支持长连接，所以会自动断线）  
+**注意：基于长连接和xml文本协议（注意有些托管网站不支持长连接，所以会自动断线）**  
 
 * mpush  
 基于Netty的实时开源消息推送系统  
