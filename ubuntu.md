@@ -62,3 +62,6 @@
 * ncurses  
   sudo apt-get install libncurses-dev  
 
+* valgrind  
+  sudo apt-get install valgrind  
+
