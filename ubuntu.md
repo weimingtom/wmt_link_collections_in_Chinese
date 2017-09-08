@@ -56,3 +56,5 @@
 * git svn clone xxx  
   sudo apt-get install git-svn  
 
+* readline  
+  sudo apt-get install libreadline-dev  
