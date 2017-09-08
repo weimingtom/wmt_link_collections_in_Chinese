@@ -58,3 +58,7 @@
 
 * readline  
   sudo apt-get install libreadline-dev  
+
+* ncurses  
+  sudo apt-get install libncurses-dev  
+
