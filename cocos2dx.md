@@ -8,3 +8,7 @@
 ## Server  
 * https://github.com/dualface/gbc-core  
 * https://github.com/dualface/quickserver  
+
+## search key word   
+* 普通血战  
+* 游戏结算层  
