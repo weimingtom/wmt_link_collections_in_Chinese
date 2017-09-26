@@ -498,6 +498,7 @@ https://sourceforge.net/projects/androidpn/
 AndroidPN源码分析（包含client和server）  
 http://blog.csdn.net/wanli_smile/article/details/8126251  
 http://download.csdn.net/detail/wanli_smile/4700437  
+http://blog.sae.sina.com.cn/archives/1165  
 
 ## html5  
 * loveJS  
