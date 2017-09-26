@@ -1,0 +1,75 @@
+http://blog.csdn.net/wanli_smile/article/details/8126251
+form baidu cache  
+
+
+
+AndroidPN源码分析（包含client和server）
+    很久没有写笔记了，也没有分享了，关键是上班太累、做的东西太多、太杂，涉及的东西也多了，自己也很难抽出时间写写。
+    最近自己在做类似QQ那样的聊天程序，其中对消息的交互有两种方式，push和pull。下面就讲讲自己比较钟爱的android push技术——AndroidPN
+    Androidpn包含有server和client两个包，server部分可以作为服务器单独运行，也可以嵌入到web项目的servlet中，在tomcat环境中与web项目的其他部分交互。现在的版本比较多，基于tomcat、ssh的都有，文章的后面我会附上代码：
+Server部分的主要包结构如下： 
+其中org.androidpn.server.dao，org.androidpn.server.model和org.androidpn.server.service为使用hibernate链接数据库并实现简单的用户登录认证，开发中可以用我们自己的认证模块替换。剩下的包就是推送的主体实现。
+接下来逐个包来看：
+1.util包中的类用来加载resources中的配置文件，在配置文件中可指定监听端口和ssl证书目录等属性。
+2.org.androidpn.server.xmpp包里面定义了一些异常类型，主要是包含有入口类XmppServer，这个类用来启动和停止server程序。
+3.org.androidpn.server.xmpp.auth包里面是认证的一些类，我们自己的认证模块可以在这里与androidpn进行结合。
+4.org.androidpn.server.xmpp.codec是XMPP协议的XML文件解析包，server收到和发送的消息都要通过这个包来进行xmpp协议编码和解码。
+5.org.androidpn.server.xmpp.handler包主要是对消息的处理，我们可以针对不同的消息类型定义自己的handler，
+6.org.androidpn.server.xmpp.net包负责维护与client之间的持久连接，并实现了一些传输方式供发送xmpp消息时使用。
+7.org.androidpn.server.xmpp.presence里面只包含PresenceManager类，用来维护client的在线状态。
+8.org.androidpn.server.xmpp.push包里面的NotificationManager类包含有向client发送消息的接口。
+9.org.androidpn.server.xmpp.router包负责将收到的信息包发送到相应的handler进行处理，是一个路由包。
+10.org.androidpn.server.xmpp.session包定义了用来表示持久链接的session，每个session包含一条连接的状态信息。
+11.org.androidpn.server.xmpp.ssl是对连接进行ssl认证的工具包。
+server发送消息的整个流程主要是：
+1. NotificationManager的push接口被调用。
+2.使用SessionManager在当前session集合中查找相应的client链接。
+3.定义自己的XMPP消息格式并组装。
+4.通过相应session，向client发送消息。
+在这个流程中我们需要修改的是步骤3，也就是需要定义和组装自己的xmpp消息，以便于将适当的信息传到客户端并便于客户端解析。一个简单的消息组装例子如下：
+private IQ createMessageIQ(String title, String message, String userId,
+			String json) {
+		Element notification = DocumentHelper.createElement(QName.get(
+				"message", INQURIE_NAMESPACE));
+		notification.addElement("title").setText(title);
+		notification.addElement("text").setText(message);
+		notification.addElement("userId").setText(userId);
+		notification.addElement("json").setText(json);
+		IQ iq = new IQ();
+		iq.setType(IQ.Type.set);
+		iq.setChildElement(notification);
+		return iq;
+	}
+
+ 
+ 
+要注意的是在创建element的时候，传入的namespace要和client解析使用的namespace相匹配。
+server端接收和处理消息的流程是：
+1.connection收到packet，使用tsc.push.server.xmpp.codec解码。
+2.router根据packet的namespace等信息，将packet路由到相应的handler。
+3.handler进行处理。
+相应的router和handler类在androidpn中都有例子可以参考，这里就不贴代码了。开发中只要根据client发送消息的格式，定义自己的router和handler类，然后在PacketRouter中注册router，在IQRouter中注册handler即可。
+Client部分的主要包结构如下：
+Client这边包含有消息的收发，解析以及持久连接的发起，重连等功能呢，十分强大，我们开发时完全不用管底层的连接，也不用担心断线，可以专注于业务部分的开发。
+同时，代码结构也很简单。去除android的Service和BroadCast类以及一些工具类和常量类不谈：
+1.NotificationIQ,NotificationIQProvider,NotificationPacketListener三个类负责对收到的Notification格式的消息进行解析和处理，
+2.XmppManager是主控制器，NotificationService通过这个类，在后台维护androidpn连接。
+3.PersistentConnectionListener，PhoneStateChangeListener，ReconnectionThread.java三个类则负责监听手机的状态并进行断线重连。
+我们自定义消息时需要定义3个类：在***IQ中定义消息的实体，在***IQProvider中将消息转化为***IQ实体，在***PacketListener中对实体进行处理，具体的实现可参考NotificationIQ,NotificationIQProvider,NotificationPacketListener三个类。在定义这些类之后，还需要在XmppManager中将这3个类中注册到connection中，代码如下：
+ 
+connection.connect();Log.i(LOGTAG, "XMPP connected successfully");
+ProviderManager.getInstance().addIQProvider("message",Constants.NOTIFICATION_NAMESPACE,new NotificationIQProvider());
+
+ 
+					PacketFilter packetFilter = new PacketTypeFilter(
+							NotificationIQ.class);
+					// packet listener
+					PacketListener packetListener = xmppManager
+							.getNotificationPacketListener();
+					connection.addPacketListener(packetListener, packetFilter);
+ 
+需要注意的是，注册***IQProvider时，传入的namespace需要和服务端组装消息时使用的namespace一致，才能正确的收到。
+ 
+下载地址：http://download.csdn.net/detail/wanli_smile/4700437
+
+工程导入问题:http://chenxiaodao.gotoip4.com/31 参看这个链接
