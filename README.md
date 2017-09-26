@@ -500,6 +500,9 @@ http://blog.csdn.net/wanli_smile/article/details/8126251
 http://download.csdn.net/detail/wanli_smile/4700437  
 http://blog.sae.sina.com.cn/archives/1165  
 
+* PushServices  
+https://github.com/xanthodont/PushServices  
+
 ## html5  
 * loveJS  
 https://github.com/DaanHaaz/loveJS  
