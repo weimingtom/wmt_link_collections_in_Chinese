@@ -498,7 +498,9 @@ https://sourceforge.net/projects/androidpn/
 AndroidPN源码分析（包含client和server）  
 http://blog.csdn.net/wanli_smile/article/details/8126251  
 http://download.csdn.net/detail/wanli_smile/4700437  
-http://blog.sae.sina.com.cn/archives/1165  
+似乎是长连接  
+sql缺少，而且android端的jar应该放在libs，需要把raw\androidpn.properties指向正确的ip和端口  
+http://blog.sae.sina.com.cn/archives/1165  
 
 * PushServices  
 https://github.com/xanthodont/PushServices  
