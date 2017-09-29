@@ -8,7 +8,7 @@ http://stackoverflow.com/questions/29018606/android-stream-camera-as-rtmp-stream
 * mp3 to wav, smaller size  
 pcm, sample rate 8KHz or 16KHz, 
 used for speech recognition, for example xunfei   
-signed 16bit little endian, mono   
+signed 16bit little endian, mono  
 $ ffmpeg -i 01.mp3 -ar 16000 -ac 1 -acodec pcm_s16le 01.wav 
 
 * qwinff  
