@@ -6,3 +6,6 @@ ffmpeg -re -i ../test.mp4 -ar 44100 -f flv rtmp://localhost:1935/live/stream
 
 * qwinff  
 https://github.com/qwinff/qwinff  
+
+* FFmpegYAG  
+https://sourceforge.net/projects/ffmpegyag/  
