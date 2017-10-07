@@ -22,3 +22,5 @@ from luadec
 * https://github.com/rururutan/np2s/blob/master/np2/common/_memory.c  
 
 * https://github.com/CCareaga/heap_allocator  
+
+* https://github.com/shines77/jemalloc-win32  
