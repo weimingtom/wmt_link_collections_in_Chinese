@@ -526,6 +526,11 @@ http://www.bilibili.com/html/activity-qixi2016.html
 * eliorshalev/zombie-mayhem  
 https://github.com/eliorshalev/zombie-mayhem  
 
+* gopush  
+https://github.com/Terry-Mao/gopush-cluster  
+goim  
+https://github.com/Terry-Mao/goim  
+
 ## 移动端图形库
 * BradLarson/GPUImage  
 https://github.com/BradLarson/GPUImage  
