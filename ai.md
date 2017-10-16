@@ -6,3 +6,12 @@
 
 ## PyTorch  
 * https://github.com/pytorch/pytorch  
+
+## MaxNet  
+* https://github.com/apache/incubator-mxnet  
+
+## CNTK  
+* https://github.com/Microsoft/CNTK  
+
+## Theano  
+https://github.com/Theano/Theano  
