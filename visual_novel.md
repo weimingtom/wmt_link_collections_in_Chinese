@@ -38,6 +38,7 @@ https://sv.kikyou.info/svn/kirikiri2/trunk/
 https://sv.kikyou.info/svn/kirikiri2/trunk/kirikiri2/src/core/tjs2  
 http://tvpcn.codeplex.com/  
 http://www.mysteryparfait.com/kage-kirie/  
+(**search kage-kirie in baidupan**)  
 https://github.com/jeeb/kirikiri2  
 
 * vnds  
