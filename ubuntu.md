@@ -33,6 +33,8 @@
 
 * nodejs  
   sudo apt-get install nodejs npm  
+  npm cache clean  
+  sudo npm update -g npm  
 
 * swift  
   sudo apt-get install clang  
@@ -64,4 +66,7 @@
 
 * valgrind  
   sudo apt-get install valgrind  
+
+* libgtk-3-dev  
+  sudo apt-get install libgtk-3-dev  
 
