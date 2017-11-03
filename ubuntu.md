@@ -70,3 +70,6 @@
 * libgtk-3-dev  
   sudo apt-get install libgtk-3-dev  
 
+* sqlite3.h  
+  sudo apt-get install libsqlite3-dev  
+
