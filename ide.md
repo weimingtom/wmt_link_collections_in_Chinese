@@ -8,3 +8,4 @@
 * https://github.com/ibanar/chromatic  
 * https://github.com/viticm/pap2/blob/master/Source/Tools/GameDesignerEditor/Controls/sprViewer/sprSelector/frmSelect.cs  
 * https://github.com/pyscripter/pyscripter  
+* https://github.com/weimingtom/Rhino.Net/tree/develop/src/Rhino.Tools.Debugger  
