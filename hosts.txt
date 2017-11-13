@@ -1,2 +1,9 @@
 64.233.162.81  golang.org
 64.233.162.81  play.golang.org
+
+210.129.120.41 pixiv.net
+210.129.120.44 accounts.pixiv.net
+210.140.131.145 source.pixiv.net
+210.140.131.160 d.pixiv.org
+210.140.131.144 imgaz.pixiv.net
+210.129.120.41 www.pixiv.net
