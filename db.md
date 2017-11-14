@@ -29,3 +29,6 @@ https://github.com/dmajkic/redis/downloads
 
 ## ORM  
 * https://github.com/StackExchange/Dapper  
+
+## Sqlite  
+* https://github.com/simonw/datasette  
