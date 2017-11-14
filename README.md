@@ -49,6 +49,7 @@ https://code.google.com/p/gamemvc/
 https://github.com/dongfangshangren/Z25d  
 (6) kyokomi/AndEngineSRPGQuest  
 https://github.com/kyokomi/AndEngineSRPGQuest  
+(7) https://github.com/Grille98/2D-isometricEditor  
 
 * 打字机效果  
 (1) 说明：  
