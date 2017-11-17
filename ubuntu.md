@@ -73,3 +73,5 @@
 * sqlite3.h  
   sudo apt-get install libsqlite3-dev  
 
+* google pinyin input method  
+  sudo apt-get install ibus-googlepinyin  
