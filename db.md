@@ -35,3 +35,7 @@ https://github.com/dmajkic/redis/downloads
 
 ## Realm  
 * https://github.com/realm/realm-cocoa  
+
+## sqlcipher  
+* https://github.com/sqlcipher/sqlcipher  
+* https://github.com/Tencent/wcdb  
