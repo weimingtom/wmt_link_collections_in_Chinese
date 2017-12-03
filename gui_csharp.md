@@ -49,3 +49,6 @@ https://github.com/trunghaut1/FlatTheme
 * Nersent/MaterialWPF  
 https://github.com/Nersent/MaterialWPF  
 
+* nodemcu-studio-csharp  
+https://github.com/nodemcu/nodemcu-studio-csharp  
+
