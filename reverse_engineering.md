@@ -11,6 +11,7 @@ https://www.free-decompiler.com/flash/
 
 * radare2    
 http://radare.org/r/  
+https://github.com/radareorg/cutter  
 
 * x64dbg  
 http://x64dbg.com  
