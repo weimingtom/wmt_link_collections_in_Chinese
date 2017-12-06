@@ -13,6 +13,7 @@
 * https://github.com/weicao/cascadb  
 * https://github.com/hhblaze/DBreeze  
 * https://github.com/sergeyksv/tingodb  
+* https://github.com/dain/leveldb  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
