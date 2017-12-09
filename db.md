@@ -14,6 +14,7 @@
 * https://github.com/hhblaze/DBreeze  
 * https://github.com/sergeyksv/tingodb  
 * https://github.com/dain/leveldb  
+* https://github.com/typicode/lowdb  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
