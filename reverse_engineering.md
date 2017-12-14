@@ -18,3 +18,6 @@ http://x64dbg.com
 
 * game-hacking  
 https://github.com/dsasmblr/game-hacking  
+
+* retdec  
+https://github.com/avast-tl/retdec  
