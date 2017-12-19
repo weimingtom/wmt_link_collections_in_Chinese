@@ -75,3 +75,10 @@
 
 * google pinyin input method  
   sudo apt-get install ibus-googlepinyin  
+
+* sdl2  
+   sudo apt-get install libsdl2-dev  
+   
+* libelf  
+   sudo apt-get install libelf-dev  
+
