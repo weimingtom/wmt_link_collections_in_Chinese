@@ -31,3 +31,6 @@ https://www.codeproject.com
 
 * Taocode  
 http://code.taobao.org  
+
+* git clone    
+git clone --recursive xxx   
