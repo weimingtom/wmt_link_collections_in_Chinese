@@ -21,3 +21,9 @@ https://github.com/dsasmblr/game-hacking
 
 * retdec  
 https://github.com/avast-tl/retdec  
+
+* https://github.com/x64dbg/ScyllaHide  
+
+* VisualMASM  
+https://github.com/ThomasJaeger/VisualMASM  
+http://www.visualmasm.com  
