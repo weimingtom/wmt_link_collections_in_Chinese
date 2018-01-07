@@ -27,3 +27,6 @@ https://github.com/avast-tl/retdec
 * VisualMASM  
 https://github.com/ThomasJaeger/VisualMASM  
 http://www.visualmasm.com  
+
+* bytecode-viewer  
+https://github.com/Konloch/bytecode-viewer  
