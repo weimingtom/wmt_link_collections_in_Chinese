@@ -9,6 +9,7 @@
 ## Text (not Chinese)  
 * http://ckeditor.com  
 * https://www.tinymce.com  
+* https://github.com/nhnent/tui.editor  
 
 ## Code  
 * http://codemirror.net  
@@ -16,7 +17,6 @@
 
 ## index  
 * https://github.com/zhangzhaoaaa/skill-collections/blob/master/前端组件整理.md  
-
 
 ## Line  
 * https://github.com/hlerenow/lineEditor  
