@@ -1,0 +1,3 @@
+* php slow
+modify localhost to 127.0.0.1  
+http://bbs.csdn.net/topics/391834494  
