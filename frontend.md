@@ -1,13 +1,19 @@
 ## PC  
-
-* https://github.com/ecomfe/esui  
+* esui  
+https://github.com/ecomfe/esui  
 http://efe.baidu.com  
 
-* https://www.sencha.com/products/evaluate/  
+* Ext.js  
+https://www.sencha.com/products/evaluate/  
 
-* http://www.jeasyui.net  
+* Jquery EasyUI  
+http://www.jeasyui.net  
 
-* http://www.ligerui.com  
+* jQuery LigerUI  
+http://www.ligerui.com  
 
 ## Mobile  
-* http://dev.dcloud.net.cn/mui/  
+* mui  
+http://dev.dcloud.net.cn/mui/  
+https://github.com/dcloudio/mui  
+
