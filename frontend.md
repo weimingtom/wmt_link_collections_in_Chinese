@@ -17,6 +17,7 @@ http://www.ligerui.com
 http://dev.dcloud.net.cn/mui/  
 https://github.com/dcloudio/mui  
 
-* weui  
+* WeUI   
+https://weui.io  
 https://github.com/Tencent/weui  
 
