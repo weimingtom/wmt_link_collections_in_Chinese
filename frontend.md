@@ -34,3 +34,7 @@ https://www.cnblogs.com/huangyin1213/p/5750113.html
 * AUI  
 https://github.com/liulangnan/aui  
 http://www.auicss.com  
+
+* Amaze UI Touch    
+http://t.amazeui.org/  
+https://github.com/amazeui/amazeui-touch/  
