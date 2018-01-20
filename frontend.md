@@ -13,7 +13,7 @@ http://www.jeasyui.net
 http://www.ligerui.com  
 
 ## Mobile  
-* mui  
+* MUI    
 http://dev.dcloud.net.cn/mui/  
 https://github.com/dcloudio/mui  
 
