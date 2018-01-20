@@ -21,6 +21,6 @@ https://github.com/dcloudio/mui
 https://weui.io  
 https://github.com/Tencent/weui  
 
-* 蚂蚁金服设计规范  
+* 蚂蚁金服设计规范  
 https://mobile.ant.design/components/modal-cn/  
 https://github.com/ant-design/ant-design/  
