@@ -38,3 +38,6 @@ http://www.auicss.com
 * Amaze UI Touch    
 http://t.amazeui.org/  
 https://github.com/amazeui/amazeui-touch/  
+
+* framework7_app  
+https://github.com/zhenxianluo/framework7_app  
