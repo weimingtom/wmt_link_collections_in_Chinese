@@ -24,3 +24,6 @@ https://github.com/Tencent/weui
 * 蚂蚁金服设计规范  
 https://mobile.ant.design/components/modal-cn/  
 https://github.com/ant-design/ant-design/  
+
+* 跨平台APP----对Cordova,APPCan,DCloud,APICloud四大平台的分析  
+http://blog.csdn.net/kenkao/article/details/50678269  
