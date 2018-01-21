@@ -20,3 +20,6 @@ https://sourceforge.net/projects/ffmpegyag/
 * ffmpeg-20151219-git-2dba040-win32-static  
 
 * ffmpeg-2.8.4 / (not used) ffmpeg-2.6.3  
+
+* ffmpeg-libav-tutorial  
+https://github.com/leandromoreira/ffmpeg-libav-tutorial  
