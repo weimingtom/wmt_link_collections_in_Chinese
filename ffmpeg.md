@@ -23,3 +23,6 @@ https://sourceforge.net/projects/ffmpegyag/
 
 * ffmpeg-libav-tutorial  
 https://github.com/leandromoreira/ffmpeg-libav-tutorial  
+
+* 百度语音识别-开发文档，音频文件转码  
+http://yuyin.baidu.com/docs/asr/58  
