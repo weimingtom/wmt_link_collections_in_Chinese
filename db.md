@@ -15,6 +15,7 @@
 * https://github.com/sergeyksv/tingodb  
 * https://github.com/dain/leveldb  
 * https://github.com/typicode/lowdb  
+* https://github.com/zhicheng/db  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
