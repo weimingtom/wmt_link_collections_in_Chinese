@@ -19,3 +19,7 @@ https://github.com/wjakob/nanogui
 * https://github.com/andlabs/libui  
 
 * https://github.com/lurenpluto/BOLT_SDK  
+
+* https://github.com/lc-soft/LCUI  
+
+* https://github.com/lc-soft/LC-Finder  
