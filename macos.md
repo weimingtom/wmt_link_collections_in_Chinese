@@ -8,3 +8,7 @@ open ~/.bash_profile
 brew install ruby  
 open ~/.bash_profile 
 //--> export PATH=/usr/local/Cellar/ruby/2.5.0/bin:$PATH  
+
+* pod  
+// upgrade ruby  
+gem install cocoapods  
