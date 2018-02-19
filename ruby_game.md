@@ -16,9 +16,12 @@
 
 ## (compare)      
 * http://parrot.hatenadiary.jp/entry/20090911/1252598109  
+* Ruby/SDL  
 * http://d.hatena.ne.jp/keyword/Ruby/SDL  
 * Miyako  
 * http://www.twin.ne.jp/~cyross/Miyako/  
+* https://github.com/cyross/ruby-miyako  
+* Star Ruby  
 * http://d.hatena.ne.jp/keyword/StarRuby  
 * http://www.starruby.info/ja/  
 * DXRuby  
