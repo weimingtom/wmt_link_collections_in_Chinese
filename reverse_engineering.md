@@ -33,3 +33,6 @@ https://github.com/Konloch/bytecode-viewer
 
 * Luyten  
 https://github.com/deathmarine/Luyten  
+
+* dumpDex  
+https://github.com/WrBug/dumpDex  
