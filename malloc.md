@@ -26,3 +26,6 @@ from luadec
 * https://github.com/shines77/jemalloc-win32  
 
 * https://github.com/orangeduck/tgc  
+
+* https://github.com/ivmai/bdwgc
+from https://github.com/Unity-Technologies/bdwgc  
