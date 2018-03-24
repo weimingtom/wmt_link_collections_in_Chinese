@@ -27,5 +27,5 @@ from luadec
 
 * https://github.com/orangeduck/tgc  
 
-* https://github.com/ivmai/bdwgc
+* https://github.com/ivmai/bdwgc  
 from https://github.com/Unity-Technologies/bdwgc  
