@@ -85,3 +85,6 @@
 * glut  
   sudo apt-get install freeglut3-dev  
 
+* sdl-mixer / ogg  
+  sudo apt-get install libsdl-mixer1.2-dev  
+
