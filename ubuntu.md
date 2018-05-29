@@ -88,3 +88,5 @@
 * sdl-mixer / ogg  
   sudo apt-get install libsdl-mixer1.2-dev  
 
+* gtk2 / gtk+2.0  
+  sudo apt-get install libgtk2.0-dev  
