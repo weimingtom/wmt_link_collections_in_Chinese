@@ -42,3 +42,6 @@ https://github.com/dmajkic/redis/downloads
 ## sqlcipher  
 * https://github.com/sqlcipher/sqlcipher  
 * https://github.com/Tencent/wcdb  
+
+## MySQL  
+* https://github.com/webscalesql/webscalesql-5.6  
