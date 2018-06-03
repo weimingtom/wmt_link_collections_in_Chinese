@@ -83,6 +83,10 @@ https://en.wikipedia.org/wiki/Texture_synthesis
 (1) PathAnimView  
 https://github.com/mcxtzhang/PathAnimView  
 
+* 爆炸动画
+(1) BoomMenu  
+https://github.com/Nightonke/BoomMenu  
+
 ## 二次元创作  
 
 * pixiv  
