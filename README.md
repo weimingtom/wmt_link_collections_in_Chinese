@@ -83,9 +83,12 @@ https://en.wikipedia.org/wiki/Texture_synthesis
 (1) PathAnimView  
 https://github.com/mcxtzhang/PathAnimView  
 
-* 爆炸动画
+* 爆炸动画  
 (1) BoomMenu  
 https://github.com/Nightonke/BoomMenu  
+
+* 频谱动画（spectrum）  
+https://www.cnblogs.com/Wayou/p/3543577.html  
 
 ## 二次元创作  
 
