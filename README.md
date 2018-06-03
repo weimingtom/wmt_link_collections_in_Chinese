@@ -79,6 +79,10 @@ https://github.com/mxgmn/SynTex
 (2) wiki  
 https://en.wikipedia.org/wiki/Texture_synthesis  
 
+* 路径动画  
+(1) PathAnimView  
+https://github.com/mcxtzhang/PathAnimView  
+
 ## 二次元创作  
 
 * pixiv  
