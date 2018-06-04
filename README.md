@@ -90,6 +90,9 @@ https://github.com/Nightonke/BoomMenu
 * 频谱动画（spectrum）  
 https://www.cnblogs.com/Wayou/p/3543577.html  
 
+* android向上浮起动画  
+DepthPageTransformer  
+
 ## 二次元创作  
 
 * pixiv  
