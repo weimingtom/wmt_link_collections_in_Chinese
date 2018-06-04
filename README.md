@@ -82,6 +82,8 @@ https://en.wikipedia.org/wiki/Texture_synthesis
 * 路径动画  
 (1) PathAnimView  
 https://github.com/mcxtzhang/PathAnimView  
+(2) TextPathView  
+https://github.com/totond/TextPathView  
 
 * 爆炸动画  
 (1) BoomMenu  
