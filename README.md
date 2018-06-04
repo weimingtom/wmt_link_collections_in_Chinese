@@ -92,6 +92,7 @@ https://www.cnblogs.com/Wayou/p/3543577.html
 
 * android向上浮起动画  
 DepthPageTransformer  
+https://blog.csdn.net/allen315410/article/details/44200623  
 
 ## 二次元创作  
 
