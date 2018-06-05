@@ -1,6 +1,9 @@
 ## **My work**
 https://github.com/weimingtom/FastFireFrame_preview  
 
+## Ref  
+https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
+
 ## nvlist (java)  
 https://github.com/anonl/nvlist  
 https://code.google.com/archive/p/nvlist/  
@@ -73,3 +76,7 @@ https://github.com/IJEMIN/Unity3D-Kirino-Engine
 
 ## aquaplus_gpl  
 https://github.com/autch/aquaplus_gpl  
+TODO:upload to baidupan    
+
+## rlvm  
+search baidupan (TODO: upload H:\rlvm)   
