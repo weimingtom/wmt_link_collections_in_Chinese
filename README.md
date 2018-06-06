@@ -368,6 +368,9 @@ https://github.com/jgraph/mxgraph
 https://github.com/jgraph/mxgraph/tree/master/javascript/examples/grapheditor  
 https://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html  
 
+* Gooflow （NOTE:someting not good, see issues）  
+https://github.com/sdlddr/Gooflow  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
