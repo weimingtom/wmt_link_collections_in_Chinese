@@ -376,6 +376,7 @@ https://github.com/antvis/g6
 https://yuque.com/antv/g6-editor  
 https://yuque.com/antv/g6-editor/demos  
 https://antv.alipay.com/assets/dist/3.0.0/g6/1.x/editor/base.html  
+http://antvis.github.io/g6/demo/04-editor/editor-extend1.html  
 
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
