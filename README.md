@@ -371,6 +371,12 @@ https://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html
 * Gooflow （NOTE:someting not good, see issues）  
 https://github.com/sdlddr/Gooflow  
 
+* g6  
+https://github.com/antvis/g6  
+https://yuque.com/antv/g6-editor  
+https://yuque.com/antv/g6-editor/demos  
+https://antv.alipay.com/assets/dist/3.0.0/g6/1.x/editor/base.html  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
