@@ -93,3 +93,6 @@
 
 * vncserver  
   sudo apt-get install vnc4server  
+
+* sshd  
+  sudo apt-get install openssh-server  
