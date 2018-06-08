@@ -20,3 +20,6 @@ $ vncserver :1
 see https://blog.csdn.net/wwq_1111/article/details/46502873  
 $ sudo apt-get install gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal  
 (need if no window title)  
+
+* ssh  
+see https://jingyan.baidu.com/article/9c69d48fb9fd7b13c8024e6b.html  
