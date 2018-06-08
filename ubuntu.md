@@ -90,3 +90,6 @@
 
 * gtk2 / gtk+2.0  
   sudo apt-get install libgtk2.0-dev  
+
+* vncserver  
+  sudo apt-get install vnc4server  
