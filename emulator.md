@@ -11,3 +11,7 @@ https://github.com/NewChromantics/PopUnityBoy
 * https://github.com/bfirsh/jsnes  
 * https://github.com/dbousamra/hnes  
 * https://github.com/trekawek/coffee-gb  
+* DC emulator : reicast  
+https://github.com/reicast/reicast-emulator  
+* PS emulator : epsxe  
+http://www.epsxe.com  
