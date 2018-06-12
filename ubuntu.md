@@ -96,3 +96,9 @@
 
 * sshd  
   sudo apt-get install openssh-server  
+
+* qemu-system-arm  
+  sudo apt-get install qemu-system-arm  
+
+* kpartx (sudo kpartx -a xxx.img)  
+  sudo apt-get install kpartx  
