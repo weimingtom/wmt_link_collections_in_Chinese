@@ -15,3 +15,9 @@ open ~/.bash_profile
 * pod  
 // upgrade ruby  
 gem install cocoapods  
+
+* ftp  
+brew install telnet  
+brew install inetutils  
+brew link --overwrite inetutils  
+//see https://www.v2ex.com/t/403178  
