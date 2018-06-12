@@ -23,3 +23,8 @@ $ sudo apt-get install gnome-panel gnome-settings-daemon metacity nautilus gnome
 
 * ssh  
 see https://jingyan.baidu.com/article/9c69d48fb9fd7b13c8024e6b.html  
+
+* 7z split    
+tar cf - film | 7z a -si film.tar.7z -v80m  
+7z x -so film.tar.7z.001 | tar xf -  
+see http://blog.sina.com.cn/s/blog_142aca4390102x8tg.html  
