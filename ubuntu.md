@@ -102,3 +102,6 @@
 
 * kpartx (sudo kpartx -a xxx.img)  
   sudo apt-get install kpartx  
+
+* 7z  
+  sudo apt-get install p7zip-full  
