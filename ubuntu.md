@@ -106,5 +106,8 @@
 * 7z  
   sudo apt-get install p7zip-full  
 
-* ftp client / filezilla    
+* filezilla (ftp client, GUI)      
   sudo apt-get install filezilla  
+
+* ftp (ftp client, CLI)  
+  sudo apt-get install ftp  
