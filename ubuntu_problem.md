@@ -36,7 +36,7 @@ zip filename.zip files
 tar: tar –xvf  
 gz: gzip -d or gunzip  
 tar.gz, *.tgz: tar –xzf  
-bz2: bzip2 -d或者用bunzip2  
+bz2: bzip2 -d or bunzip2  
 tar.bz2: tar –xjf  
 Z: uncompress  
 tar.Z: tar –xZf  
