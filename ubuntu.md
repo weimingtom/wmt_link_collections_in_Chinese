@@ -111,3 +111,6 @@
 
 * ftp (ftp client, CLI)  
   sudo apt-get install ftp  
+
+* hg (for bitbucket.org)    
+  sudo apt-get install mercurial  
