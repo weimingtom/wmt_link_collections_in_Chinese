@@ -28,3 +28,17 @@ see https://jingyan.baidu.com/article/9c69d48fb9fd7b13c8024e6b.html
 tar cf - film | 7z a -si film.tar.7z -v80m  
 7z x -so film.tar.7z.001 | tar xf -  
 see http://blog.sina.com.cn/s/blog_142aca4390102x8tg.html  
+
+* unzip  
+//see https://zhidao.baidu.com/question/489644957084823332.html  
+unzip filename.zip  
+zip filename.zip files  
+tar: tar –xvf  
+gz: gzip -d or gunzip  
+tar.gz, *.tgz: tar –xzf  
+bz2: bzip2 -d或者用bunzip2  
+tar.bz2: tar –xjf  
+Z: uncompress  
+tar.Z: tar –xZf  
+rar: unrar e  
+zip: unzip  
