@@ -114,3 +114,7 @@
 
 * hg (for bitbucket.org)    
   sudo apt-get install mercurial  
+  
+* fbi  
+  sudo apt-get install fbi  
+
