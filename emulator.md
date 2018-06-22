@@ -15,3 +15,5 @@ https://github.com/NewChromantics/PopUnityBoy
 https://github.com/reicast/reicast-emulator  
 * PS emulator : epsxe  
 http://www.epsxe.com  
+* https://github.com/irori/np2pi  
+* https://github.com/nonakap/xnp2  
