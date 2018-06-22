@@ -1,0 +1,327 @@
+from http://yehnan.blogspot.com/2014/02/raspberry-piraspbian.html
+
+Raspberry Pi：Raspbian套件列表
+這一篇是寫給我自己看的，因為常常會忘記某某套件，所以將套件名一一列出，並附上簡短說明，以供後續查詢。
+
+底下列出的都是Raspbain的套件名，安裝指令是：
+$ sudo apt-get install 套件名
+
+安裝前或許需要先更新套件資料，更新套件資料的指令是：
+$ sudo apt-get update
+
+甚至還要更新升級先前已安裝的套件，升級套件的指令是：
+$ sudo apt-get upgrade
+或
+$ sudo apt-get dist-upgrade。
+
+移除指令是：
+$ sudo apt-get remove 套件名
+$ sudo apt-get remove --auto-remove 套件名
+移除已沒用的相依套件：
+$ sudo apt-get autoremove
+移除設定檔：
+$ sudo apt-get purge 套件名
+$ sudo apt-get remove --purge 套件名
+$ sudo apt-get autoremove --purge 套件名
+
+底下列出套件名與簡短描述。
+
+Raspberry Pi專屬：
+pistore，Pi Store軟體市集。
+raspi-config，初始設定工具。
+rpi-update，韌體更新工具。
+raspberrypi-ui-mods raspberrypi-net-mods，使用介面與相關元件的改進。
+pi-package，套件管理，圖形介面，修改自Gnome Package。
+python-sense-emu python3-sense-emu python-sense-emu-doc sense-emu-tools，Sense HAT模擬器。 
+
+deb套件管理： 
+dpkg，Debian套件管理系統的基礎，指令「dpkg --get-selections」可列出所有已安裝套件。 
+apt，較高階的指令，如apt-get、apt-cache等。
+aptitude，文字介面選單模式。
+synaptic，圖形介面，。  
+
+辦公室：
+libreoffice，辦公室軟體LibreOffice（OpenOffice.org），文書處理、試算表、投影片、資料庫、向量繪圖、數學方程式。openoffice.org已被libreoffice取代。 
+abiword，AbiWord文書處理軟體。         
+gnumeric，Gnumeric試算表軟體。
+scribus，頁面排版設計軟體，類似Adobe InDesign。 
+
+文件：
+evince，文件閱覽器，支援PDF、PostScript、DVI、XPS、DjVu等，本為GNOME而設計。
+okular，文件閱覽器，支援PDF、PostScript、DVI、XPS、DjVu、CHM、EPUB等，本為KDE而設計，取代kpdf、KGhostView等軟體。
+xpdf，文件閱覽器，支援PDF、PostScript、EPS、XPS、DjVu、DVI等格式，介面老舊。
+
+影像：
+gimp，影像處理軟體，媲美PhotoShop。
+inkscape，向量繪圖軟體。
+shutter，抓圖軟體。
+scrot，抓圖軟體，在文字介面下指令。
+xscreensaver，螢幕保護程式與鎖住螢幕。
+imagemagick，編輯、轉換、存取各種格式的圖檔，有命令列指令與圖形介面。
+fbi，frame buffer image檢視工具，在主控台下顯示圖檔。
+fim，以fbi為基礎增強許多功能，可看圖、也可轉成ASCII形式輸出。 
+
+影片：
+omxplayer，媒體播放，文字介面，特別為Raspberry Pi打造，運用GPU硬體加速，可供XBMC使用。
+mplayer，影片播放，文字介面。
+smplayer，mplayer的圖形介面。
+vlc，媒體播放器。 
+mediainfo，解析媒體檔案，文字介面。
+mediainfo-gui，mediainfo的圖形介面。 
+
+音樂：
+lxmusic，音樂播放器，介面較簡單輕巧，LXDE圖形介面，底下是xmms2。
+xmms2，音樂播放器，主從架構，也有命令列模式的指令。
+xmms2-plugin-all，xmms2的所有外掛（附加元件）。
+moc，音樂播放，文字選單型介面；注意，其執行檔名是mocp。 
+alsa-utils，ALSA的工具，指令alsamixer、amixer、aplay、arecord、等等。
+audacity，音訊編輯軟體。
+lilypond，樂譜。 
+sonic-pi，寫程式創作音樂，pi專屬。
+
+視訊、音訊：
+ffmpeg，視訊音訊的編碼解碼、錄製、轉換、串流。過渡套件，應改用libav-tools。
+libav-tools，視訊音訊的編碼解碼、錄製、轉換、串流。
+icecast2，串流媒體伺服器。 streaming media server
+motion，視訊監控，可偵測動作變化。 
+
+3D：
+blender，3D繪圖及渲染軟體。 
+
+網路： 
+epiphany-browser，為Raspberry Pi最佳化過的瀏覽器。
+chromium-browser，瀏覽器Chrome。
+rpi-chromium-mods ，rpi的修改。
+dillo，一款基本的瀏覽器。
+gnash：GNU Gnash，Flash影片播放器。
+browser-plugin-gnash，外掛，與gnash一同提供chromium-browser播放YouTube的能力。
+iceweasel，瀏覽器Firefox。
+midori，以WebKit為基礎的輕量型瀏覽器。 
+icedove，email/news客戶端Thunderbird。
+claws-mail，email客戶端Claws Mail，原名Sylpheed-Claws，採用GTK+2。 
+iceowl，行事曆，Raspbian無。
+iceape，套裝組合SeaMonkey，包含瀏覽器、HTML編輯器、email客戶端、電話簿、IRC客戶端、等等。
+pidgin，即時通訊。 
+pcmanx-gtk2，PCManX，圖形介面，打BBS。
+xchat，IRC客戶端，圖形介面。 
+irssi，IRC客戶端，文字介面。
+alpine，email客戶端，pine的升級版，文字介面。
+
+編輯器： 
+nano，文字編輯器，取代Pico。 
+joe，Joe's Own Editor，文字編輯器。
+alpine-pico，文字編輯器Pico，原本是email客戶端pine的編輯器。
+jove，Jonathan's Own Version of Emacs，文字編輯器。
+vim，Vi IMproved，文字編輯器，功能強大。
+emacs，文字編輯器，功能強大。
+zile，文字編輯器，也是開發工具箱，含輕量型Emacs引擎Zemacs。
+
+輸入法： 
+scim scim-tables-zh scim-chewing scim-pinyin，中文輸入法引擎、對照表、注音輸入法、拼音輸入法。
+fonts-inconsolata ttf-anonymous-pro ttf-dejavu ttf-bitstream-vera ，好看、清楚的等寬字型，終端機與程式撰寫時必備。 
+
+字型：
+ttf-wqy-microhei，中文字型，文泉驛微米黑WenQuanYi Micro Hei。
+ttf-wqy-zenhei，中文字型，文泉驛正黑WenQuanYi Zen Hei。
+xfonts-wqy，中文字型，文泉驛點陣宋體WenQuanYi Bitmap Song CJK font。
+fonts-arphic-uming，舊名ttf-arphic-uming，中文字型，結合文鼎PL細上海宋與文鼎PL簡報宋，並再擴充。
+fonts-arphic-ukai，舊名ttf-arphic-ukai，中文字型，結合文鼎PL中楷與文鼎PL簡中楷，並再擴充。
+
+工具類-系統：
+cpufrequtils，CPU時脈，指令cpufreq-info。
+usbutils，USB工具，指令lsusb。
+file，猜測判斷找出檔案的格式。  
+
+工具類-網路：
+wpasupplicant，WPA與WPA2認證客戶端。
+wireless-tools，無線網路介面的工具。
+wicd-curses，網路介面管理工具，文字選單型介面。
+wicd，網路介面管理工具。
+wavemon，無線網卡監控工具，訊號強度、封包統計、裝置設定、網路組態。
+dnsutils，網域名稱工具，指令dig、nslookup。
+nmap，網路掃描探測工具。
+mtr，結合ping與traceroute，指令mtr。
+fping，一次可ping一堆主機。
+netselect，找出最傳輸最快的伺服器，通常會根據ping與traceroute的結果。 
+wget，經由HTTP(S)與FTP協定從網站抓取檔案，可遞迴抓取。
+curl，抓檔工具，支援多種協定。 
+wireshark，網路封包擷取與分析。 
+
+工具類-終端機：
+tmux，終端機多工器，可開出多個終端機介面，分割視窗。
+screen，tmux的前輩，可連接序列埠。
+minicom，序列通訊工具，文字選單型介面。
+synergy，在多台電腦間透過網路共用鍵盤滑鼠。
+
+工具類-壓縮：
+zip unzip，壓縮／解壓縮zip格式。 
+bzip2，壓縮／解壓縮bz2格式。
+gzip，壓縮／解壓縮gz格式，指令gzip、gunzip。
+xz-utils，壓縮／解壓縮xz格式，指令xz、unxz、xzcat、xzgrep等。也能處理較舊的LZMA格式。
+
+數學：
+octave，GNU Octave數值運算語言，類似MATLAB。  
+wolfram-engine，Mathematica與Wolfram Language，pi可免費使用。
+
+程式語言、軟體開發：
+
+oracle-java7-jdk oracle-java8-jdk，Oracle Java。  
+gcc，GNU C compiler。
+g++，GNU C++ compiler。
+binutils，組譯器、連結器、目的檔處理工具、等等。 
+llvm，Low-Level Virtual Machine。
+clang，LLVM的C語言家族編譯器前端。 
+make，GNU Make。
+flex，lexical analyzer產生器，類似lex。 
+bison，parser產生器，類似yacc。
+
+elfutils，ELF格式的工具。
+dwarves，DWARF格式除錯資訊的工具。
+build-essential，建置Debian套件的所需工具。  
+libncurses5-dev，ncurses程式庫。
+libncursesw5-dev，ncurses程式庫，wide character版。
+libpcre3，Perl 5相容正規表達式函式庫，執行時期檔案。
+libpcre3-dev，Perl 5相容正規表達式函式庫，開發所需檔案。
+zlib1g，壓縮演算法zlib程式庫，執行時期檔案。
+zlib1g-dev，壓縮演算法zlib程式庫，開發所需檔案。
+
+bluej，Java IDE。
+greenfoot，Java IDE。
+geany，輕量型IDE。
+
+scratch，積木式程式語言。
+nodered，IBM的Node-RED，視覺編輯器，開發物聯網應用軟體。 
+
+原始碼版本控管： 
+git，分散式版本控管系統，相關套件有git-man（man說明文件）、git-daemon-run與git-daemon-sysvinit（服務）、git-doc（文件）、git-gui與gitk（圖形化介面）、等等。
+git-core，已改名為git。 
+mercurial，Mercurial分散式版本控管系統。 
+cvs，CVS版本控管系統。
+subversion，Subversion版本控管系統，常簡稱為svn 。
+
+Python：
+python python3，Python版本2與3。
+python-dev python3-dev，開發所需檔案，標頭檔、靜態程式庫、等等。
+python-serial python-serial，Python程式庫，存取序列埠介面。 
+python-setuptools python3-setuptools，Python套件管理工具。
+python-pip python3-pip，Python套件管理工具。
+python-rpi.gpio python3-rpi.gpio，RPi.GPIO程式庫。
+python-gpiozero python3-gpiozero，GPIO Zero程式庫。 
+python-smbus，Python綁定，透過Linux的i2c-dev模組存取I2C與SMBus。
+i2c-tools，I2C工具，指令i2cdetect。
+python-spidev python3-spidev，Python程式庫，透過Linux的spidev模組存取SPI。 
+
+lm_sensors，硬體監控，讀取溫度、電壓、風扇轉速等感測器。Raspbian套件庫尚無。
+python-pygame，綁定SDL程式庫，存取各種API，視訊、聲音、搖桿、繪製文字、等等。
+
+Arduino相關：
+arduino，Arduino軟體開發環境，包括圖形介面下的整合式編輯器、編譯建置工具、燒錄工具、範例程式碼、程式庫。
+arduino-mk，makefile可在命令列模式下進行開發。 
+gcc-avr，AVR微控制器的GCC編譯器。
+binutils-avr，AVR微控制器的二進位檔與目的檔處理工具。  
+avr-libc，AVR微控制器的C語言標準函式庫與標頭檔。
+avrdude，AVR微控制器的燒錄工具。 
+gdb-avr，AVR微控制器的GDB除錯器。
+
+fritzing，電路設計繪製軟體。
+
+伺服器：
+openssh-server，提供SSH伺服器（sshd）。
+openssh-client，提供SSH客戶端指令，如ssh、scp、sftp、ssh-keygen等。
+ssh，後設套件，依賴於openssh-server與openssh-client。
+openssl，OpenSSL的SSL與TLS的實作。
+libssl-dev，OpenSSL的開發所需檔案，含程式庫、標頭檔、文件等。
+tightvncserver，VNC伺服器。
+xrdp，XRDP遠端桌面伺服器。
+nginx，又輕又快又強的網站伺服器。
+apache2，Apache網站伺服器。
+libapache2-mod-php5，Apache存取PHP的模組。  
+php5，伺服器端的PHP腳本語言。
+mysql-server，MySQL資料庫。 
+php5-mysql，MySQL資料庫的PHP5模組。
+wordpress，WordPress網誌／内容管理系统。
+uwsgi，uWSGI伺服器。
+samba，SMB/CIFS協定的Linux實作。
+samba-common-bin，Samba伺服器與客戶端需要的共用檔。
+cups，Common UNIX Printing System，列印。
+
+X Window：
+xorg，X.Org的X視窗系統；應另安裝桌面環境。
+lxde，桌面環境LXDE。 
+
+遊戲：
+minecraft-pi，Raspberry Pi可免費使用的Minecraft。
+ltris，俄羅斯方塊。
+pacman，小精靈。
+njam，類似小精靈。 
+xgalaga，射擊遊戲，類似Galaga大蜜蜂與Galaxian小蜜蜂。
+pinball，彈珠台。
+supertux，企鵝，類似瑪莉歐的橫向捲軸過關遊戲。
+sudoku，數獨。
+gnome-klotski，華容道。 
+gpe-othello，黑白棋。
+gnuchess，GNU Chess西洋棋遊戲，現採用fruit引擎與UCI協定，另可安裝前端圖形介面。
+fruit，西洋棋引擎，採用UCI協定。
+stockfish，西洋棋引擎，採用UCI協定。
+scid，包含西洋棋局資料，分析棋局，具有前端圖形介面。
+xboard eboard knights，棋盤，前端圖形介面。
+gmchess，象棋。
+mah-jong，麻將。
+oolite，太空模擬遊戲，貿易與戰鬥，繼承Elite的精神。  
+freedink，冒險型角色扮演遊戲。
+wesnoth，Battle for Wesnoth回合制戰略遊戲，奇幻背景設定。
+widelands，奇幻即時戰略，類似工人物語2。
+openttd，建築類遊戲，類似運輸大亨豪華版。 
+glob2，即時戰略遊戲Globulation 2。
+freeciv-client-sdl或freeciv-client-gtk，Freeciv，開源版本的文明帝國（Civilization）遊戲；永無止盡的再一回合。
+freeciv-server，Freeciv遊戲伺服器，供多人遊玩。 
+bsdgames，包含一堆古老遊戲，adventure、boggle、trek、hangman、snake、wump、等等，文字介面。
+ninvaders，類似太空侵略者Space Invaders，文字介面。套件open-invaders比較像原版。套件xinv3d則是3D版，圖形介面。
+moria，roguelike遊戲，源自rogue，文字介面；名雖是moria，實際上是Umoria。
+angband，roguelike遊戲，繼承自Moria與Umoria，以托爾金的故事為背景，需X Window或主控台（支援滑鼠）。
+crawl，Dungeon Crawl的Stone Soup版，roguelike遊戲，文字介面，另有圖形介面crawl-tiles。
+nethack-console，NetHack，文字介面。套件nethack-x11是X Window介面。
+scummvm，ScummVM圖形冒險遊戲虛擬機器。
+beneath-a-steel-sky，遊戲Beneath a Steel Sky，需ScummVM。
+flight-of-the-amazon-queen，遊戲Flight of the Amazon Queen，需ScummVM。
+fceu，FCE Ultra，任天堂紅白機模擬器。
+stella，Atari 2600模擬器。
+frotz，Z語言互動文本虛擬機器。
+gargoyle-free，多款互動文本格式的虛擬機器，圖形介面。
+kildclient，MUD泥巴客戶端，圖形介面。
+tintin++，MUD泥巴客戶端，文字介面。
+scanmem，遊戲修改器。
+gameconqueror ，scanmen的GUI前端介面，並提供更多功能。
+
+YoYo Games公司提供的遊戲。
+http://yoyogames.com/pi
+Webfoot Games公司提供的遊戲。
+http://www.webfootgames.com/pi/
+
+想要更多遊戲嗎，請參閱：
+Raspbian wheezy Games | Raspberry PI Community Projects。
+http://www.raspians.com/Knowledgebase/1-debian-wheezy-games-repository-sudo-apt-get-install/
+8 Best Free ASCII Linux Games。 
+http://www.linuxlinks.com/article/2011121007265985/ASCIIGames.html
+text (console) | Linux game database。
+http://www.lgdb.org/category/game_graphic/text_console
+Free Games | debianlinux.net。
+http://debianlinux.net/games.html
+
+雜項、小玩意兒：
+cowsay，產生牛的ASCII文字圖案與對話框。
+fortune-mod，能亂數給出名言錦句（格言、諷刺、謎題、玩笑），指令fortune。
+fortunes，含有更多名言錦句的套件，fortune是fortune cookie（幸運餅乾）的意思。
+fortunes-off， 含有令人不快的冒犯性名言錦句。
+fortune-zh，含有唐詩三百首與其他，指令fortune-zh。 
+cmatrix，秀出類似駭客任務的數據流動畫面。
+libaa-bin，AAlib是一套ASCII Art程式庫；指令aafire可秀出動態火焰。
+bb，展示AAlib的能力。 
+figlet，用字母拼寫出更大字母的工具，還能顯示各種風格。
+toilet，類似figlet，支援Unicode、顏色、各種輸出格式。
+sl，ls的相反，畫面上會通過一輛蒸汽火車（Steam Locomotive）。
+
+oneko，小貓追著滑鼠游標跑。 
+tuxeyes，企鵝（Linux吉祥物）的眼睛隨著滑鼠游標轉動。
+x11-apps，許多X視窗的小工具，包括xeyes、oclock、xcalc、xconsole、xmore、xman、等等。
+
