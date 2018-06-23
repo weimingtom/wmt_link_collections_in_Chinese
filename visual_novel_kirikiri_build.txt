@@ -1,0 +1,27 @@
+(1) BCB6 open
+D:\kirikiri\Kage-kirie\kirikiri2\src\trunk\src\core\environ\win32\tvpwin32.bpr
+
+(2) copy 
+D:\kirikiri\Kage-kirie\kirikiri2\src\trunk\src\core\environ\win32\bcb2006\include 
+D:\kirikiri\Kage-kirie\kirikiri2\src\trunk\src\core\environ\win32\bcb2006\lib
+to
+D:\kirikiri\Kage-kirie\kirikiri2\src\trunk\src\core\environ\win32\
+
+(3) mod project option
+..\..\sou;..\..\so;..\..\s;..\..\tj2;..\..\t2;..\..\..\tools\win32\krdevui;krdevui;..\..\..\..\Bin;..\..\sound;..\..\sound\win32;..\..\msg\win32;..\..\visual\win32;..\..\visual;..\..\base\win32;..\..\base;..\..\msg;..\..\utils\win32;..\..\utils;..\..\base\storage;..\..\tjs2;..\..\visual\window;..\..\..;..\..\visual\IA32;$(BCB)\include;$(BCB)\include\vcl;.\include;.\include\libjpeg2;.\include\libpng;.\include\erina
+
+..\..\sou;..\..\so;..\..\s;..\..\tj2;..\..\t2;..\..\..\tools\win32\krdevui;krdevui;..\..\visual\IA32;..\..\..\..\Bin;..\..\sound;..\..\sound\win32;..\..\msg\win32;..\..\visual\win32;$(BCB)\Projects\Lib;..\..\visual;..\..\base\win32;..\..\base;..\..\base\storage\win32;..\..\msg;..\..\utils\win32;..\..\utils;..\..\base\storage;..\..\tjs2;..\..\visual\window;..\..\..;$(BCB)\lib\obj;$(BCB)\lib;.\lib
+
+(4) mod def
+
+(-)TVP_REPORT_HW_EXCEPTION
+(+)TJS_NO_REGEXP
+
+(5) add #ifndef TJS_NO_REGEXP
+
+D:\kirikiri\Kage-kirie\kirikiri2\src\trunk\src\core\tjs2\tjsRegExp.cpp
+
+#ifndef TJS_NO_REGEXP
+#include "tjsCommHead.h"
+...
+#endif
