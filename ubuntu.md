@@ -119,6 +119,6 @@
   sudo apt-get install fbi  
 
 * gtkmm  
-  sudo apt-get install libgtkmm-3.0-dev  
+  sudo apt-get install libgtkmm-3.0 libgtkmm-3.0-dev  
   sudo apt-get install libgtkmm-2.4-dev  
 
