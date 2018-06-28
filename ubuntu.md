@@ -118,3 +118,6 @@
 * fbi  
   sudo apt-get install fbi  
 
+* gtkmm  
+  sudo apt-get install libgtkmm-2.4-dev  
+
