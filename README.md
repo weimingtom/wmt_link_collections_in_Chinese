@@ -382,6 +382,10 @@ http://antvis.github.io/g6/demo/04-editor/editor-extend1.html
 * fishflow  
 https://gitee.com/robergroup/fishflow  
 
+* behaviac (BehaviacSetup_3.6.39.exe)    
+https://github.com/Tencent/behaviac/releases    
+http://www.behaviac.com/tutorial_1_hello_behaviac/  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
