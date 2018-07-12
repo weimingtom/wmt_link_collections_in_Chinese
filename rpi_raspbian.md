@@ -12,4 +12,13 @@
 另外总是提示under-voltage detected（欠电压），可能跟我用的电源线（安卓数据线）有关。。。  
 不过跑起来很顺畅，跟桌面版的raspbian差不多流畅，图形界面下cpu用很少，发热也不是很严重（虽然我没实际测试过）  
 
-* 
+* 树莓派更新镜像源于镜像源推荐  
+https://blog.csdn.net/cduan/article/details/52594374   
+$ sudo cp /etc/apt/sources.list /etc/apt/sources.list.old  
+$ sudo nano /etc/apt/sources.list  
+deb http://mirrordirector.raspbian.org/raspbian/ wheezy main contrib non-free rpi  
+->  
+http://mirrors.aliyun.com/raspbian/raspbian/  
+CTRL+O  
+CTRL+X  
+$ sudo apt-get update  
