@@ -18,7 +18,7 @@
 * PIXEL desktop -> Preferences -> Respberry Pi Configuration  
 System: Boot: To CLI  
 Interfaces: SSH: Enabled  
-Localisation: Locale: 
+Localisation: Locale: en, US, UTF-8   
 Localisation: Timezone: Asia, Shanghai  
 Localisation: Keyboard: United States, English (US)  
 
