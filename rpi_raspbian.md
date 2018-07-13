@@ -55,3 +55,11 @@ $ vncserver -kill :1
 ## Cross Compile (Windows)    
 http://www.cnblogs.com/findumars/p/4878475.html  
 http://gnutoolchains.com/raspberry/  
+
+## Search software package execute file  
+$ dpkg -L xxx  
+
+## VBA  
+$ sudo apt-get install visualboyadvance visualboyadvance-gtk  
+$ vba xxx.gba  
+$ gvba  
