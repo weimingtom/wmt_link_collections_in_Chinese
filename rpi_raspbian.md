@@ -51,3 +51,7 @@ $ ftp 192.168.1.181
 $ sudo apt-get install tightvncserver  
 $ vncserver :1  
 $ vncserver -kill :1   
+
+## Cross Compile (Windows)    
+http://www.cnblogs.com/findumars/p/4878475.html  
+http://gnutoolchains.com/raspberry/  
