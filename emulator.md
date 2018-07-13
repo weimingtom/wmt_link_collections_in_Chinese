@@ -17,3 +17,9 @@ https://github.com/reicast/reicast-emulator
 http://www.epsxe.com  
 * https://github.com/irori/np2pi  
 * https://github.com/nonakap/xnp2  
+* gba  
+https://github.com/visualboyadvance/visualboyadvance  
+* gba  
+https://github.com/omegacoleman/vba-raspi  
+* nes  
+https://github.com/DPRCZ/gpsp  
