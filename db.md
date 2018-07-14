@@ -16,6 +16,8 @@
 * https://github.com/dain/leveldb  
 * https://github.com/typicode/lowdb  
 * https://github.com/zhicheng/db  
+* https://github.com/Reactive-Extensions/LevelDB  
+https://blog.csdn.net/yoyomiaosu/article/details/49445825  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
