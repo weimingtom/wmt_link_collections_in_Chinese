@@ -63,3 +63,52 @@ $ dpkg -L xxx
 $ sudo apt-get install visualboyadvance visualboyadvance-gtk  
 $ vba xxx.gba  
 $ gvba  
+
+## ftp  
+https://blog.csdn.net/la9998372/article/details/77886806  
+$ sudo apt-get install ftp  
+
+## vncserver  
+$ sudo apt-get install tightvncserver  
+
+## telnet  
+$ sudo apt-get install telnet  
+
+## mysql  
+* Change root password  
+https://blog.csdn.net/a791693310/article/details/80612573  
+$ sudo apt-get install mysql-server  
+$ sudo mysql -uroot  
+mysql> USE mysql;  
+mysql> UPDATE user SET password=PASSWORD('123456') WHERE user='root';  
+mysql> UPDATE user SET plugin='mysql_native_password' WHERE user='root';  
+mysql> FLUSH PRIVILEGES;  
+mysql> exit;  
+* Remote login  
+https://blog.csdn.net/faryang/article/details/50788795  
+修改/etc/mysql/my.cnf文件  
+找到下面这行，并用#注释掉，  
+bind-address        = 127.0.0.1  
+3.2登录mysql，输入下面命令  
+mysql> grant all privileges on *.* to <username>@"%" identified by "<password>";  
+(<username>一般是root，<password>是新的密码)  
+mysql> FLUSH PRIVILEGES;  
+
+## sys/types.h (not need)   
+**NOTE:NOT NEED**  
+https://blog.csdn.net/david_xtd/article/details/8883687  
+$ sudo apt-get install libc6-dev  
+
+## Build avian  
+$ git clone https://github.com/ReadyTalk/avian  
+$ cd avian  
+$ find / -name "types.h"  
+/usr/include/i386-linux-gnu/sys/types.h  
+(search sys/types.h)   
+$ find / -name "jni.h"  
+/usr/lib/jvm/oracle-java8-jdk-i386/include/jni.h  
+(search JAVA_HOME)  
+$ JAVA_HOME=/usr/lib/jvm/oracle-java8-jdk-i386 make build-arch=i386  
+$ cd test  
+$ javac Hello.java  
+$ ../build/linux-i386/avian Hello  
