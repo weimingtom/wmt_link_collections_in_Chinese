@@ -113,3 +113,16 @@ $ JAVA_HOME=/usr/lib/jvm/oracle-java8-jdk-i386 make build-arch=i386
 $ cd test  
 $ javac Hello.java  
 $ ../build/linux-i386/avian Hello  
+
+## Apache2 and PHP7  
+* Install  
+https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md  
+$ sudo apt-get install libapache2-mod-php  
+$ sudo apt-get install php-mysql  
+$ sudo service apache2 restart  
+* Enable write permission  
+$ cat /etc/apache2/apache2.conf  
+$ cat /etc/apache2/envvars  
+group: www-data  
+user: www-data  
+<pre>$ sudo chown -R www-data:www-data /var/www/html</pre>    
