@@ -79,20 +79,20 @@ $ sudo apt-get install telnet
 https://blog.csdn.net/a791693310/article/details/80612573  
 $ sudo apt-get install mysql-server  
 $ sudo mysql -uroot  
-mysql> USE mysql;  
-mysql> UPDATE user SET password=PASSWORD('123456') WHERE user='root';  
-mysql> UPDATE user SET plugin='mysql_native_password' WHERE user='root';  
-mysql> FLUSH PRIVILEGES;  
-mysql> exit;  
+  mysql> USE mysql;  
+  mysql> UPDATE user SET password=PASSWORD('123456') WHERE user='root';  
+  mysql> UPDATE user SET plugin='mysql_native_password' WHERE user='root';  
+  mysql> FLUSH PRIVILEGES;  
+  mysql> exit;  
 * Remote login  
 https://blog.csdn.net/faryang/article/details/50788795  
 修改/etc/mysql/my.cnf文件  
 找到下面这行，并用#注释掉，  
-bind-address        = 127.0.0.1  
+  bind-address        = 127.0.0.1  
 3.2登录mysql，输入下面命令  
-mysql> grant all privileges on *.* to <username>@"%" identified by "<password>";  
-(<username>一般是root，<password>是新的密码)  
-mysql> FLUSH PRIVILEGES;  
+  mysql> grant all privileges on *.* to username@"%" identified by "password";  
+  (username一般是root，password是新的密码)  
+  mysql> FLUSH PRIVILEGES;  
 
 ## sys/types.h (not need)   
 **NOTE:NOT NEED**  
