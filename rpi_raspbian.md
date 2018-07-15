@@ -87,6 +87,7 @@ $ sudo mysql -uroot
 * Remote login  
 https://blog.csdn.net/faryang/article/details/50788795  
 修改/etc/mysql/my.cnf文件  
+$ nano /etc/mysql/my.cnf  
 找到下面这行，并用#注释掉，  
   bind-address        = 127.0.0.1  
 3.2登录mysql，输入下面命令  
