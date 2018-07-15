@@ -90,7 +90,7 @@ https://blog.csdn.net/faryang/article/details/50788795
 找到下面这行，并用#注释掉，  
   bind-address        = 127.0.0.1  
 3.2登录mysql，输入下面命令  
-  mysql> grant all privileges on *.* to username@"%" identified by "password";  
+  <pre>mysql> grant all privileges on *.* to username@"%" identified by "password";</pre>    
   (username一般是root，password是新的密码)  
   mysql> FLUSH PRIVILEGES;  
 
