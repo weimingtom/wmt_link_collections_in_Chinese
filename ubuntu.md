@@ -122,3 +122,13 @@
   sudo apt-get install libgtkmm-3.0 libgtkmm-3.0-dev  
   sudo apt-get install libgtkmm-2.4-dev  
 
+* avian  
+  locate jni.h  
+  JAVA_HOME=/usr/lib/jvm/java-7-openjdk-i386 make  
+  cd test  
+  javac Hello.java  
+  ../build/linux-i386/avian Hello  
+
+
+
+
