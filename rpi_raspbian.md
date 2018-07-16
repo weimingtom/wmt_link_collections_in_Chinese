@@ -126,3 +126,23 @@ $ cat /etc/apache2/envvars
 group: www-data  
 user: www-data  
 <pre>$ sudo chown -R www-data:www-data /var/www/html</pre>    
+
+## cannot open shared object file  
+export LD_LIBRARY_PATH=/where/you/install/lib:$LD_LIBRARY_PATH  
+sudo ldconfig  
+
+## shutdown  
+http://shumeipai.nxez.com/2013/08/25/raspberry-pi-how-to-safely-shutdown-restart.html  
+$ sudo shutdown -h now  
+$ sudo halt  
+$ sudo poweroff  
+$ sudo init 0  
+
+## restart  
+$ sudo reboot  
+$ shutdown -r now  
+$ shutdown -r 18:23:52  
+
+## uname  
+$ uname -m  
+$ uname -a  
