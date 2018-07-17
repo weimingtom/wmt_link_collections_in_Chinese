@@ -146,3 +146,8 @@ $ shutdown -r 18:23:52
 ## uname  
 $ uname -m  
 $ uname -a  
+
+## KodExplorer  
+https://github.com/kalcaddle/KodExplorer  
+
+
