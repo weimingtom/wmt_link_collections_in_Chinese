@@ -126,6 +126,9 @@ $ cat /etc/apache2/envvars
 group: www-data  
 user: www-data  
 <pre>$ sudo chown -R www-data:www-data /var/www/html</pre>    
+or
+<pre>$ sudo chmod -R 0777 /var/www/html</pre>    
+<pre>$ sudo chmod -R +777 /var/www/html</pre>    
 
 ## cannot open shared object file  
 export LD_LIBRARY_PATH=/where/you/install/lib:$LD_LIBRARY_PATH  
