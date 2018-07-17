@@ -84,6 +84,7 @@ $ sudo mysql -uroot
   mysql> UPDATE user SET plugin='mysql_native_password' WHERE user='root';  
   mysql> FLUSH PRIVILEGES;  
   mysql> exit;  
+
 * Why change plugin to mysql_native_password    
 http://www.pecmd.com/?id=48  
 $ sudo mysql -u root -p // 然后任意输密码登录。  
@@ -92,7 +93,8 @@ $ sudo mysql -u root -p // 然后任意输密码登录。
 MariaDB [(none)]> update mysql.user set plugin='mysql_native_password';  #改加密方式  
 MariaDB [(none)]> update mysql.user set password=PASSWORD("newpassword") where User='root';  #设置新密码  
 MariaDB [(none)]>  flush privileges;  #刷新生效  
-* Remote login  
+
+* Remote login ((Access denied for user ‘root’@’10.0.2.2’)  
 https://blog.csdn.net/faryang/article/details/50788795  
 修改/etc/mysql/my.cnf文件  
 $ sudo nano /etc/mysql/my.cnf  
@@ -100,10 +102,11 @@ or
 $ sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf  
 找到下面这行，并用#注释掉，  
   bind-address        = 127.0.0.1  
-3.2登录mysql，输入下面命令  
-  <pre>mysql> grant all privileges on *.* to username@"%" identified by "123456";</pre>    
+3.2登录mysql，输入下面命令    
+  <pre>mysql> grant all privileges on *.* to root@"%" identified by "123456";</pre>    
   (username一般是root，password是新的密码)  
   mysql> FLUSH PRIVILEGES;  
+
 * mysql reading initial communication packet 解决方法  
 https://yq.aliyun.com/ziliao/75075  
 $ sudo nano /etc/mysql/my.cnf  
