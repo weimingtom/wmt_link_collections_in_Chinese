@@ -56,7 +56,7 @@ $ vncserver -kill :1
 http://www.cnblogs.com/findumars/p/4878475.html  
 http://gnutoolchains.com/raspberry/  
 
-## Search software package execute file  
+## Search software package executable file  
 $ dpkg -L xxx  
 
 ## VBA  
