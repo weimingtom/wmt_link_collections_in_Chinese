@@ -103,7 +103,7 @@ $ sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
 找到下面这行，并用#注释掉，  
   bind-address        = 127.0.0.1  
 3.2登录mysql，输入下面命令    
-  <pre>mysql> grant all privileges on *.* to root@"%" identified by "123456";</pre>    
+  <pre>mysql> grant all privileges on *.* to root@"%" identified by "123456"; # 假设用户名密码是root，123456</pre>    
   (username一般是root，password是新的密码)  
   mysql> FLUSH PRIVILEGES;  
 
