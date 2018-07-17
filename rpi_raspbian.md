@@ -153,4 +153,6 @@ $ uname -a
 ## KodExplorer  
 https://github.com/kalcaddle/KodExplorer  
 
+## Wordpress  
+https://cn.wordpress.org  
 
