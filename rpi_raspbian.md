@@ -183,6 +183,7 @@ $ sudo nano /etc/dbconfig-common/phpmyadmin.conf
 $ sudo /etc/init.d/apache2 restart  
 
 * Enable or disable  
+http://www.mafutian.net/212.html  
 $ sudo find / -name "phpmyadmin.conf"  
 /etc/dbconfig-common/phpmyadmin.conf  
 /etc/apache2/conf-available/phpmyadmin.conf  
