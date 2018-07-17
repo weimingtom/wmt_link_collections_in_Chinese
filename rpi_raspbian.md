@@ -84,6 +84,14 @@ $ sudo mysql -uroot
   mysql> UPDATE user SET plugin='mysql_native_password' WHERE user='root';  
   mysql> FLUSH PRIVILEGES;  
   mysql> exit;  
+* Why change plugin to mysql_native_password    
+http://www.pecmd.com/?id=48  
+$ sudo mysql -u root -p // 然后任意输密码登录。  
+> select Host,User,plugin from mysql.user where User='root';  
+看加密方式：plugin是unix_socket。  
+MariaDB [(none)]> update mysql.user set plugin='mysql_native_password';  #改加密方式  
+MariaDB [(none)]> update mysql.user set password=PASSWORD("newpassword") where User='root';  #设置新密码  
+MariaDB [(none)]>  flush privileges;  #刷新生效  
 * Remote login  
 https://blog.csdn.net/faryang/article/details/50788795  
 修改/etc/mysql/my.cnf文件  
