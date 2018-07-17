@@ -95,14 +95,23 @@ MariaDB [(none)]>  flush privileges;  #刷新生效
 * Remote login  
 https://blog.csdn.net/faryang/article/details/50788795  
 修改/etc/mysql/my.cnf文件  
-$ nano /etc/mysql/my.cnf  
+$ sudo nano /etc/mysql/my.cnf  
+or  
 $ sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf  
 找到下面这行，并用#注释掉，  
   bind-address        = 127.0.0.1  
 3.2登录mysql，输入下面命令  
-  <pre>mysql> grant all privileges on *.* to username@"%" identified by "password";</pre>    
+  <pre>mysql> grant all privileges on *.* to username@"%" identified by "123456";</pre>    
   (username一般是root，password是新的密码)  
   mysql> FLUSH PRIVILEGES;  
+* mysql reading initial communication packet 解决方法  
+https://yq.aliyun.com/ziliao/75075  
+$ sudo nano /etc/mysql/my.cnf  
+or  
+$ sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf  
+[mysqld] 段增加一个启动参数 skip-name-resolve  
+
+
 
 ## sys/types.h (not need)   
 **NOTE:NOT NEED**  
