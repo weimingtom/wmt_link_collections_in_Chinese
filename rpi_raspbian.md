@@ -177,4 +177,16 @@ https://github.com/kalcaddle/KodExplorer
 https://cn.wordpress.org  
 
 ## phpmyadmin  
-sudo apt-get install phpmyadmin  
+* Install  
+$ sudo apt-get install phpmyadmin  
+$ sudo nano /etc/dbconfig-common/phpmyadmin.conf  
+$ sudo /etc/init.d/apache2 restart  
+
+* Enable or disable  
+$ sudo find / -name "phpmyadmin.conf"  
+/etc/dbconfig-common/phpmyadmin.conf  
+/etc/apache2/conf-available/phpmyadmin.conf  
+/etc/apache2/conf-enabled/phpmyadmin.conf  
+$ sudo nano /etc/apache2/conf-enabled/phpmyadmin.conf  
+$ sudo nano /etc/phpmyadmin/apache.conf  
+#Alias /phpmyadmin /usr/share/phpmyadmin  # 注释这一行  
