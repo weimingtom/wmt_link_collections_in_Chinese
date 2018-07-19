@@ -180,7 +180,7 @@ https://cn.wordpress.org
 * Install  
 $ sudo apt-get install phpmyadmin  
 $ sudo nano /etc/dbconfig-common/phpmyadmin.conf  
-$ sudo nano /etc/phpmyadmin/config-db.php
+$ sudo nano /etc/phpmyadmin/config-db.php  
 $ sudo /etc/init.d/apache2 restart  
 
 * Enable or disable  
