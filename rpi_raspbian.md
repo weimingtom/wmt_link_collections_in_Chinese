@@ -192,3 +192,18 @@ $ sudo find / -name "phpmyadmin.conf"
 $ sudo nano /etc/apache2/conf-enabled/phpmyadmin.conf  
 $ sudo nano /etc/phpmyadmin/apache.conf  
 #Alias /phpmyadmin /usr/share/phpmyadmin  # 注释这一行  
+
+## mono  
+http://www.mono-project.com/download/stable/#download-lin-raspbian  
+$ sudo apt install apt-transport-https dirmngr  
+$ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF  
+$ echo "deb https://download.mono-project.com/repo/debian stable-raspbianstretch main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list  
+$ sudo apt update  
+$ sudo apt install mono-complete  
+
+## 网线连  
+Windows固定ip  
+169.254.207.161  
+255.255.0.0  
+树莓派ip  
+169.254.76.222  
