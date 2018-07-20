@@ -207,3 +207,8 @@ Windows固定ip
 255.255.0.0  
 树莓派ip  
 169.254.76.222  
+
+## gles  
+https://elinux.org/Raspberry_Pi_VideoCore_APIs  
+/opt/vc/src/hello_pi  
+
