@@ -23,3 +23,4 @@ https://github.com/visualboyadvance/visualboyadvance
 https://github.com/omegacoleman/vba-raspi  
 * nes  
 https://github.com/DPRCZ/gpsp  
+* https://github.com/fcambus/jsemu  
