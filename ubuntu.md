@@ -129,7 +129,7 @@
   javac Hello.java  
   ../build/linux-i386/avian Hello  
 
-* bison
+* bison  
   sudo apt-get install bison  
 
 * glfw2  
