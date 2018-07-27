@@ -129,6 +129,14 @@
   javac Hello.java  
   ../build/linux-i386/avian Hello  
 
+* bison
+  sudo apt-get install bison  
+
+* glfw2  
+  sudo apt-get install libglfw2  
+
+* -lXrandr    
+  sudo apt-get install libxrandr-dev  
 
 
 
