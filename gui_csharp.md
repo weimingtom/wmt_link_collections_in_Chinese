@@ -60,3 +60,8 @@ https://github.com/Ochakko/E3DSamples/blob/master/マニュアル/Easy3DFunction
 
 * Simple-Dota-2-Editor  
 https://github.com/Oplkill/Simple-Dota-2-Editor  
+
+* themes  
+https://www.infragistics.com/community/blogs/b/blagunas/posts/free-metro-light-and-dark-themes-for-wpf-and-silverlight-microsoft-controls  
+http://brianlagunas.com/free-office-2010-blue-theme-wpf-silverlight-microsoft-controls/  
+https://www.nuget.org/packages/Infragistics.Themes.Office2010Blue.Wpf/  
