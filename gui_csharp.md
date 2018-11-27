@@ -52,3 +52,5 @@ https://github.com/Nersent/MaterialWPF
 * nodemcu-studio-csharp  
 https://github.com/nodemcu/nodemcu-studio-csharp  
 
+* MailClientExpanded  
+https://github.com/MaxKhomyn/MailClientExpanded  
