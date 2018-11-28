@@ -2,3 +2,5 @@
 * http://www.jbox.dk/sanos/  
 * https://github.com/cfenollosa/os-tutorial  
 * http://mikeos.sourceforge.net  
+* http://www.freedos.org  
+* https://www.386bsd.org  
