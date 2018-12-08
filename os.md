@@ -4,3 +4,6 @@
 * http://mikeos.sourceforge.net  
 * http://www.freedos.org  
 * https://www.386bsd.org  
+* 《Linux 0.01 内核分析与操作系统设计》  
+(baidupan) Linux_0_01_内核分析与操作系统设计.rar  
+(baidupan) Linux0.01内核分析与操作系统设计配书光盘.rar  
