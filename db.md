@@ -18,6 +18,7 @@
 * https://github.com/zhicheng/db  
 * https://github.com/Reactive-Extensions/LevelDB  
 https://blog.csdn.net/yoyomiaosu/article/details/49445825  
+* https://github.com/etcd-io/etcd  
 
 ## list
 * http://www.race604.com/snappydb-nosql/
