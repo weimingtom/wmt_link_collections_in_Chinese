@@ -28,4 +28,4 @@ https://github.com/DPRCZ/gpsp
 * http://www.6502.org  
 * arduboy  
 https://github.com/felipemanga/ProjectABE  
-
+* https://github.com/jarikomppa/emu8051  
