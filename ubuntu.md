@@ -1,5 +1,11 @@
 * **update software list**  
   sudo apt-get update  
+  
+* **list file**  
+  dpkg -L <name>  
+
+* **remove**  
+  sudo apt-get --purge remove <name>  
 
 * git  
   sudo apt-get install git  
