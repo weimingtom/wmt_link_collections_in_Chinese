@@ -7,6 +7,9 @@
 * **remove**  
   sudo apt-get --purge remove "name"  
 
+* **Edit .profile and modify PATH**  
+  PATH="/usr/lib/go-1.10/bin/:$PATH"  
+
 * git  
   sudo apt-get install git  
 
