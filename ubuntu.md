@@ -2,10 +2,10 @@
   sudo apt-get update  
   
 * **list file**  
-  dpkg -L <name>  
+  dpkg -L "name"
 
 * **remove**  
-  sudo apt-get --purge remove <name>  
+  sudo apt-get --purge remove "name"  
 
 * git  
   sudo apt-get install git  
