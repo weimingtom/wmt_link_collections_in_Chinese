@@ -52,3 +52,9 @@ sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsd
 $ sudo rm /var/lib/dpkg/lock  
 $ sudo dpkg --configure -a  
 $ sudo apt update  
+
+* bash: ./test.sh: /bin/sh^M: bad interpreter: No such file or directory  
+$ vim xxx  
+:set ff=unix  
+:wq  
+
