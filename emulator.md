@@ -29,3 +29,6 @@ https://github.com/DPRCZ/gpsp
 * arduboy  
 https://github.com/felipemanga/ProjectABE  
 * https://github.com/jarikomppa/emu8051  
+* InfoNes  
+* nofrendo  
+* https://github.com/rofl0r/gnuboy  
