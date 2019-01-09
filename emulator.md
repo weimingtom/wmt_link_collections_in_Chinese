@@ -34,3 +34,6 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/rofl0r/gnuboy  
 * https://github.com/NJU-ProjectN/LiteNES  
 * https://github.com/EmulatorArchive/smsplus-gx  
+* dingoo / Dingux  
+* https://github.com/uli/dingoo-tvout  
+* https://github.com/darth-llamah/sms_sdl  
