@@ -37,3 +37,4 @@ https://github.com/felipemanga/ProjectABE
 * dingoo / Dingux  
 * https://github.com/uli/dingoo-tvout  
 * https://github.com/darth-llamah/sms_sdl  
+* http://www.retroarch.com/?page=platforms  
