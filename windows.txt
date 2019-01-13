@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator>test.bat
+
+C:\Documents and Settings\Administrator>regsvr32 /s /u msxml3.dll
+
+C:\Documents and Settings\Administrator>regsvr32 /s /u msxml6.dll
+
+C:\Documents and Settings\Administrator>regsvr32 /s msxml3.dll
+
+C:\Documents and Settings\Administrator>regsvr32 /s msxml6.dll
+
