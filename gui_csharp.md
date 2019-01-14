@@ -65,3 +65,6 @@ https://github.com/Oplkill/Simple-Dota-2-Editor
 https://www.infragistics.com/community/blogs/b/blagunas/posts/free-metro-light-and-dark-themes-for-wpf-and-silverlight-microsoft-controls  
 http://brianlagunas.com/free-office-2010-blue-theme-wpf-silverlight-microsoft-controls/  
 https://www.nuget.org/packages/Infragistics.Themes.Office2010Blue.Wpf/  
+
+* Avalonia  
+https://github.com/AvaloniaUI/Avalonia  
