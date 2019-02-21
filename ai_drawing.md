@@ -5,3 +5,4 @@
 * https://github.com/OsciiArt/DeepAA  
 * http://bigjpg.com  
 * https://github.com/youyuge34/Anime-InPainting  
+* https://github.com/NVlabs/stylegan  
