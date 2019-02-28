@@ -1,0 +1,7 @@
+see https://github.com/weimingtom/mup_ie_classic_asp/blob/master/origin_files/kindeditor-4.1.10-zh-CN.zip  
+  
+    extTable.Add("image", "gif,jpg,jpeg,png,bmp");
+		extTable.Add("flash", "swf,flv");
+		extTable.Add("media", "swf,flv,mp3,wav,wma,wmv,mid,avi,mpg,asf,rm,rmvb");
+		extTable.Add("file", "doc,docx,xls,xlsx,ppt,htm,html,txt,zip,rar,gz,bz2");
+    
