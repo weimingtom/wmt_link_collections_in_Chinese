@@ -40,5 +40,6 @@ https://github.com/felipemanga/ProjectABE
 * http://www.retroarch.com/?page=platforms  
 * https://github.com/zeta0134/LuaGB  
 * https://github.com/slp/gameboid   
+* https://github.com/vreeze/eboy  
 
 
