@@ -8,3 +8,5 @@
 (baidupan) Linux_0_01_内核分析与操作系统设计.rar  
 (baidupan) Linux0.01内核分析与操作系统设计配书光盘.rar  
 * 《一个64位操作系统的设计与实现》  
+* 《Linux内核完全注释》  
+* http://www.oldlinux.org/Linux.old/kernel/0.1x/  
