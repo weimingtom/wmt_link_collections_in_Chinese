@@ -11,3 +11,4 @@
 * 《Linux内核完全注释》 （Linux内核完全注释 内核版本0.11(0.95)）  
 * http://www.oldlinux.org/Linux.old/kernel/0.1x/linux-0.11-030920.tar.gz  
 * https://github.com/yuanxinyu/Linux-0.11  
+* https://github.com/xianjimli/qemu-arm-linux  
