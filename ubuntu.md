@@ -1,3 +1,8 @@
+* find file name and string    
+  find . -name lib*  
+  grep -r magic .    
+  https://www.cnblogs.com/huninglei/p/5824205.html  
+
 * **update software list**  
   sudo apt-get update  
   
@@ -146,6 +151,5 @@
 
 * -lXrandr    
   sudo apt-get install libxrandr-dev  
-
 
 
