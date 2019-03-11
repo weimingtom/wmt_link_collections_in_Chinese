@@ -51,3 +51,7 @@ https://github.com/dmajkic/redis/downloads
 
 ## influxdb  
 https://github.com/influxdata/influxdb  
+
+## slim  
+https://github.com/openacid/slim  
+
