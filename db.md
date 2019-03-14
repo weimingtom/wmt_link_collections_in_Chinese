@@ -55,3 +55,7 @@ https://github.com/influxdata/influxdb
 ## slim  
 https://github.com/openacid/slim  
 
+## KeyDB  
+https://github.com/JohnSully/KeyDB  
+
+
