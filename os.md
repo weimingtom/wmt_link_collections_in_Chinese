@@ -12,3 +12,6 @@
 * http://www.oldlinux.org/Linux.old/kernel/0.1x/linux-0.11-030920.tar.gz  
 * https://github.com/yuanxinyu/Linux-0.11  
 * https://github.com/xianjimli/qemu-arm-linux  
+* https://github.com/cirosantilli/x86-bare-metal-examples  
+* https://github.com/cirosantilli/linux-kernel-module-cheat  
+* https://github.com/cirosantilli/x86-assembly-cheat  
