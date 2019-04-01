@@ -15,3 +15,4 @@
 * https://github.com/cirosantilli/x86-bare-metal-examples  
 * https://github.com/cirosantilli/linux-kernel-module-cheat  
 * https://github.com/cirosantilli/x86-assembly-cheat  
+* https://github.com/awesomekling/serenity  
