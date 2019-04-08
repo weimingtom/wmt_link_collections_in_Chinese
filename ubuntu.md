@@ -152,4 +152,10 @@
 * -lXrandr    
   sudo apt-get install libxrandr-dev  
 
+* telnetd  
+  sudo apt install telnetd  
+  sudo apt install xinetd  
+  sudo service xinetd restart  
+  telnet localhost 23  
+
 
