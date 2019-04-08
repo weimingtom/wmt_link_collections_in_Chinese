@@ -167,7 +167,9 @@
   sudo chown -R nobody /tftpboot  
   sudo service tftpd-hpa restart  
   echo "Hello,can you see me?" > /tftpboot/tftpTestFile  
-  tftp localhost  
+  tftp localhost 69    
+  tftp localhost -c get tftpTestFile  
+  
   
 
    
