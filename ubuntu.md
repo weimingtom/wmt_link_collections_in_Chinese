@@ -158,4 +158,18 @@
   sudo service xinetd restart  
   telnet localhost 23  
 
+* tftpd  
+  sudo apt-get install tftpd-hpa tftp-hpa  
+  sudo gedit /etc/default/tftpd-hpa  
+  TFTP_DIRECTORY="/tftpboot"  
+  sudo mkdir /tftpboot  
+  sudo chmod -R 777 /tftpboot  
+  sudo chown -R nobody /tftpboot  
+  sudo service tftpd-hpa restart  
+  echo "Hello,can you see me?" > /tftpboot/tftpTestFile  
+  tftp localhost  
+  
+
+   
+  
 
