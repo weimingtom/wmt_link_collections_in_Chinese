@@ -170,6 +170,20 @@
   tftp localhost 69    
   tftp localhost -c get tftpTestFile  
   
+* NFS  
+  $ sudo apt-get install nfs-kernel-server  
+  $ sudo apt-get install nfs-common  
+  $ sudo gedit /etc/exports  
+  <pre>/nfsroot *(rw,sync,no_root_squash)</pre>  
+  sudo mkdir /nfsroot  
+  $ sudo chmod -R 777 /nfsroot  
+  $ sudo chown –R nobody /nfsroot  
+  $ sudo /etc/init.d/nfs-kernel-server restart  
+  (client)  
+  $ sudo mount -t nfs 192.168.12.123:/nfsroot /mnt -o nolock  
+  $ umount /mnt  
+  
+
   
 
    
