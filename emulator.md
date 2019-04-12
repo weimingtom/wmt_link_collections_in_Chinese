@@ -41,5 +41,6 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/zeta0134/LuaGB  
 * https://github.com/slp/gameboid   
 * https://github.com/vreeze/eboy  
+* https://github.com/chipsi007/An-emulation-of-the-ZXSpectrum-computer-on-an-ESP32-and-ILI9341-TFT-Screen  
 
 
