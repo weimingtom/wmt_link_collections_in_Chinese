@@ -44,5 +44,8 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/chipsi007/An-emulation-of-the-ZXSpectrum-computer-on-an-ESP32-and-ILI9341-TFT-Screen  
 * n88-basic  
 * http://cndos.fam.cx/forum/redirect.php?tid=51483&goto=lastpost&fpage=12  
+* gamebadge  
+* https://trmm.net/Gamebadge  
+* https://github.com/osresearch/gamebadge  
 
 
