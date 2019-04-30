@@ -386,6 +386,9 @@ https://gitee.com/robergroup/fishflow
 https://github.com/Tencent/behaviac/releases    
 http://www.behaviac.com/tutorial_1_hello_behaviac/  
 
+* jointjs  
+https://www.jointjs.com/  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
