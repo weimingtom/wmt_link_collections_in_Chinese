@@ -550,6 +550,9 @@ https://github.com/xanthodont/PushServices
 * pushpin  
 https://github.com/fanout/pushpin  
 
+* wildfirechat/server  
+https://github.com/wildfirechat/server  
+
 ## html5  
 * loveJS  
 https://github.com/DaanHaaz/loveJS  
