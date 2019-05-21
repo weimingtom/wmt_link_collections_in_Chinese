@@ -13,3 +13,6 @@ https://github.com/sqlectron/sqlectron-gui
 
 * MariaDB, HeidiSQL  
 https://www.heidisql.com  
+
+* navicat  
+https://www.navicat.com.cn  
