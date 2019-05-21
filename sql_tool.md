@@ -11,3 +11,5 @@ http://www.mitec.cz/sqliteq.html
 * Sqlectron  
 https://github.com/sqlectron/sqlectron-gui  
 
+* MariaDB, HeidiSQL  
+https://www.heidisql.com  
