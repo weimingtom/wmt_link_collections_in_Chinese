@@ -49,4 +49,5 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/osresearch/gamebadge  
 * https://github.com/HFO4/gameboy.live  
 * https://github.com/Dean-Chu/emulators  
+* https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
 
