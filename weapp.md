@@ -11,3 +11,8 @@
 * https://github.com/KingJeason/wepy-books  
 * https://github.com/Verytops/verydows  
 * https://github.com/osjj/wxShop  
+
+## nideshop    
+* https://www.nideshop.com  
+* https://github.com/tumobi/nideshop  
+* https://github.com/tumobi/nideshop-mini-program  
