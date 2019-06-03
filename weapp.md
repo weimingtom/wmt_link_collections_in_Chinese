@@ -16,3 +16,6 @@
 * https://www.nideshop.com  
 * https://github.com/tumobi/nideshop  
 * https://github.com/tumobi/nideshop-mini-program  
+
+## vue和微信小程序的区别、比较  
+https://segmentfault.com/a/1190000015684864  
