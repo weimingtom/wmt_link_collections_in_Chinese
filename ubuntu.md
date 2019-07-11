@@ -183,8 +183,9 @@
   $ sudo mount -t nfs 192.168.12.123:/nfsroot /mnt -o nolock  
   $ umount /mnt  
   
+* cmake verbose
+  $ make VERBOSE=1  
 
-  
 
    
   
