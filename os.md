@@ -16,3 +16,4 @@
 * https://github.com/cirosantilli/linux-kernel-module-cheat  
 * https://github.com/cirosantilli/x86-assembly-cheat  
 * https://github.com/awesomekling/serenity  
+* https://github.com/nanochess/bootOS  
