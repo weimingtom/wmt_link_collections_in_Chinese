@@ -186,7 +186,6 @@
 * cmake verbose
   $ make VERBOSE=1  
 
-
-   
-  
+* openwrt 
+  $ sudo apt-get install g++ flex zlib1g-dev gawk subversion ncurses-dev  
 
