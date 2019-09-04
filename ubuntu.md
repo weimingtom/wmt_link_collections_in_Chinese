@@ -188,3 +188,9 @@
 
 * openwrt  
   $ sudo apt-get install g++ flex zlib1g-dev gawk subversion ncurses-dev  
+
+* https://blog.csdn.net/cloume/article/details/42425085  
+  $ sudo apt-get install libstdc++6  
+  $ sudo apt-get install lib32stdc++6  
+  
+
