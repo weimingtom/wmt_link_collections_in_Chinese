@@ -60,5 +60,5 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/zfteam/PocketSNES-gameshell  
 * https://github.com/zfteam/fceux320-gameshell  
 * https://github.com/zfteam/gpsp  
-
+* https://github.com/mgba-emu/mgba  
 
