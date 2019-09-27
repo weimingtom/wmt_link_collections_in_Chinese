@@ -52,3 +52,13 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
 * https://github.com/zephray/VerilogBoy  
 * https://github.com/ledyba/Cycloa  
+* for gameshell, from http://bbs.gameshell.cn
+* https://github.com/hi-ban/ohboy  
+* https://github.com/mtorromeo/gmenu2x  
+* https://github.com/notaz/picodrive  
+* https://github.com/pcercuei/PocketSNES  
+* https://github.com/zfteam/PocketSNES-gameshell  
+* https://github.com/zfteam/fceux320-gameshell  
+* https://github.com/zfteam/gpsp  
+
+
