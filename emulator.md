@@ -49,7 +49,9 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/osresearch/gamebadge  
 * https://github.com/HFO4/gameboy.live  
 * https://github.com/Dean-Chu/emulators  
-* https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
+* (dead link) https://github.com/sipeed/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
+* https://github.com/weimingtom/MaixPy/tree/master/ports/k210-freertos/mpy_support/nes  
+* https://github.com/sipeed/MaixPy/tree/master/components/micropython/port/src/nes  
 * https://github.com/zephray/VerilogBoy  
 * https://github.com/ledyba/Cycloa  
 * for gameshell, from http://bbs.gameshell.cn
