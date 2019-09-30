@@ -194,4 +194,17 @@
   $ sudo apt-get install lib32stdc++6  
   
 * https://blog.csdn.net/ieeso/article/details/82216322  
-  $ cat /etc/apt/sources.list  
+  $ cat /etc/apt/sources.list   
+  $ sudo leafpad /etc/apt/sources.list  
+  https://www.cnblogs.com/arrive/p/9353994.html  
+
+```
+deb http://mirrors.163.com/debian/ stretch main non-free contrib
+deb http://mirrors.163.com/debian/ stretch-updates main non-free contrib
+deb http://mirrors.163.com/debian/ stretch-backports main non-free contrib
+#deb-src http://mirrors.163.com/debian/ stretch main non-free contrib
+#deb-src http://mirrors.163.com/debian/ stretch-updates main non-free contrib
+#deb-src http://mirrors.163.com/debian/ stretch-backports main non-free contrib
+deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contrib
+#deb-src http://mirrors.163.com/debian-security/ stretch/updates main non-free contrib
+```
