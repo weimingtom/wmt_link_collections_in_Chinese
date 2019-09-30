@@ -193,4 +193,5 @@
   $ sudo apt-get install libstdc++6  
   $ sudo apt-get install lib32stdc++6  
   
-
+* https://blog.csdn.net/ieeso/article/details/82216322  
+  $ cat /etc/apt/sources.list  
