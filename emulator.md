@@ -63,4 +63,7 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/zfteam/fceux320-gameshell  
 * https://github.com/zfteam/gpsp  
 * https://github.com/mgba-emu/mgba  
-
+* search smynes  
+https://github.com/Rek1t/ccnes/tree/master/jni/neslib  
+* retrogame    
+https://github.com/tonyjih/PocketSNES-for-RetroGame  
