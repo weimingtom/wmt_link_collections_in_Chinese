@@ -31,6 +31,7 @@ https://github.com/felipemanga/ProjectABE
 * https://github.com/jarikomppa/emu8051  
 * InfoNes  
 * nofrendo  
+* http://www.baisoku.org/nofrendo-2.0pre1.zip  
 * https://github.com/rofl0r/gnuboy  
 * https://github.com/NJU-ProjectN/LiteNES  
 * https://github.com/EmulatorArchive/smsplus-gx  
