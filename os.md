@@ -17,3 +17,4 @@
 * https://github.com/cirosantilli/x86-assembly-cheat  
 * https://github.com/awesomekling/serenity  
 * https://github.com/nanochess/bootOS  
+* https://github.com/SerenityOS/serenity  
