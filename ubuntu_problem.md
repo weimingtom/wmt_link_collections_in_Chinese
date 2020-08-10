@@ -58,3 +58,11 @@ $ vim xxx
 :set ff=unix  
 :wq  
 
+* apt-get install 默认下载路径  
+https://blog.csdn.net/u012206617/article/details/105094522  
+树莓派deb下载路径：  
+只下载不安装deb  
+apt-get --download-only install freesweep  
+默认下载路径：/var/cache/apt/archives/  
+
+  
