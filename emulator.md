@@ -75,3 +75,4 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/AppleWin/AppleWin  
 * port to stm32 (???)  
 * https://gitee.com/wddark/apple2emulator  
+* search baidupan, apple2.rar    
