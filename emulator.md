@@ -71,3 +71,7 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * winkawaks  
 * http://www.gametronik.com/site/emulation/nes_famicom/  
 * https://github.com/Baekalfen/PyBoy  
+* Apple 2 / Apple II  
+* https://github.com/AppleWin/AppleWin  
+* port to stm32 (???)  
+* https://gitee.com/wddark/apple2emulator  
