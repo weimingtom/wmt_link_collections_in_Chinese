@@ -395,6 +395,9 @@ https://gitee.com/quanjiao/X-Flowchart-Vue
 https://antv-g6.gitee.io/zh/examples/tree/dendrogram  
 https://github.com/jsplumb/jsplumb  
 
+* designer  
+https://github.com/weimingtom/ugame/tree/master/projects/designer  
+
 ## 地图编辑器 / 界面编辑器  
 * bjorn/tiled-java  
 https://github.com/bjorn/tiled-java  
