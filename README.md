@@ -675,3 +675,9 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 星际1重制版  
 
 ## TODO  
+
+## 删除NUL文件的方法  
+* 重命名0文件夹名称，例如D:\0  
+* 执行rd /s \\.\D:\0  
+参考自：  
+http://tieba.baidu.com/p/776448917  
