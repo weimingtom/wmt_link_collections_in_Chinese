@@ -562,6 +562,9 @@ https://github.com/fanout/pushpin
 * wildfirechat/server  
 https://github.com/wildfirechat/server  
 
+* cim  
+https://github.com/crossoverJie/cim  
+
 ## html5  
 * loveJS  
 https://github.com/DaanHaaz/loveJS  
