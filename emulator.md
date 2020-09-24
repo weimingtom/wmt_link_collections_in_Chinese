@@ -76,3 +76,5 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * port to stm32 (???)  
 * https://gitee.com/wddark/apple2emulator  
 * search baidupan, apple2.rar    
+* fc  
+* https://github.com/netcan/FCEmulator  
