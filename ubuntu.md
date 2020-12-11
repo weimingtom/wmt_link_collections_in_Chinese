@@ -221,3 +221,16 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   $ swapoff swapfile  
   $ rm swapfile  
 
+* change python point    
+  $ ll /usr/bin | grep python  
+  $ sudo rm /usr/bin/python  
+  $ sudo ln -s /usr/bin/python2 /usr/bin/python  
+  $ ll /usr/bin | grep python  
+
+* python2 and pip2    
+  $ sudo apt-get install python2  
+  $ wget https://bootstrap.pypa.io/get-pip.py  
+  $ sudo python2 get-pip.py  
+  $ sudo python2 -m pip install tensorflow-cpu==1.15.0  
+  $ python2  
+
