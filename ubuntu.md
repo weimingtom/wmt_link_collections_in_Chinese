@@ -208,3 +208,16 @@ deb http://mirrors.163.com/debian/ stretch-backports main non-free contrib
 deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contrib
 #deb-src http://mirrors.163.com/debian-security/ stretch/updates main non-free contrib
 ```
+
+* create swap file  
+  https://blog.csdn.net/mika001/article/details/72780953
+  https://blog.csdn.net/JiangBo_HIT/article/details/4480226
+  $ free  
+  $ sudo dd if=/dev/zero of=swapfile bs=1M count=4096  
+  $ chmod 600 swapfile  
+  $ mkswap swapfile  
+  $ sudo swapon swapfile  
+  $ free  
+  $ swapoff swapfile  
+  $ rm swapfile  
+
