@@ -210,8 +210,8 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
 ```
 
 * create swap file  
-  https://blog.csdn.net/mika001/article/details/72780953
-  https://blog.csdn.net/JiangBo_HIT/article/details/4480226
+  https://blog.csdn.net/mika001/article/details/72780953  
+  https://blog.csdn.net/JiangBo_HIT/article/details/4480226  
   $ free  
   $ sudo dd if=/dev/zero of=swapfile bs=1M count=4096  
   $ chmod 600 swapfile  
