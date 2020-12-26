@@ -234,3 +234,9 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   $ sudo python2 -m pip install tensorflow-cpu==1.15.0  
   $ python2  
 
+* TensorFlow CPU version, 2.3.1 (depend numpy)  
+  $ pip3 install tensorflow-cpu  
+  (Also support Python2 and TensorFlow 1.x high version, but not recommanded)  
+  
+* PyTorch CPU version, 1.7.1 (depend numpy)      
+  $ pip3 install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html  
