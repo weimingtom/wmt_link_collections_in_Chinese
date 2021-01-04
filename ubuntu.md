@@ -229,6 +229,10 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   $ sudo ln -s /usr/bin/python2 /usr/bin/python  
   $ ll /usr/bin | grep python  
 
+* python3 and pip3  
+  $ sudo apt-get install python3  
+  $ sudo apt-get install python3-pip  
+
 * python2 and pip2    
   $ sudo apt-get install python2  
   $ wget https://bootstrap.pypa.io/get-pip.py  
