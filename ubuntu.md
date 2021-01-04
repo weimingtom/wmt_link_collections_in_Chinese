@@ -221,7 +221,9 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   $ swapoff swapfile  
   $ rm swapfile  
 
-* change python point    
+* change python point  
+  $ sudo apt-get install python-is-python2  
+  OR    
   $ ll /usr/bin | grep python  
   $ sudo rm /usr/bin/python  
   $ sudo ln -s /usr/bin/python2 /usr/bin/python  
