@@ -246,3 +246,17 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   
 * PyTorch CPU version, 1.7.1 (depend numpy)      
   $ pip3 install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html  
+
+* Android SDK install  
+  Install Android Studio, custom install, uncheck AVD (Android Virtual Device)  
+  Install lastest NDK using SDK Manager or Download NDK r18b (with ndk-depends)  
+
+* gradlew, Android project CUI build    
+  (in /home/wmt/Android/Sdk/tools/bin/)  
+  $ ./sdkmanager --licenses  
+  input y  
+  (modify ~/.bashrc)  
+  export ANDROID_HOME=/home/wmt/Android/Sdk  
+  export JAVA_HOME=/home/wmt/android-studio/jre    
+  $ ./gradlew clean  
+  $ ./gradlew build  
