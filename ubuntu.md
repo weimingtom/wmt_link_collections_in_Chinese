@@ -251,7 +251,7 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   Install Android Studio, custom install, uncheck AVD (Android Virtual Device)  
   Install lastest NDK using SDK Manager or Download NDK r18b (with ndk-depends)  
 
-* gradlew, Android project CUI build    
+* gradlew, Android project CUI build (this is an example to build MACE)      
   (in /home/wmt/Android/Sdk/tools/bin/)  
   $ ./sdkmanager --licenses  
   input y  
