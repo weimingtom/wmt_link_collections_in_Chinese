@@ -255,6 +255,7 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   (in /home/wmt/Android/Sdk/tools/bin/)  
   $ ./sdkmanager --licenses  
   input y  
+  $ touch /home/wmt/.android/repositories.cfg  
   (modify ~/.bashrc)  
   export ANDROID_HOME=/home/wmt/Android/Sdk  
   export JAVA_HOME=/home/wmt/android-studio/jre    
