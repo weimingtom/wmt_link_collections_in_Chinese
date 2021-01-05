@@ -241,7 +241,7 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   $ python2  
 
 * TensorFlow CPU version, 2.3.1 (no AVX2, depend numpy)  
-  $ pip3 install tensorflow-cpu  
+  $ pip3 install tensorflow-cpu==2.3.1    
   (Also support Python2 and TensorFlow 1.x high version, but not recommanded)  
   
 * PyTorch CPU version, 1.7.1 (depend numpy)      
