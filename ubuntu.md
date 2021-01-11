@@ -237,7 +237,9 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   $ sudo apt-get install python2  
   $ wget https://bootstrap.pypa.io/get-pip.py  
   $ sudo python2 get-pip.py  
-  $ sudo python2 -m pip install tensorflow-cpu==1.15.0  
+  $ pip install tensorflow-cpu==1.15.0  
+  ($ pip install tensorflow-cpu==1.13.1)    
+  ($ sudo python2 -m pip install tensorflow-cpu==1.15.0)  
   $ python2  
 
 * TensorFlow CPU version, 2.3.1 (no AVX2, depend numpy)  
