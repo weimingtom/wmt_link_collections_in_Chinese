@@ -78,3 +78,5 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * search baidupan, apple2.rar    
 * fc  
 * https://github.com/netcan/FCEmulator  
+* nofrendo  
+* https://github.com/adafruit/nofrendo_arcada  
