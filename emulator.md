@@ -80,3 +80,4 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/netcan/FCEmulator  
 * nofrendo  
 * https://github.com/adafruit/nofrendo_arcada  
+* https://github.com/zardam/numworks-nofrendo  
