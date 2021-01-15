@@ -266,3 +266,8 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   export JAVA_HOME=/home/wmt/android-studio/jre    
   $ ./gradlew clean  
   $ ./gradlew build  
+
+* sudo, command not found  
+  https://www.cnblogs.com/gaowengang/p/10802552.html  
+  $ sudo gedit /etc/sudoers  
+  (Defaults secure_path = /sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin)  
