@@ -110,6 +110,9 @@
 
 * sshd  
   sudo apt-get install openssh-server  
+  for Windows, use WinSCP  
+  for VMWare, Select NAT Mode, NAT Setting, gate:192.168.184.2,   
+  port redirect:22 TCP 192.168.4.131 22 ssh  
 
 * qemu-system-arm  
   sudo apt-get install qemu-system-arm  
