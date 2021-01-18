@@ -112,7 +112,7 @@
   sudo apt-get install openssh-server  
   for Windows, use WinSCP  
   for VMWare, Select NAT Mode, NAT Setting, gate:192.168.184.2,   
-  port redirect:22 TCP 192.168.4.131 22 ssh  
+  port redirect:22 TCP 192.168.4.131 22 ssh (IP 131 is from ifconfig output in ubuntu, modify it)    
   subnet: 192.168.184.0 255.255.255.0  
   DHCP setting: 192.168.184.184 to 192.168.184.254  
 
