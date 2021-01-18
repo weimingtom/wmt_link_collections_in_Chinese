@@ -113,6 +113,8 @@
   for Windows, use WinSCP  
   for VMWare, Select NAT Mode, NAT Setting, gate:192.168.184.2,   
   port redirect:22 TCP 192.168.4.131 22 ssh  
+  subnet: 192.168.184.0 255.255.255.0  
+  DHCP setting: 192.168.184.184 to 192.168.184.254  
 
 * qemu-system-arm  
   sudo apt-get install qemu-system-arm  
