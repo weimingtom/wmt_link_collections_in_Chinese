@@ -81,3 +81,7 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * nofrendo  
 * https://github.com/adafruit/nofrendo_arcada  
 * https://github.com/zardam/numworks-nofrendo  
+* NES模拟器  
+* https://www.136.la/tech/show-139174.html  
+* https://github.com/NJUOS/LiteNES  
+* https://github.com/yaglo/mynes  
