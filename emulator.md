@@ -85,3 +85,8 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://www.136.la/tech/show-139174.html  
 * https://github.com/NJUOS/LiteNES  
 * https://github.com/yaglo/mynes  
+* nofrendo  
+* https://github.com/moononournation/arduino-nofrendo  
+* https://micropython.nxez.com/2019/06/05/esp32-handheld-game-console.html  
+* https://github.com/espressif/esp32-nesemu  
+
