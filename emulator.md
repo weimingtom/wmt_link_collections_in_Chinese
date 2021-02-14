@@ -91,4 +91,7 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/espressif/esp32-nesemu  
 * bsnes  
 * https://github.com/bsnes-emu/bsnes  
+* arduino-nofrendo  
+* https://github.com/Xinyuan-LilyGO/arduino-nofrendo.git  
+* https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/examples/NES/NES.ino  
 
