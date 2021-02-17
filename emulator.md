@@ -94,4 +94,6 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * arduino-nofrendo  
 * https://github.com/Xinyuan-LilyGO/arduino-nofrendo.git  
 * https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/examples/NES/NES.ino  
-
+* infones  
+* https://github.com/nejidev/arm-NES-linux  
+* https://whycan.com/t_5139.html  
