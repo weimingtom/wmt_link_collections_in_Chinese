@@ -97,3 +97,6 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * infones  
 * https://github.com/nejidev/arm-NES-linux  
 * https://whycan.com/t_5139.html  
+* MicroByte：DIY 复古游戏机, 基于 ESP32 的游戏机模拟器  
+* https://github.com/jfm92/microByte_firmware/tree/master  
+* https://make.quwj.com/project/359  
