@@ -100,3 +100,5 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * MicroByte：DIY 复古游戏机, 基于 ESP32 的游戏机模拟器  
 * https://github.com/jfm92/microByte_firmware/tree/master  
 * https://make.quwj.com/project/359  
+* pico infones    
+* https://github.com/wuxx/pico-lab  
