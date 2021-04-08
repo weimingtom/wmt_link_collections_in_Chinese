@@ -102,3 +102,5 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://make.quwj.com/project/359  
 * pico infones    
 * https://github.com/wuxx/pico-lab  
+* n64  
+* https://github.com/zeromus/pj64  
