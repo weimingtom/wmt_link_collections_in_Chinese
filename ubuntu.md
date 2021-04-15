@@ -277,3 +277,7 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   https://www.cnblogs.com/gaowengang/p/10802552.html  
   $ sudo gedit /etc/sudoers  
   (Defaults secure_path = /sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin)  
+
+* JDK8, OpenJDK8  
+  sudo apt-get install openjdk-8-jdk  
+
