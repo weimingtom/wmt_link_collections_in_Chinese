@@ -278,6 +278,17 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   $ sudo gedit /etc/sudoers  
   (Defaults secure_path = /sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin)  
 
-* JDK8, OpenJDK8  
+* JDK8 (only jre), OpenJDK8  
   sudo apt-get install openjdk-8-jdk  
 
+* tomcat, listen on port 8080 and 80    
+  ./startup.sh  
+  ./shutdown.sh  
+  ./catalina.sh run  
+  https://serverfault.com/questions/112795/how-to-run-a-server-on-port-80-as-a-normal-user-on-linux  
+  (java.net.SocketException: Permission denied)  
+  (run with root user)  
+  iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080  
+  iptables -t nat -I OUTPUT -p tcp -d 127.0.0.1 --dport 80 -j REDIRECT --to-ports 8080  
+
+  
