@@ -108,3 +108,5 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/nikita36078/J2ME-Loader  
 * fc  
 * https://github.com/greedyhao/nes-lvgl-rtt  
+* nes  
+* https://github.com/RT-Thread-Studio/sdk-bsp-stm32h750-realthread-artpi/tree/master/projects/art_pi_nes  
