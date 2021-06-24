@@ -298,3 +298,8 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
 * 树莓派部署java运行环境  
   https://www.cnblogs.com/hy162050430/p/9981867.html  
 
+* 树莓派安装matplotlib, for installing jupyter  
+  (numpy==1.16.2)  
+  pip3 install matplotlib==3.0.3  
+  form matplotlib import pyplot as pl  
+  
