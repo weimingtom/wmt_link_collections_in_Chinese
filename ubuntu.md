@@ -295,5 +295,6 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   ftp -p xxx.xxx.xxx.xxx  
   see https://blog.csdn.net/imshang/article/details/5522158  
 
-  
+* 树莓派部署java运行环境  
+  https://www.cnblogs.com/hy162050430/p/9981867.html  
 
