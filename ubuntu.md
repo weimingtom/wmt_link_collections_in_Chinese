@@ -292,8 +292,8 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   iptables -t nat -I OUTPUT -p tcp -d 127.0.0.1 --dport 80 -j REDIRECT --to-ports 8080  
 
 * ftp for some linux version, FileZilla 425 Can't open data connection    
-  ftp -p xxx.xxx.xxx.xxx  
-  or **pftp xxx.xxx.xxx**   
+  ftp -p 192.168.1.xxx  
+  or **pftp 192.168.1.xxx**   
   for xubuntu 20.04  
   see https://blog.csdn.net/imshang/article/details/5522158   
 
