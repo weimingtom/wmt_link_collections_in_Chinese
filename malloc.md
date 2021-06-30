@@ -38,3 +38,5 @@ https://github.com/ennorehling/dlmalloc
 A Memory Allocator, by Doug Lea  
 http://gee.cs.oswego.edu/dl/html/malloc.html  
 
+* dlmalloc、ptmalloc与glibc堆漏洞利用  
+https://blog.csdn.net/u010206565/article/details/105323368  
