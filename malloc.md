@@ -35,4 +35,6 @@ from https://github.com/Unity-Technologies/bdwgc
 * dlmalloc  
 https://github.com/neonious/esp-idf-dlmalloc  
 https://github.com/ennorehling/dlmalloc  
+A Memory Allocator, by Doug Lea  
+http://gee.cs.oswego.edu/dl/html/malloc.html  
 
