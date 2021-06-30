@@ -32,3 +32,7 @@ from https://github.com/Unity-Technologies/bdwgc
 
 * https://github.com/google/tcmalloc  
 
+* dlmalloc  
+https://github.com/neonious/esp-idf-dlmalloc  
+https://github.com/ennorehling/dlmalloc  
+
