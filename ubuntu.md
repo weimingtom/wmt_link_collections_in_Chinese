@@ -305,3 +305,5 @@ deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contri
   pip3 install matplotlib==3.0.3  
   form matplotlib import pyplot as pl  
   
+* fpc and fp (Free Pascal)  
+  sudo apt-get install fpc  
