@@ -112,3 +112,6 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/RT-Thread-Studio/sdk-bsp-stm32h750-realthread-artpi/tree/master/projects/art_pi_nes  
 * nes  
 * https://github.com/yongzhena/infoNES  
+* nes
+* https://github.com/emcmanus/FlashNES/tree/master/src  
+* https://github.com/emcmanus/FlashNES-nesemu/tree/master/src/c  
