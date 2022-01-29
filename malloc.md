@@ -40,3 +40,14 @@ http://gee.cs.oswego.edu/dl/html/malloc.html
 
 * dlmalloc、ptmalloc与glibc堆漏洞利用  
 https://blog.csdn.net/u010206565/article/details/105323368  
+
+* LVGL v7 General and portable implementation of malloc and free  
+https://github.com/lvgl/lvgl/blob/release/v7/src/lv_misc/lv_mem.c  
+https://forum.lvgl.io/t/how-to-calculate-allocated-memory-in-lvgl/6560  
+```
+    lv_mem_monitor_t mon1, mon2;
+    lv_mem_monitor(&mon1);
+    create_screen();
+    lv_mem_monitor(&mon2);
+    uint32_t mem_used = mon1.free_size - mon2.free_size;
+```
