@@ -116,3 +116,5 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/emcmanus/FlashNES/tree/master/src  
 * https://github.com/emcmanus/FlashNES-nesemu/tree/master/src/c  
 * j2me, KEmulator  
+* Miyoo  
+* https://github.com/TriForceX/MiyooCFW  
