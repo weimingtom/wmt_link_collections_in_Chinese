@@ -118,3 +118,6 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * j2me, KEmulator  
 * Miyoo  
 * https://github.com/TriForceX/MiyooCFW  
+* nesbox  
+* https://github.com/Patrique83/emulator.js  
+
