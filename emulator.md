@@ -122,3 +122,5 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/Patrique83/emulator.js  
 * nes  
 * https://github.com/iaddis/metalnes  
+* nes
+* https://github.com/ledyba/CycloaJS  
