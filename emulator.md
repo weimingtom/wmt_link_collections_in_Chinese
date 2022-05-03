@@ -124,3 +124,11 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/iaddis/metalnes  
 * nes
 * https://github.com/ledyba/CycloaJS  
+* FPGA入门指南  
+* https://github.com/zephray/VerilogBoy  
+* https://www.youtube.com/watch?v=Ksbf-o1SBd4  
+* https://www.bilibili.com/video/BV1xW411572n  
+* https://www.bilibili.com/video/BV1Cq4y1473T  
+* https://github.com/haofanurusai/VerilogBoy-Zedboard  
+* https://tangramgames.dk/tobutobugirldx/  
+* https://github.com/SimonLarsen/tobutobugirl-dx  
