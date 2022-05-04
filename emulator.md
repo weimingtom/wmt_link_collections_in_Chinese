@@ -134,4 +134,6 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/SimonLarsen/tobutobugirl-dx  
 * litenes  
 * https://github.com/NJU-ProjectN/navy-apps/blob/ics2019/apps/litenes/src/fce.c  
+* fceux  
+* https://github.com/TASEmulators/fceux  
 
