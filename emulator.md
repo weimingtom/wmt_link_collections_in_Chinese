@@ -140,4 +140,10 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/yaglo/mynes  
 * fceux  
 * https://github.com/TASEmulators/fceux  
+* AdvanceMAME  
+* http://www.advancemame.it/  
+* https://github.com/amadvance/advancemame  
+* https://tieba.baidu.com/p/4973065276  
+
+
 
