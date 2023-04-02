@@ -148,6 +148,17 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/zid/gameboy  
 * https://github.com/lualiliu/esp32-gameboy  
 * https://github.com/Ryuzaki-MrL/Espeon  
+* 东山  
+* https://gitee.com/weidongshan/rpi_pico_100ask_infones  
+* https://gitee.com/weidongshan/esp32_100ask_project  
+* PicoBoy, gameboy  
+* https://github.com/codetiger/PicoBoy  
+* tp69 ?  
+* https://github.com/gaozichen2012/tp69-lvgl  
+* https://github.com/tscha70/MegaGamesCompilationPicoAdafruit  
+* nes  
+* https://github.com/baoshi/VGMPlayer  
+
 
 
 
