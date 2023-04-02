@@ -158,6 +158,9 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/tscha70/MegaGamesCompilationPicoAdafruit  
 * nes  
 * https://github.com/baoshi/VGMPlayer  
+* 梁山派  
+* https://gitee.com/lcsc/liangshan-pi-nes-game-console  
+* https://gitee.com/lcsc/game-ex-base-code  
 
 
 
