@@ -161,6 +161,9 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * 梁山派  
 * https://gitee.com/lcsc/liangshan-pi-nes-game-console  
 * https://gitee.com/lcsc/game-ex-base-code  
+* dino  
+* https://github.com/makerdiary/nrf52840-m2-devkit/tree/master/examples/python/dino  
+* https://github.com/danielkurek/dino-game-micropython  
 
 
 
