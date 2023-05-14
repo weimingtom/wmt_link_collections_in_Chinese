@@ -166,6 +166,9 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/danielkurek/dino-game-micropython  
 * GBA  
 * https://github.com/hsinyuwang/X-Boy  
+* fceux, ba4988, 6502    
+* https://gitee.com/BA4988/ba4988-decompile-environment  
+
 
 
 
