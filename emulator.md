@@ -168,7 +168,10 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/hsinyuwang/X-Boy  
 * fceux, ba4988, 6502    
 * https://gitee.com/BA4988/ba4988-decompile-environment  
-
+* gba, vba-next  
+* https://www.eetree.cn/project/detail/1496  
+* play_with_gba.zip  
+* https://github.com/libretro/vba-next  
 
 
 
