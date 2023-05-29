@@ -172,6 +172,8 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://www.eetree.cn/project/detail/1496  
 * play_with_gba.zip  
 * https://github.com/libretro/vba-next  
+* gb  
+* https://github.com/Martoni/GbHdmi  
 
 
 
