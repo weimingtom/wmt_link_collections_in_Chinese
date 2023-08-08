@@ -178,7 +178,9 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/rossumur/esp_8_bit
 * https://hackaday.com/2020/06/09/run-your-favorite-8-bit-games-on-an-esp32/
 * nes, nestang
-* (good) https://github.com/sipeed/TangNano-20K-example/tree/main/nestang  
+* (good) https://github.com/sipeed/TangNano-20K-example/tree/main/nestang
+* (auto start) https://github.com/sipeed/TangNano-20K-example/blob/main/nestang/src/sd_loader.v
+if (nes_btn[0] && total != 0) begin -> if (total != 0) begin  
 * (may build failed) https://github.com/nand2mario/nestang  
 
 
