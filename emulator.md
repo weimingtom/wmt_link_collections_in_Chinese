@@ -174,6 +174,12 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/libretro/vba-next  
 * gb  
 * https://github.com/Martoni/GbHdmi  
+* nes, 8bit
+* https://github.com/rossumur/esp_8_bit
+* https://hackaday.com/2020/06/09/run-your-favorite-8-bit-games-on-an-esp32/
+* nes, nestang
+* (good) https://github.com/sipeed/TangNano-20K-example/tree/main/nestang  
+* (may build failed) https://github.com/nand2mario/nestang  
 
 
 
