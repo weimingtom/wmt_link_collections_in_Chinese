@@ -181,7 +181,10 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * (good) https://github.com/sipeed/TangNano-20K-example/tree/main/nestang
 * (auto start) https://github.com/sipeed/TangNano-20K-example/blob/main/nestang/src/sd_loader.v  
 if (nes_btn[0] && total != 0) begin -> if (total != 0) begin  
-* (may build failed) https://github.com/nand2mario/nestang  
+* (may build failed) https://github.com/nand2mario/nestang
+* nofrendo  
+* https://github.com/moononournation/arduino-nofrendo
+* https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino  
 
 
 
