@@ -184,7 +184,8 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * (may build failed) https://github.com/nand2mario/nestang
 * nofrendo  
 * https://github.com/moononournation/arduino-nofrendo
-* https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino  
+* https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino
+* https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/examples/NES/NES.ino  
 
 
 
