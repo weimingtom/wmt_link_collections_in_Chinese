@@ -188,5 +188,8 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/examples/NES/NES.ino  
 * 44gba, esp32s3  
 * https://github.com/44670/44gba  
-* https://www.bilibili.com/video/BV1YF411g7zN  
+* https://www.bilibili.com/video/BV1YF411g7zN
+* RunCPM  
+* https://github.com/coopzone-dc/RunCPM/tree/master  
+* https://olimex.wordpress.com/2023/05/29/esp32-sbc-fabgl-tested-with-runcpm-5-7-and-6-0-tinycpc-amstrad-tinynes-tinymcume/  
 
