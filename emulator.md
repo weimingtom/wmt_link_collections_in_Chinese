@@ -192,4 +192,9 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * RunCPM  
 * https://github.com/coopzone-dc/RunCPM/tree/master  
 * https://olimex.wordpress.com/2023/05/29/esp32-sbc-fabgl-tested-with-runcpm-5-7-and-6-0-tinycpc-amstrad-tinynes-tinymcume/  
+* arm nes
+* https://github.com/search?q=NesEmulate+Author+nejidev&type=code
+* https://github.com/LubanCat/embed_qt_develop_tutorial_code
+* https://github.com/ndevel/embed_qt_develop_tutorial_code
+
 
