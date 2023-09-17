@@ -196,5 +196,8 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://github.com/search?q=NesEmulate+Author+nejidev&type=code
 * https://github.com/LubanCat/embed_qt_develop_tutorial_code
 * https://github.com/ndevel/embed_qt_develop_tutorial_code
+* FunkeyBoy
+* https://github.com/kremi151/FunkyBoy  
+
 
 
