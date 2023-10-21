@@ -213,5 +213,6 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * rpi pico infones  
 * https://gitee.com/weidongshan/rpi_pico_100ask_infones
 * T-Display-S3 nes  
-* https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino  
+* https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino
+* baidupan, nes_td3s_v2_libraries.rar  
 
