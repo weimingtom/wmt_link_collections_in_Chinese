@@ -215,4 +215,5 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * T-Display-S3 nes  
 * https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino
 * baidupan, nes_td3s_v2_libraries.rar  
-
+* esp32_100ask_project, nofrendo  
+* https://gitee.com/weidongshan/esp32_100ask_project/tree/master/lib/nofrendo/src  
