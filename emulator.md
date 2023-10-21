@@ -198,6 +198,19 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://github.com/ndevel/embed_qt_develop_tutorial_code
 * FunkyBoy  
 * https://github.com/kremi151/FunkyBoy  
-
+* fc nes rom  
+* https://gitee.com/weimingtom/LCD-show/repository/archive/master.zip  
+* https://gitee.com/ycsfyp/v3s-board/blob/master/rootfs.tar.gz  
+* mt7688 fceu320, fc  
+* https://gitee.com/weimingtom/mt7688_src/tree/master/fceu320  
+* w801-exnes  
+* https://gitee.com/uyami/w801-exnes/blob/master/demo/vm_nes_demo.c  
+* gbox nes  
+* https://gitee.com/yvany/gbox_nes  
+* f1c100s infones  
+* https://gitee.com/whycan/f1c100s_buildroot  
+* https://gitee.com/whycan/f1c100s_buildroot/blob/master/board/f1c100s/apps/infones/linux/InfoNES_System_Linux.cpp
+* rpi pico infones  
+* https://gitee.com/weidongshan/rpi_pico_100ask_infones  
 
 
