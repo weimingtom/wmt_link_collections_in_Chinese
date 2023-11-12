@@ -217,3 +217,7 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * baidupan, nes_td3s_v2_libraries.rar  
 * esp32_100ask_project, nofrendo  
 * https://gitee.com/weidongshan/esp32_100ask_project/tree/master/lib/nofrendo/src  
+* retro-go-stm32
+* https://github.com/BrianPugh/game-and-watch-patch
+* https://github.com/kbeckmann/game-and-watch-retro-go
+* https://github.com/kbeckmann/retro-go-stm32/tree/c3d9d49a0acd1e7f0101e4fa1a3552239ab6964f
