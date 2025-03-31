@@ -221,3 +221,7 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://github.com/BrianPugh/game-and-watch-patch
 * https://github.com/kbeckmann/game-and-watch-retro-go
 * https://github.com/kbeckmann/retro-go-stm32/tree/c3d9d49a0acd1e7f0101e4fa1a3552239ab6964f
+* 44vba, vba-next fork, gba  
+* https://github.com/44670/44vba  
+* https://www.eetree.cn/project/detail/1496
+* https://github.com/libretro/vba-next  
