@@ -105,3 +105,6 @@ Tomcat+java+web+开发技术详解-孙卫琴-第二版
 
 ## Windows  
 * Programming the Microsoft Windows Driver Model  
+
+## 联发科   
+* MTK芯片开发指南   
