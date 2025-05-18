@@ -65,6 +65,8 @@ http://inventwithpython.com/
 Unity游戏设计与实现：南梦宫一线程序员的开发实例  
 http://www006.upp.so-net.ne.jp/chewee/uni-mini-hon/index.htm  
 
+* MTK芯片开发指南, 联发科    
+
 ## Language 
 * C Interfaces and Implementations  
 C语言接口与实现  
@@ -105,6 +107,3 @@ Tomcat+java+web+开发技术详解-孙卫琴-第二版
 
 ## Windows  
 * Programming the Microsoft Windows Driver Model  
-
-## 联发科   
-* MTK芯片开发指南   
