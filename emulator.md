@@ -158,9 +158,12 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/tscha70/MegaGamesCompilationPicoAdafruit  
 * nes  
 * https://github.com/baoshi/VGMPlayer  
-* 梁山派, nes    
+* 梁山派, nes, asm code from ye781205 (from 正点原子论坛 http://www.openedv.com ? )    
 * https://gitee.com/lcsc/liangshan-pi-nes-game-console  
 * https://gitee.com/lcsc/game-ex-base-code  
+* https://blog.csdn.net/2302_81678505/article/details/144169437
+* https://whycan.com/p_76805.html
+* https://github.com/VeiLiang/BoloRTT/tree/master/bsp/f1c/package/vnes
 * dino  
 * https://github.com/makerdiary/nrf52840-m2-devkit/tree/master/examples/python/dino  
 * https://github.com/danielkurek/dino-game-micropython  
