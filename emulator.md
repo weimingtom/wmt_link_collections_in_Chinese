@@ -231,3 +231,7 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://github.com/44670/44vba  
 * https://www.eetree.cn/project/detail/1496
 * https://github.com/libretro/vba-next  
+* nofrendo for NumWorks calculator
+* https://yaya-cout.github.io/Nwagyu/guide/apps/nofrendo.html#how-to-play
+* https://github.com/nwagyu/nofrendo
+* https://codeberg.org/Yaya-Cout/nofrendo
