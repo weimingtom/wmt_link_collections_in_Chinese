@@ -235,3 +235,5 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://yaya-cout.github.io/Nwagyu/guide/apps/nofrendo.html#how-to-play
 * https://github.com/nwagyu/nofrendo
 * https://codeberg.org/Yaya-Cout/nofrendo
+* tiny386, ESP32 (and ESP32-S3) dos and win95 and linux emulator    
+* https://github.com/hchunhui/tiny386  
