@@ -236,4 +236,6 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://github.com/nwagyu/nofrendo
 * https://codeberg.org/Yaya-Cout/nofrendo
 * tiny386, ESP32 (and ESP32-S3) dos and win95 and linux emulator    
-* https://github.com/hchunhui/tiny386  
+* https://github.com/hchunhui/tiny386
+* https://blog.adafruit.com/2025/11/10/tiny386-an-i386-pc-emulator-written-in-c99-that-boots-windows-95-on-esp32
+* https://x.com/adafruit/status/1987924088904413408
