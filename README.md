@@ -716,14 +716,14 @@ http://tieba.baidu.com/p/776448917
 ```
 * 摘录自BSP-D3说明书，不完整，和原文有不同
 ```
-按住A再按电源开机键：安卓ShootingPlus V3模式（鸿蒙系统相同），蓝牙显示BSP-D3，LED1灯慢闪变长亮
-按住Y再按电源开机键：iOS ShootingPlus V3模式（关注公众号ShootingPlus和下载ShootingPlusV3 App），蓝牙显示BSP-D3，LED2灯慢闪变长亮
-按住X再按电源开机键：安卓标准模式，蓝牙显示BSP-D3，LED2灯快闪变慢闪变长亮
-按住B再按电源开机键：iOS MFi模式，蓝牙显示DUALSHOCK4 Wireless Controller，LED3灯慢闪变长亮
-按住R1（RB）再按电源开机键：PC X-input蓝牙模式，PC蓝牙显示Xbox Wireless Controller，LED1+LED2灯慢闪变长亮
+按住A（下交叉）再按电源开机键：安卓ShootingPlus V3模式（鸿蒙系统相同），蓝牙显示BSP-D3，LED1灯慢闪变长亮
+按住Y（上三角）再按电源开机键：iOS ShootingPlus V3模式（关注公众号ShootingPlus和下载ShootingPlusV3 App），蓝牙显示BSP-D3，LED2灯慢闪变长亮
+(IMP) 按住X（左方块）再按电源开机键：安卓标准模式，蓝牙显示BSP-D3，LED2灯快闪变慢闪变长亮
+按住B（右圆圈）再按电源开机键：iOS MFi模式，蓝牙显示DUALSHOCK4 Wireless Controller，LED3灯慢闪变长亮
+（IMP）按住R1（RB）再按电源开机键：PC X-input蓝牙模式，PC蓝牙显示Xbox Wireless Controller，LED1+LED2灯慢闪变长亮
 按住R2（RT）再按电源开机键：SWITCH模式，Switch主机的Press L+R on the controller，LED1+LED2灯慢闪变长亮
 PS3和PS4的TypeC数据线：PS3，PS4模式，LED1+LED2灯慢闪变LED3长亮
-PC4的TypeC数据线：有线模式，LED1+LED2灯慢闪变LED3长亮，按开机键2秒对D-input和X-input之间切换
+（IMP）PC的TypeC数据线：有线模式，LED1+LED2灯慢闪变LED3长亮，按开机键2秒对D-input和X-input之间切换
 按住L1再按电源开机键：2.4G模式连接到选配的无线接收器，LED1+LED2灯慢闪变长亮
 背部扩展：按住SEL+M1，录制或者清除
 ```
