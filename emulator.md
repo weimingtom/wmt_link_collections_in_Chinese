@@ -168,7 +168,8 @@ https://github.com/tonyjih/PocketSNES-for-RetroGame
 * https://github.com/makerdiary/nrf52840-m2-devkit/tree/master/examples/python/dino  
 * https://github.com/danielkurek/dino-game-micropython  
 * GBA  
-* https://github.com/hsinyuwang/X-Boy
+* https://github.com/hsinyuwang/X-Boy  
+* https://github.com/uid-serendipity/X-Boy-Plus  
 * https://bbs.aw-ol.com/topic/1679/司徒gpsp游戏机模拟器源码移植到全志v3s-r11等soc-转
 * https://bbs.aw-ol.com/topic/3730/t113-tina-linux-移植-gpsp-模拟器
 * hsinyuwang_gpsp-main.zip  
