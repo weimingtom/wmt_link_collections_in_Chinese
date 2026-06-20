@@ -240,3 +240,10 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://github.com/hchunhui/tiny386
 * https://blog.adafruit.com/2025/11/10/tiny386-an-i386-pc-emulator-written-in-c99-that-boots-windows-95-on-esp32
 * https://x.com/adafruit/status/1987924088904413408
+* 100ask LVGL nes (from infones)
+* https://github.com/100askTeam/lv_lib_100ask/tree/master/src/lv_100ask_nes
+* https://gitee.com/weidongshan/rpi_pico_100ask_infones
+* https://gitee.com/weidongshan/esp32_100ask_project/tree/master/lib/nofrendo
+* https://download.100ask.org/gui/lvgl/100ask_lvgl.html
+* http://lvgl.100ask.net/
+* search baidupan, 100ASK_LVGL_DEMO.zip
