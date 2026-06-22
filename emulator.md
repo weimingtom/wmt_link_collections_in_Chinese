@@ -247,3 +247,6 @@ if (nes_btn[0] && total != 0) begin -> if (total != 0) begin
 * https://download.100ask.org/gui/lvgl/100ask_lvgl.html
 * http://lvgl.100ask.net/
 * search baidupan, 100ASK_LVGL_DEMO.zip
+* LVGL NES 模拟器, lv_nes.tar.gz
+* (not found) https://www.aw-ol.com/downloads?cat=18
+* https://docs.aw-ol.com/docs/old-docs/v853/gui/lvgl_nes
